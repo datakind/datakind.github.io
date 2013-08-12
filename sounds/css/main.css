@@ -1,0 +1,71 @@
+body {
+	background:#ffffff url('../img/bg-texture.png') top left repeat;
+}
+
+#main {
+	position: relative;
+	width: 960px;
+	margin: 0px auto;
+}
+
+header {
+	margin-top: 50px;
+}
+
+h1, h2 {
+	font-family: helvetica;
+	text-align: center
+}
+
+h1 {
+	font-size: 80px;
+	text-shadow: 1px 1px 1px #ccc;
+}
+
+#data {
+	color: red 
+}
+
+#kind {
+	color: orange;
+}
+
+#sb {
+	font-size:40px;
+}
+
+#sb, h2 {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 200;
+	color: #333;
+}
+
+.sound {
+	width: 280px;
+	height: 280px;
+	display: inline-block;
+	margin: 18px;
+}
+
+button {
+	position: relative;
+	display: block !important;
+	margin: 0px auto;
+	top: 235px;
+}
+
+#signed {
+	background-image: url('../img/signed.png');
+}
+
+#simmons {
+	background-image: url('../img/simmons.png');	
+}
+
+#dayum2 {
+	background-image: url('../img/dayum.png');	
+}
+
+#standup {
+	background-image: url('../img/standup.png');	
+}

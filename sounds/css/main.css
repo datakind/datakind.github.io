@@ -76,6 +76,10 @@ button {
 #FuckIt {
 	background-image: url('../img/doitlive.jpg');
 }
-#SoSorry {
+#sosorry {
 	background-image: url('../img/sosorry.png');
-}	
+}
+
+#doItNow {
+	background-image: url('../img/doItNow.jpg')
+}

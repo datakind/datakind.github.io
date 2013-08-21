@@ -11,7 +11,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-
+        <link rel="icon" type="image/png" href="img/favicon.png">
         <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/main.css">
     </head>
@@ -38,11 +38,18 @@
                 <div class="sound" id="dayum2">
                     <button class="btn btn-warning">DAYUM, DAYUM, DAYUM</button> 
                 </div>
+                <div class="sound" id="push-it">
+                    <button class="btn btn-warning">PUSH IT!</button> 
+                </div>
+                <div class="sound" id="FuckIt">
+                    <button class="btn btn-warning">FUCK IT, WE'LL DO IT LIVE!</button> 
+                </div>  
+<div class="sound" id="sosorry">
+                    <button class="btn btn-warning">So Sorry</button> 
+                </div>              
             </div>            
         </div>
-        <audio id="audio_player">
-            <source src="" type="audio/mp3">
-        </audio>
+        <audio id="audio_player"><source src="" type="audio/mp3"></audio>
         
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
@@ -53,7 +60,6 @@
                 var src = 'audio/' + $(this).parent().attr('id') + '.mp3'
                 player.src = src
                 player.play()
-                console.log(player)
             })
         </script>
     </body>

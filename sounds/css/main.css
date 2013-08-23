@@ -81,5 +81,9 @@ button {
 }
 
 #doItNow {
-	background-image: url('../img/doItNow.jpg')
+	background-image: url('../img/doItNow.jpg');
+}
+
+#sorryDave{
+	background-image: url('../img/hal.png');
 }

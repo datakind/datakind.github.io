@@ -45,6 +45,7 @@ h1 {
 	height: 280px;
 	display: inline-block;
 	margin: 18px;
+	background-size: cover;
 }
 
 button {
@@ -81,5 +82,9 @@ button {
 }
 
 #doItNow {
-	background-image: url('../img/doItNow.jpg')
+	background-image: url('../img/doItNow.jpg');
+}
+
+#sorryDave{
+	background-image: url('../img/hal.png');
 }

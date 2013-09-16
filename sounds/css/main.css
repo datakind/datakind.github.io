@@ -13,13 +13,15 @@ header {
 }
 
 h1, h2 {
-	font-family: helvetica;
+	font-family: Helvetica, Arial, "Lucida Grande", sans-serif;;
 	text-align: center
 }
 
 h1 {
 	font-size: 80px;
 	text-shadow: 1px 1px 1px #ccc;
+	color:orange;
+	font-weight: bolder;
 }
 
 #data {

@@ -26,45 +26,19 @@
                 <h2>Sounds in the service of hilarity</h2>
             </header>
             <div id="sounds">
-                <div class="sound" id="signed">
-                    <button class="btn btn-warning">SIGNED, SEALED, DELIVERED</button> 
-                </div>
-                <div class="sound" id="standup">
-                    <button class="btn btn-warning">STAND UP</button> 
-                </div>
-                <div class="sound" id="simmons">                    
-                    <button class="btn btn-warning">DAH DAH DAH DAH</button> 
-                </div>
-                <div class="sound" id="dayum2">
-                    <button class="btn btn-warning">DAYUM, DAYUM, DAYUM</button> 
-                </div>
-                <div class="sound" id="push-it">
-                    <button class="btn btn-warning">PUSH IT!</button> 
-                </div>
-  <div class="sound" id="livebreath">
-                    <button class="btn btn-warning">About Jake</button> 
-                </div>
-                <div class="sound" id="FuckIt">
-                    <button class="btn btn-warning">FUCK IT, WE'LL DO IT LIVE!</button> 
-                </div>  
-		        <div class="sound" id="sosorry">
-                    <button class="btn btn-warning">So Sorry</button> 
-                </div>
-        		<div class="sound" id="doItNow">
-        		    <button class="btn btn-warning">DO IT NOW!!</button>
-        		</div>   
-                <div class="sound" id="trombone">
-        		    <button class="btn btn-warning">Sad Trombone</button>
-        		</div>
-                <div class="sound" id="finalCountdown">
-                    <button class="btn btn-warning">The Final Countdown</button>
-                </div>
-                <div class="sound" id="sorryDave">
-                    <button class="btn btn-warning">I'm sorry Dave</button>
-                </div>
-                <div class="sound" id="chainGang">
-                    <button class="btn btn-warning">BACK ON THE CHAIN GANG</button>
-                </div>
+                <div class="sound btn btn-xlarge" id="signed"></div>
+                <div class="sound btn btn-xlarge" id="standup"></div>
+                <div class="sound btn btn-xlarge" id="simmons"></div>
+                <div class="sound btn btn-xlarge" id="dayum2"></div>
+                <div class="sound btn btn-xlarge" id="push-it"></div>
+                <div class="sound btn btn-xlarge" id="livebreath"></div>
+                <div class="sound btn btn-xlarge" id="FuckIt"></div>
+		        <div class="sound bnt btn-xlarge" id="sosorry"></div>
+        		<div class="sound btn btn-xlarge" id="doItNow"></div>
+                <div class="sound btn btn-xlarge" id="trombone"></div>
+                <div class="sound btn btn-xlarge" id="finalCountdown"></div>
+                <div class="sound btn btn-xlarge" id="sorryDave"></div>
+                <div class="sound btn btn-xlarge" id="chainGang"></div>
             </div>
 
             </div>            
@@ -76,8 +50,8 @@
         <script src="js/main.js"></script>
         <script>
             var player = document.getElementById('audio_player')
-            $('.sound button').click(function(){
-                var src = 'audio/' + $(this).parent().attr('id') + '.mp3'
+            $('.sound').click(function(){
+                var src = 'audio/' + $(this).attr('id') + '.mp3'
                 player.src = src
                 player.play()
             })

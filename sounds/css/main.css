@@ -24,6 +24,15 @@ h1 {
 	font-weight: bolder;
 }
 
+/**
+ * Extra large button extensions. Extends `.btn`.
+ */
+.btn-xlarge {
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+    }
+
 #sb {
 	font-size:40px;
 }
@@ -51,14 +60,10 @@ h1 {
 	width: 280px;
 	height: 280px;
 	flex: 280px;
-	/*background-size: cover;*/
-}
-
-button {
-	position: relative;
-	display: block !important;
-	margin: 0px auto;
-	top: 235px;
+	background-size: cover;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;	
 }
 
 #signed {

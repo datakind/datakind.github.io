@@ -40,12 +40,24 @@ h1 {
 	color: #333;
 }
 
+#main {
+	position: relative;
+	width: 75%;
+	margin: 0px auto;
+}
+
+#sounds{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
 .sound {
+	margin: 18px;
 	width: 280px;
 	height: 280px;
-	display: inline-block;
-	margin: 18px;
-	background-size: cover;
+	flex: 280px;
+	/*background-size: cover;*/
 }
 
 button {

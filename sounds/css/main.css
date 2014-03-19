@@ -13,22 +13,25 @@ header {
 }
 
 h1, h2 {
-	font-family: helvetica;
+	font-family: Helvetica, Arial, "Lucida Grande", sans-serif;;
 	text-align: center
 }
 
 h1 {
 	font-size: 80px;
 	text-shadow: 1px 1px 1px #ccc;
+	color:orange;
+	font-weight: bolder;
 }
 
-#data {
-	color: red 
-}
-
-#kind {
-	color: orange;
-}
+/**
+ * Extra large button extensions. Extends `.btn`.
+ */
+.btn-xlarge {
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+    }
 
 #sb {
 	font-size:40px;
@@ -40,19 +43,28 @@ h1 {
 	color: #333;
 }
 
-.sound {
-	width: 280px;
-	height: 280px;
-	display: inline-block;
-	margin: 18px;
-	background-size: cover;
+#main {
+	position: relative;
+	width: 75%;
+	margin: 0px auto;
 }
 
-button {
-	position: relative;
-	display: block !important;
-	margin: 0px auto;
-	top: 235px;
+#sounds{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.sound {
+	margin: 18px;
+	width: 280px;
+	height: 280px;
+	flex: 280px;
+	background-size: cover;
+	box-shadow: 2px 2px 10px gray;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;	
 }
 
 #signed {
@@ -70,6 +82,11 @@ button {
 #standup {
 	background-image: url('../img/standup.png');	
 }
+
+#getupstandup {
+	background-image: url('../img/getupstandup.png');	
+}
+
 
 #push-it {
 	background-image: url('../img/salt-n-pepa.png');
@@ -98,4 +115,8 @@ button {
 
 #finalCountdown{
 	background-image: url('../img/finalCountdown.jpeg');
+}
+
+#chainGang{
+	background-image: url('../img/Pretenders_album.jpg');
 }

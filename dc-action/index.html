@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+<script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+<style>
+
+
+#hoods {
+  fill: #aaa;
+}
+
+.hood {
+  fill: gray;
+  stroke: white;
+  stroke-width: 1;
+}
+
+.active {
+  fill: orange;
+}
+
+#info {
+  position: absolute;
+  top:0px;
+  left: 60px;
+}
+
+#info ul {
+  padding: 9px;
+}
+
+#info li {
+  font-family: helvetica;
+  font-weight: 300;
+  list-style-type: none;
+  margin: 10px 0px;
+  font-size: 18px;
+}
+
+li:hover {
+  background-color: rgba(100,100,100,.4);
+  float:left;
+}
+
+#info h1 {
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 54px;
+}
+
+</style>
+<body>
+  <div id="info">
+    <h1>Washington DC</h1>
+    <ul>
+      <li>Education</li>
+      <li>Day Care</li>
+      <li>Health</li>
+    </ul>
+  </div>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script>
+var width = window.innerWidth,
+    height = window.innerHeight,
+    centered;
+
+var svg = d3.select('body').append('svg')
+    .attr('width', width)
+    .attr('height', height);
+
+var g = svg.append('g');
+
+var projection = d3.geo.mercator()
+                    .scale(120000)
+                    .center([-77.1367, 38.9351])
+
+var path = d3.geo.path()
+    .projection(projection);                    
+
+d3.json('dc.json', function(dc) {
+
+    g.selectAll('path')
+      .data(dc.features)
+    .enter().append('path')
+      .attr('class', 'hood')
+      .attr('id', function(d){
+          var id = d.properties.NAME.replace(/\s+/g, '-').toLowerCase()
+          return id
+      })
+      .attr('d', path)
+      .on('click', clicked)
+      .on('mouseover', function(d){
+        console.log('stuff is happening')
+        d3.select(this).classed('active', true)
+      })
+      .on('mouseout', function(d){
+        d3.select(this).classed('active', false)
+      })
+
+})
+
+function clicked(d) {
+  var x, y, k;
+
+  if (d && centered !== d) {
+    var centroid = path.centroid(d);
+    x = centroid[0];
+    y = centroid[1];
+    k = 4;
+    centered = d;
+    d3.select('#info h1').html(d.properties.NAME)
+  } else {
+    x = width / 2;
+    y = height / 2;
+    k = 1;
+    centered = null;
+    d3.select('#info h1').html('Washington DC')
+  }
+
+  g.selectAll("path")
+      .classed("active", centered && function(d) { return d === centered; });
+
+  g.transition()
+      .duration(750)
+      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
+      .style("stroke-width", 1.5 / k + "px");
+}
+
+</script>

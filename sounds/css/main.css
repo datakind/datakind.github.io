@@ -64,7 +64,7 @@ h1 {
 	box-shadow: 2px 2px 10px gray;
     -webkit-border-radius: 8px;
        -moz-border-radius: 8px;
-            border-radius: 8px;	
+            border-radius: 8px;
 }
 
 #signed {
@@ -72,28 +72,28 @@ h1 {
 }
 
 #simmons {
-	background-image: url('../img/simmons.png');	
+	background-image: url('../img/simmons.png');
 }
 
 #dayum2 {
-	background-image: url('../img/dayum.png');	
+	background-image: url('../img/dayum.png');
 }
 
-#standup {
-	background-image: url('../img/standup.png');	
+#standup, .standup {
+	background-image: url('../img/standup.png');
 }
 
-#getupstandup {
-	background-image: url('../img/getupstandup.png');	
+#getupstandup, .getupstandup {
+	background-image: url('../img/getupstandup.png');
 }
 
 
 #push-it {
 	background-image: url('../img/salt-n-pepa.png');
-}	
+}
 #livebreath {
 	background-image: url('../img/livebreath.png');
-}	
+}
 #FuckIt {
 	background-image: url('../img/doitlive.jpg');
 }
@@ -126,7 +126,7 @@ h1 {
 }
 
 #liljon {
-	background-image: url('../img/liljon.jpg');	
+	background-image: url('../img/liljon.jpg');
 }
 
 #ontothenext {
@@ -150,25 +150,25 @@ h1 {
 }
 
 #peterpokes {
-	background-image: url('../img/peterpokes.jpg')	
+	background-image: url('../img/peterpokes.jpg')
 }
 
 #alpacino {
-	background-image: url('../img/alpacino.jpg')	
+	background-image: url('../img/alpacino.jpg')
 }
 
 #CanCan {
-	background-image: url('../img/CanCan.jpg')	
+	background-image: url('../img/CanCan.jpg')
 }
 
 #TimesUp1 {
-	background-image: url('../img/TimesUp1.jpg')	
+	background-image: url('../img/TimesUp1.jpg')
 }
 
 #TimesUp2 {
-	background-image: url('../img/TimesUp2.jpg')	
+	background-image: url('../img/TimesUp2.jpg')
 }
 
 #carmensandiego {
-	background-image: url('../img/carmensandiego.png')	
+	background-image: url('../img/carmensandiego.png')
 }

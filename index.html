@@ -1,22 +1,357 @@
-<!doctype html>
+
+<!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content= "#24292e">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, user-scalable=no">
+    <meta name="ha-url" content="https://collector.githubapp.com/github-social-impact/collect">
+    <!-- <script src="https://analytics.githubassets.com/hydro-marketing.min.js"></script> -->
 
-  <title>DataKind</title>
-</head>
-Placeholder, full site forthcoming.
-<br><br>
-Rerouting to http://www.datakind.org/ ...
-<body>
+    <!--[if IE]><meta http-equiv="cleartype" content="on" /><![endif]-->
+    <link rel="canonical" href="https://socialimpact.github.com/developers/intro-to-open-source/">
+    <link rel="alternate" type="application/rss+xml" title="GitHub Social Impact" href="/feed.xml">
 
-<script type="text/javascript">
-	setTimeout(function() {
-		window.location = "http://www.datakind.org/";
-	}, 1250)
-</script>
+    <link rel="stylesheet" href="https://use.typekit.net/fhk4uct.css">
 
-</body>
+    <link rel="stylesheet" media="screen" href="assets/css/index.css" />
+    <link rel="shortcut icon" type="image/ico" href="assets/img/favicons/favicon.png" />
+    <link rel="apple-touch-icon" href="assets/img/favicons/apple-touch-icon.png" />
+    <link rel="icon" href="assets/img/favicons/android-favicon.png">
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title> DataKind Playbook </title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="The DataKind Playbook: Using AI and Data Science at Social Impact Organizations" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="DataKind harnesses the power of data science and AI in the service of humanity." />
+<meta property="og:description" content="DataKind harnesses the power of data science and AI in the service of humanity." />
+<link rel="canonical" href="https://datakind.org" />
+<meta property="og:url" content="https://datakind.org" />
+<meta property="og:site_name" content="DataKind website" />
+<meta property="og:image" content="assets/img/DK_playbook_org.svg" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="assets/img/DK_playbook_org.svg" />
+<meta property="twitter:title" content="The DataKind Playbook: Using AI and Data Science at Social Impact Organizations" />
+<meta name="twitter:site" content="@datakind" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"DataKind harnesses the power of data science and AI in the service of humanity.","headline":"The DataKind Playbook: Using AI and Data Science at Social Impact Organizations","url":"https://datakind.org/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+
+    <style type="text/css">
+      *[data-animate-in="up"],
+      *[data-animate-in="fade"],
+      *[data-animate-in="left"],
+      *[data-animate-in="right"] {
+        opacity: 0;
+      }
+    </style>
+    <script src="assets/js/jquery.min.js"></script>
+    
+  </head>
+
+  <body class="page-loading no-js developers-intro" id="page-developers-intro">
+    <a class="skip-to-content" href="#content">skip to content</a>
+
+    <header class="site-header text-black" id="site-header">
+
+	<div class="container-wide">
+		<div class="site-branding">
+			<a href="https://datakind.github.io/playbook-revamp/">
+        <img src="assets/img/DK_playbook_org.svg" alt="DataKind logo logo" />
+        <span class="sr-only">Return to homepage</span>
+			</a>
+		</div>
+
+		<ul class="desktop-navigation" style="color:black">
+
+      <li class="has-sub-nav">
+				<a href="projectstages.html">
+          <span>Project Stages</span>
+					<svg height="16" class="octicon octicon-chevron-down" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z"></path></svg>
+				</a>
+
+				<ul class="sub-nav">
+					<li>
+						<a href="discovery.html">Discovery</a>
+					</li>
+					<li>
+						<a href="design.html">Design</a>
+					</li>
+					<li>
+						<a href="prepare.html">Prepare</a>
+					</li>
+					<li>
+						<a href="execute.html">Execute</a>
+					</li>
+          <li>
+						<a href="share.html">Share</a>
+					</li>
+          <li>
+						<a href="evaluate.html">Evaluate</a>
+					</li>
+				</ul>
+			</li><li>
+				
+			</li>
+
+			</li>
+      <li class="has-sub-nav">
+				<a href="SIOs.html">
+          <span>Social Impact Organizations</span>
+					<svg height="16" class="octicon octicon-chevron-down" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z"></path></svg>
+				</a>
+
+				<ul class="sub-nav">
+					<li>
+						<a href="scoping.html">Data Project Scoping</a>
+					</li>
+					<li>
+						<a href="genai.html">Generative AI</a>
+					</li>
+				</ul>
+			</li>
+
+
+      <li class="has-sub-nav">
+				<a href="/Volunteers.html">
+					<span>Volunteers</span>
+					<svg height="16" class="octicon octicon-chevron-down" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z"></path></svg>
+				</a>
+
+				<ul class="sub-nav">
+					<li>
+						<a href="Volunteers.html">Getting Started</a>
+					</li>
+					<li>
+						<a href="donate.html">Donate</a>
+					</li>
+				</ul>
+			</li>
+      
+			<li>
+				<a href="chaptermanagements.hmtl">Chapter Management</a>
+			</li>
+		</ul>
+
+
+		<div class="burger js-menu-trigger">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 4H21V6H3V4ZM3 11H21V13H3V11ZM3 18H21V20H3V18Z" fill="rgba(255,255,255,1)"></path></svg>
+		</div>
+	</div>
+</header>
+
+
+    <main id="content" class="main page-content" aria-label="Content">
+      <article>
+  <header class="hero-banner hero-banner--auto-height">
+    <div class="wrapper">
+      <div class="hero-banner__content" data-animate-in="up">
+        <h1 class="h0 mt-0 mb-4 text-black">Welcome to the DataKind Playbook</h1>
+        <h2 class="p f2 text-black col-lg-10">The DataKind Playbook is our global, user-centered knowledge base for implementing a data-for-good project. Following our standards and best practices, learn how we work at DataKind and share your ideas for how we can iterate!</h2>
+      </div>
+    </div>
+    <!-- <img class="hero-banner__bg" src="assets/img/direction/intro-hero.png" alt="Skilling, Equity & Community" /> -->
+  </header>
+
+  <div class="wrapper mt-6 pt-6 pt-md-4 pb-4">
+    <div class="skill-level">
+      <p>
+        <b>Intended audience:</b>
+        <span>DataKind Volunteers and Social Impact Professionals</span>
+      </p>
+    </div>
+  </div>
+
+  <div class="wrapper-thin-alt py-6 mb-6 rte long-form">
+
+    <h4>Introduction to the Playbook</h4>
+    <p>The Playbook is a living knowledge base that enables the reader to design and implement a Data Science and AI for Good project following DataKind’s approach. The Playbook codifies the lessons we’ve learned from our failures and successes for use on future projects, making it easier for DataKinders around the globe to do the best work possible through sharing knowledge and resources</a>.</p>
+    <!-- <img src="assets/img/direction/a03.png" alt="" /> -->
+
+    <h5>About DataKind</h5>
+    <p>DataKind tackles the world’s toughest challenges with data science and AI to improve the capabilities, reach, and scale of social impact organizations. Check out our website to learn more about <a href="https://www.datakind.org/about-us/our-story/" target="_blank">our story</a>, <a href="https://www.datakind.org/our-work/datakind-products/" target = "_blank">our approach</a>, and <a href="https://www.datakind.org/our-values/" target="_blank">our values</a>.</p>
+
+    <h5>About the Playbook</h5>
+    <p>The Playbook was developed by DataKind staff, in partnership with volunteers, to be a central source of the best practices and resources we’ve developed over a decade of Data Science and AI for Good projects. If you’re curious, you can read a full writeup of the Playbook development process. We continuously review and update the playbook based on our latest work and feedback from users, so let us know what you think!</p>
+
+    <h5>Playbook Guiding Principles</h5>
+    <p>The primary audience for the Playbook is DataKind volunteers to guide them in their work, but it’s also useful for data professionals supporting social sector actors more broadly. The Playbook is maintained around these three guiding principles:</p>
+
+    <ol>
+      <li><b>A living document:</b> We are constantly learning; the Playbook is designed to be continuously updated as our processes and recommendations evolve.</li>
+      <li><b>A set of standards:</b> We document project standards to ensure that all of our work is high quality technically, and with equity, justice, and co-liberation top of mind across our global network.</li>
+      <li><b>An answer to the question “how do I do this?”: </b> The Playbook exists to answer the questions of HOW to do various components of a project. Recognizing that all projects are different and processes need to be flexible, the articles include a variety of options for the “how,” so that the method can be adjusted to the cultural context and specific needs of the project.</li>
+    </ol>
+
+    <hr class="my-6" />
+
+    <!-- <h4>Frequently Asked Questions</h4> -->
+
+    <!-- <p>You can also watch this video demo of the Playbook to learn how to navigate the Playbook and what to expect. If you still have questions, read on!</p>
+    <ul>
+      <li><b>How do I get started?</b></li>
+      <ol>
+        <li>Explore the Playbook! Click around the various sections to get an idea of the overall structure and the types of articles it contains.</li>
+        <li>Add your ideas, experiences, and best practices to Playbook articles using the “Offer edit” button.</li>
+        <li>Use the Playbook as you’re moving forward with new projects - review each article relevant to the project stage that you are in throughout the project process.</li>
+        <li>Bookmark the Playbook to come back to whenever you have a question so that you can review the relevant resources at each point in the process.</li>
+      </ol>
+      <li><b>Why can't I offer an edit to the articles?</b></li>
+      <ul>
+        <li>It could be because you don't have a signed volunteer agreement on file with DataKind, the email address you used is not the one in our volunteer database, or something is broken behind the scenes. Reach out to us through the “Provide Feedback, Ask Questions” button if you are having trouble.</li>
+      </ul>
+      <li><b>I encountered an unfamiliar term, what does it mean?</b></li>
+      <ul>
+        <li>If you encounter an unfamiliar term, refer to our terminology page for more information.</li>
+      </ul>
+      <li><b>How do I provide feedback or ask questions?</b></li>
+      <ul>
+        <li>At the bottom of the menu on the lefthand side of the screen, there is a button that says “Provide Feedback, Ask Questions!” Additionally, you can reach out to community@datakind.org and someone will get back to you. You can also use our Office Hours to schedule a meeting with someone at DataKind.</li>
+      </ul>
+    </ul> -->
+
+    
+    </div>
+    <div class="wrapper-full bg-white py-6">
+      <div class="wrapper  py-6">
+        <h3 class="h3 mt-0 mb-3 text-center">FAQs</h3>
+        <div class="col-md-10 col-lg-8 mx-auto">
+          <p text-center>You can also watch this video demo of the Playbook to learn how to navigate the Playbook and what to expect. If you still have questions, read on!</p>
+          <div class="accordion">
+            <div class="accordion__hd">
+              <p><b>How do I get started?</b></p>
+            </div>
+            <div class="accordion__bd">
+              <div>
+                <ol style="font: size 4px;">
+                  <li><p>Explore the Playbook! Click around the various sections to get an idea of the overall structure and the types of articles it contains.</p></li>
+                  <li><p>Add your ideas, experiences, and best practices to Playbook articles using the “Offer edit” button.</p></li>
+                  <li><p>Use the Playbook as you’re moving forward with new projects - review each article relevant to the project stage that you are in throughout the project process.</p></li>
+                  <li><p>Bookmark the Playbook to come back to whenever you have a question so that you can review the relevant resources at each point in the process.</p></li>
+                </ol>
+              </div>
+            </div>
+          </div>
+          <div class="accordion">
+            <div class="accordion__hd">
+              <p><b>Why can't I offer an edit to the articles?</b></p>
+            </div>
+            <div class="accordion__bd">
+              <div>
+                <p>It could be because you don't have a signed volunteer agreement on file with DataKind, the email address you used is not the one in our volunteer database, or something is broken behind the scenes. Reach out to us through the “Provide Feedback, Ask Questions” button if you are having trouble.</p>
+              </div>
+            </div>
+          </div>
+          <div class="accordion">
+            <div class="accordion__hd">
+              <p><b>I encountered an unfamiliar term, what does it mean?</b></p>
+            </div>
+            <div class="accordion__bd">
+              <div>
+                <p>If you encounter an unfamiliar term, refer to our terminology page for more information.</p>
+              </div>
+            </div>
+          </div>
+          <div class="accordion">
+            <div class="accordion__hd">
+              <p><b>How do I provide feedback or ask questions?</b></p>
+            </div>
+            <div class="accordion__bd">
+              <div>
+                <ul>
+                  <li>At the bottom of the menu on the lefthand side of the screen, there is a button that says “Provide Feedback, Ask Questions!” Additionally, you can reach out to community@datakind.org and someone will get back to you. You can also use our Office Hours to schedule a meeting with someone at DataKind.</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+  
+        </div>
+  
+      </div>
+    </div>
+
+
+
+    <section class="wrapper-full bg-gray-light border-top">
+      <div class="wrapper-thin" style="display: flex; justify-content: center; align-items: center; padding: 30px;"> 
+        <div style="flex: 1; text-align: center; padding-right: 10px; max-width: 900px;"> 
+          <h5 class="h5 mb-4">Contact us</h5>
+          <p class="p-lg text-black" style="font-size: 16px;">If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org</p>
+        </div>
+    
+        <div style="flex: 1; text-align: center; padding-left: 10px; max-width: 900px;"> <!-- Reduced padding and increased max-width -->
+          <b class="f3">Subscribe to our newsletter</b>
+          <br>
+          <a class="button button--outline mt-2" href="https://www.datakind.org/subscribe/">
+            <span>Subscribe</span>
+          </a>
+        </div>
+      </div>
+    </section>
+    
+    
+
+<footer class="footer bg-gray-light pt-1">
+  <div class="bg-gray-light">
+    <div class="container-xl p-responsive f6 py-4 d-sm-flex flex-justify-between flex-row-reverse flex-items-center">
+      <ul class="list-style-none d-flex flex-items-center mb-3 mb-sm-0 lh-condensed-ultra social-icons">
+        <li class="mr-4">
+          <a href="https://twitter.com/DataKind" data-analytics-click="Footer, go to Twitter, text:twitter" title="DataKind on Twitter" aria-label="GitHub on Twitter">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 273.5 222.3" class="d-block" height="18">
+              <path d="M273.5 26.3a109.77 109.77 0 0 1-32.2 8.8 56.07 56.07 0 0 0 24.7-31 113.39 113.39 0 0 1-35.7 13.6 56.1 56.1 0 0 0-97 38.4 54 54 0 0 0 1.5 12.8A159.68 159.68 0 0 1 19.1 10.3a56.12 56.12 0 0 0 17.4 74.9 56.06 56.06 0 0 1-25.4-7v.7a56.11 56.11 0 0 0 45 55 55.65 55.65 0 0 1-14.8 2 62.39 62.39 0 0 1-10.6-1 56.24 56.24 0 0 0 52.4 39 112.87 112.87 0 0 1-69.7 24 119 119 0 0 1-13.4-.8 158.83 158.83 0 0 0 86 25.2c103.2 0 159.6-85.5 159.6-159.6 0-2.4-.1-4.9-.2-7.3a114.25 114.25 0 0 0 28.1-29.1" fill="currentColor"></path>
+            </svg>
+          </a>
+        </li>
+        <li class="mr-4">
+          <a href="https://www.facebook.com/DataKindOrg/" data-analytics-click="Footer, go to Facebook, text:facebook" title="DataKind on Facebook" aria-label="GitHub on Facebook">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.3 15.4" class="d-block" height="18">
+              <path d="M14.5 0H.8a.88.88 0 0 0-.8.9v13.6a.88.88 0 0 0 .8.9h7.3v-6h-2V7.1h2V5.4a2.87 2.87 0 0 1 2.5-3.1h.5a10.87 10.87 0 0 1 1.8.1v2.1h-1.3c-1 0-1.1.5-1.1 1.1v1.5h2.3l-.3 2.3h-2v5.9h3.9a.88.88 0 0 0 .9-.8V.8a.86.86 0 0 0-.8-.8z" fill="currentColor"></path>
+            </svg>
+          </a>
+        </li>
+        <li class="mr-4">
+          <a href="https://www.youtube.com/@datakind6672" data-analytics-click="Footer, go to YouTube, text:youtube" title="DataKind on YouTube" aria-label="GitHub on YouTube">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.17 13.6" class="d-block" height="16">
+              <path d="M18.77 2.13A2.4 2.4 0 0 0 17.09.42C15.59 0 9.58 0 9.58 0a57.55 57.55 0 0 0-7.5.4A2.49 2.49 0 0 0 .39 2.13 26.27 26.27 0 0 0 0 6.8a26.15 26.15 0 0 0 .39 4.67 2.43 2.43 0 0 0 1.69 1.71c1.52.42 7.5.42 7.5.42a57.69 57.69 0 0 0 7.51-.4 2.4 2.4 0 0 0 1.68-1.71 25.63 25.63 0 0 0 .4-4.67 24 24 0 0 0-.4-4.69zM7.67 9.71V3.89l5 2.91z" fill="currentColor"></path>
+            </svg>
+          </a>
+        </li>
+        <li class="mr-4 flex-self-start">
+          <a href="https://www.linkedin.com/company/datakind/mycompany/" data-analytics-click="Footer, go to Linkedin, text:linkedin" title="DataKind on Linkedin" aria-label="GitHub on LinkedIn">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 18" class="d-block" height="18">
+              <path d="M3.94 2A2 2 0 1 1 2 0a2 2 0 0 1 1.94 2zM4 5.48H0V18h4zm6.32 0H6.34V18h3.94v-6.57c0-3.66 4.77-4 4.77 0V18H19v-7.93c0-6.17-7.06-5.94-8.72-2.91z" fill="currentColor"></path>
+            </svg>
+          </a>
+        </li>
+      </ul>
+      <ul class="list-style-none d-flex text-gray">
+        <li class="mr-3">
+          © <span id="year"></span> DataKind
+        </li>
+        <li class="mr-3"><a href="https://www.datakind.org/privacy-policy/" data-analytics-click="Footer, go to privacy and terms of service, text:privacy" class="link-gray">Privacy</a></li>
+        <li><a href="#" class="link-gray">Cookie settings</a></li>
+      </ul>
+    </div>
+  </div>
+  <script>
+      var date = new Date().getFullYear(),
+      year = document.getElementById('year');
+      if(year) {
+          document.getElementById('year').innerHTML = date;
+      }
+  </script>
+</footer>
+
+
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script src="assets/js/gsap.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/bundle.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
 </html>

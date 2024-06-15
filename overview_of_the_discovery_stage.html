@@ -45,6 +45,28 @@
         opacity: 0;
       }
     </style>
+    <!--style for inserting image-->
+    <title>DataKind Project Process</title>
+    <style>
+        .content-container {
+            max-width: 600px; /* Adjust this to set the desired width of the content */
+            margin: 20px auto; /* Centers the container on the page */
+            text-align: left; /* Aligns the text to the left */
+        }
+        .image-container img {
+            width: 100%;   /* Makes the image stretch to the width of the container */
+            height: auto;  /* Maintains the aspect ratio */
+            display: block; /* Ensures the image does not sit inline with text */
+            margin-top: 20px; /* Adds space above the image */
+        }
+    </style>
+    <!--subbullent point-->
+    <style>
+        .sub-bullet {
+            list-style-type: circle;
+        }
+    </style>
+
     <script src="assets/js/jquery.min.js"></script>
     
   </head>
@@ -107,57 +129,58 @@
     <p>The first project stage is Discovery. It starts as soon as a potential project opportunity is identified, and continues as DataKinders work with the partner to discover if the lead would be a good fit for a DataKind project. The goal of this stage is for both parties (DataKind and potential partner) to decide if there is a mutual good fit to collaborate on a project. A huge part of this decision-making process is mapping the organization’s processes and theory of change to understand areas of potential data science intervention. This stage includes ensuring mission and value alignment, enlisting a Project Champion (project partner representative), and brainstorming project ideas. The team has finished the Discovery Stage and moves into the Design Stage when the organization has been vetted, project opportunities have been identified, and the teams have mutually decided to move forward with data sharing through a shared concept note. Together, completing the Discovery and Design stages is also known as “scoping” a project.</p>
 
     <h5>Roles and responsibilities</h5>
-
-    <!-------
+    <p>The Discovery stage is led by the <b>Scoper(s)</b>, which is typically a role for an experienced Chapter volunteer, DataKind staff member, or someone intending to also volunteer as the Data Ambassador. Chapter Leaders or DataKind staff oversee the process by checking in and providing support and assistance to the Scoper.</p>
+    <p> If the project will have a <a href="https://playbook.datakind.org/playbook/articles/151">Data Ambassador</a>, they are at times brought on in the Discovery Stage after a project partner organization is vetted and a potential project opportunity has been identified. The Data Ambassador can then join the technical conversations and conduct the data audit, and assist in the transition into the Design stage. Having the Data Ambassador engage in the design process helps set them and the project up for success, as they will be leading the Execute Stage. </p>
+    <div class="image-container">
+        <img src="assets/img/execute_stage.png" alt="Discovery Stage DataKind Project Process">
+    </div>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    -->
-    <p>Volunteers are the lifeblood of DataKind! Our volunteers strategically apply their expertise to critical issues such as poverty, healthcare access, and mitigating the impacts of climate change, while working directly with both DataKind staff and our social impact partners.</p>
-    <p>If you are interested in volunteering, start by <a href="https://datakind.rosterfy.com/login">creating a volunteer profile</a> so we can review your skills and experiences and let you know when projects arise that may be a good fit. You can also <a href="https://www.datakind.org/subscribe/">subscribe to our newsletter</a> and <a href="https://dkcommunity.slack.com/join/shared_invite/zt-mkepgws6-Zo0v8UEfPiZl2xpSq91Mfg#/shared-invite/email">join our Slack community</a> to stay in the loop about upcoming volunteer opportunities and events.</p>
-
-    <h5>Types of volunteer opportunities</h5>
-    <p>There are a few ways in which you can volunteer at DataKind:</p>
-
-    <ol>
-      <li>Join a <a href="https://www.datakind.org/about-us/our-chapters/">Chapter</a>: Chapters are groups of local volunteers that organize events and connect with local mission-driven organizations to complete Data Science and AI for Good projects. We are constantly learning; the Playbook is designed to be continuously updated as our processes and recommendations evolve.</li>
-      <li>Volunteer for a <a href="https://playbook.datakind.org/playbook/articles/170">DataDive® event</a>: DataDive events are high energy, marathon-style happenings where mission-driven organizations work alongside teams of volunteer data scientists, developers, and designers to use data to gain insight into their programs, the communities they serve and more - all in 48 hours or less!</li>
-      <li>Volunteer for a <a href="https://playbook.datakind.org/playbook/articles/173">DataCorps® project</a>: DataCorps projects bring together teams of pro bono data scientists with social change organizations on long-term projects that use data science to transform their work and their sector.</li>
-      <li>Additional volunteer opportunities: Sometimes we will invite volunteers to apply for specific one-off volunteer roles. When this happens, we will send an email and share about it in our community Slack. These roles often require specific skills and experience and are detailed in the application process.</li>
-    </ol>
-
-    <p>To learn more about real DataKind volunteers and the types of work they do, check out the “volunteer spotlight” series in our <a href="https://www.datakind.org/blog/">blog</a>.</p>
-
-    <hr class="my-6" />
-
-    <h5>Volunteer Requirements</h5>
-
-    <p>If you have little to no data science experience, that’s ok! We highly recommend volunteering for our DataDive events. They are a great way to learn or test new skills, and all skill levels are welcome.</p>
-    <p>For more specialized volunteer roles like a DataCorps® project, we typically look for volunteers with specific skills in data science, statistics, coding, data engineering, data visualization, and/or project management.</p>
-
-    <h5>Benefits of volunteering with DataKind</h5>
-    <p>Besides the warm fuzzy feeling you get from helping others, benefits of volunteering with DataKind include:</p>
+    <h5>Discovery stage steps</h5>
 
     <ul>
-        <li>Engaging with your local community, leaders and volunteers toward impact. </li>
-        <li>Networking with peer DataKind Chapter members, volunteers, and staff globally.</li>
-        <li>Presenting on behalf of DataKind at data science and social sector conferences.</li>
-        <li>Learning lots of cool data solutions.</li>
-        <li>Contributing to DataKind’s mission of positive social impact locally and globally.</li>
-        <li>You may be able to double or even triple your impact! Some companies match their employees’ financial donations and/or volunteer time to nonprofit organizations.</li>
-      </ul>
+      <li>Determine if the team has capacity to take on another project</li>
+      <li>Research the organization, ensuring it is the right fit for DataKind</li>
+      <li>Check for DataKind value alignment in the organization's mission and values</li>
+      <li>Ensure the partner organization has leadership buy-in to work with DataKind volunteers through an Executive Sponsor</li>
+      <li>Ensure the partner organization has a data-savvy, communicative, and strategic Project Champion for DataKind to work with</li>
+      <li>Create a standard google drive folder</li>
+      <li>Have 1-3 discovery calls with the partner organization to ideate and discuss areas data science might help</li>
+      <li>Evaluate the partner's readiness to use and maintain a data science solution with a data maturity assessment</li>
+      <li>Create draft project statement(s) based on the data science project(s) identified and the partner's theory of change</li>
+         <ul class="sub-bullet">
+             <li>Note: Make sure to propose a few early back-up plans for more risky ideas discussed in early calls with partner organizations. Alternatives with back-up plans make it easier to discuss later on when the original plan doesn’t work out.</li>
+         </ul>
+      <li>Consider ethical implications of the project</li>
+      <li>Assess that there is no obvious alternative or existing transferable solution with light online research on the landscape of potential projects</li>
+      <li>Ensure the partner has data available now (or knows of public data that will meet their requirements)</li>
+      <li>Document everything discovered in a Concept Note</li>
+      <li>MUST DO: Scoper(s) check in with advisory team to review what was discovered, align on the Concept Note, and decide whether and how to move forward</li>
+    </ul>
+    <div class="image-container">
+        <img src="assets/img/Discovery_stage_steps.png" alt="Discovery Stage DataKind Project Process">
+    </div>
 
-    <h5>Questions about volunteering?</h5>
-    <p>Feel free to email us at community@datakind.org or schedule time with our <a href="https://playbook.datakind.org/playbook/articles/11">office hours</a> to discuss.</p>
+   
+    <hr class="my-6" />
+
+    <h5>Ethical considerations</h5>
+
+    <p>Before moving the project from the Discover Stage to the Design Stage, be sure to pause and make sure that you did not miss any elements that may merit ethical considerations. You’ll often find that discerning all the ethical implications of a project during the Discover Stage is not entirely straightforward. For example, how should you proceed with a project that aims to serve humanity, but that also raises policy disagreements, political controversies, and/or clashing personal beliefs? Discovering ethically requires ensuring, at a minimum, the following steps have been taken: </p>
+    <ul>
+        <li>The organization, partner organization, and funders have been researched and properly vetted to ensure value alignment and alignment with DataKind’s mission.</li>
+        <li>The team has gained a strong understanding of the individuals that the organization serves and how.</li>
+        <li>The team has clearly identified who will be impacted by the data science solution and considered the economic, social, political, and/or environmental dimensions of the impact on those communities, along with any potential biases or disparate impact the solution could create or exacerbate.</li>
+    </ul>
+
+    <p>A few other things to be mindful of when considering ethics in the Discovery Stage of a project include:</p>
+    <ul>
+        <li>Be wary of organizations that want you to "prove their impact". It helps to remind people that we are there to ask questions, but we do not shy away from honest results that show the organization could do better.</li>
+        <li>Put your radar up for organizations that don't seem to be considering their stakeholders. A group that wants to create credit risk models for poor farmers without working closely with poor farmers runs the risk of creating deleterious or, at best, ineffective interventions.</li>
+        <li>Consider statistical bias concerns, even in this early stage of the process. Many organizations are not familiar with these issues, so listen for issues of sampling bias, poor experimental design, or confirmation bias in what they are asking for.</li>
+    </ul>
+
+    <h5>Discovery may lead to a decision to not move forward</h5>
+    <p>Every single step as we discover and design a project is a potential exit point for DataKind or the partner organization. If the partner organization is not aligned or any step of the process is not successful, DataKind will end the engagement or place it on hold. We always document why the engagement was ended or placed on hold, and volunteers are expected to report back to your DataKind staff support with all the relevant documentation when they have identified a need to pause or exit a project.</p>
 
     <hr class="my-6" />
 

@@ -62,29 +62,39 @@
     </style>
     <!--subbullent point-->
     <style>
-        ul.custom-bullets {
-          list-style: none; /* 移除默认的列表标记 */
-          padding: 0; /* 移除默认的内边距 */
+        ul, ol {
+            list-style-type: none; /* 移除所有列表的默认项目符号 */
+            padding-left: 0; /* 移除默认的填充 */
         }
-        ul.custom-bullets li::before {
-          content: "\25E6"; /* 使用空心圆的字符代码 */
-          margin-right: 8px; /* 在符号和文字之间添加一些间隔 */
+        li {
+            list-style-type: none; /* 确保列表项没有默认项目符号 */
+        }
+        ul.custom-bullets li {
+            list-style-type: circle; /* 只对特定类的列表项设置为空心圆点 */
+            margin-left: 20px; /* 添加适当的缩进 */
+        }
+        ol li {
+            list-style-type: decimal; /* 对有序列表设置数字样式 */
+            margin-left: 20px; /* 添加适当的缩进 */
         }
     </style>
-
-    <!--style for before Note-->
+    
     <style>
         ul {
-            list-style-type: disc; /* 默认设置为实心圆点 */
+            list-style-type: disc; /* 设置外层列表为实心点 */
         }
-        ul.custom-bullets {
-            list-style-type: circle; /* 特定类设置为空心圆点 */
+        ul.sub-bullet {
+            list-style-type: circle; /* 设置内嵌列表为空心点 */
+            margin-left: 20px; /* 适当的缩进以与外层列表对齐 */
         }
-        .indent {
-            margin-left: 20px;
+        .sub-bullet li {
+            margin-left: 20px; /* 进一步缩进子列表项 */
         }
     </style>
 
+    
+
+    
 
     <script src="assets/js/jquery.min.js"></script>
     

@@ -62,37 +62,21 @@
     </style>
     <!--subbullent point-->
     <style>
-        ul, ol {
-            list-style-type: none; /* 移除所有列表的默认项目符号 */
-            padding-left: 0; /* 移除默认的填充 */
-        }
-        li {
-            list-style-type: none; /* 确保列表项没有默认项目符号 */
-        }
-        ul.custom-bullets li {
-            list-style-type: circle; /* 只对特定类的列表项设置为空心圆点 */
-            margin-left: 20px; /* 添加适当的缩进 */
-        }
-        ol li {
-            list-style-type: decimal; /* 对有序列表设置数字样式 */
-            margin-left: 20px; /* 添加适当的缩进 */
-        }
-    </style>
-
-    <title>Discovery Stage Steps</title>
-    <style>
-        /* Specific targeting to ensure styles apply */
-        body ul {
-            list-style-type: disc; /* Solid bullet */
-            margin-left: 20px; /* Adjust as needed for your layout */
-            padding-left: 0;
-        }
-    
-        body ul.sub-bullet {
-            list-style-type: circle; /* Hollow bullet */
-            margin-left: 20px;
-            padding-left: 0;
-        }
+      /* Remove default list styles and padding only for specific custom lists */
+      .custom-bullets ul, .custom-bullets ol, .custom-bullets li {
+          list-style-type: none;
+          padding-left: 0;
+      }
+      /* Apply circle bullets to specific unordered list items */
+      .custom-bullets ul li {
+          list-style-type: circle;
+          margin-left: 20px; /* Add appropriate indentation */
+      }
+      /* Apply decimal numbering to ordered list items */
+      .custom-bullets ol li {
+          list-style-type: decimal;
+          margin-left: 20px; /* Add appropriate indentation */
+      }
     </style>
 
     
@@ -166,24 +150,24 @@
     <class="section-title">
     <h5>How do I use it?</h5>
     <div class="indent">
-        <p>Copy the folder structure template and all the templates inside it to create your own google folder for your project - it takes less than a minute! Simply download the folder zip file, unzip, and then re-upload to the correct place within DataKind’s google folder structure. Here are step by step instructions:</p>
-        <ol>
-            <li>Navigate to the <a href="https://drive.google.com/drive/folders/1ERryIMhqgUWrnQjs8jZWhofnJIBxEhdj">Folder Structure Template</a></li>
-            <li>Select the three vertical dots in the top right > Download. (This will download a zip file.)</li>
-            <li>Unzip the file locally on your computer.</li>
-            <li>Navigate on Google drive within your web browser to where you want your folder to go:</li>
-            <ul class="custom-bullets">
-                <li>If it is a DataKind Global project, it should go in the “DK_Projects” folder</li>
-                <li>If it is a DataKind Chapter project, it should go in the project folder within your chapter folder</li>
-            </ul>
-            <li>Drag the local folder from your computer into the desired web location</li>
-        </ol>
+      <p>Copy the folder structure template and all the templates inside it to create your own google folder for your project - it takes less than a minute! Simply download the folder zip file, unzip, and then re-upload to the correct place within DataKind’s google folder structure. Here are step by step instructions:</p>
+      <ol class="custom-bullets">
+          <li>Navigate to the <a href="https://drive.google.com/drive/folders/1ERryIMhqgUWrnQjs8jZWhofnJIBxEhdj">Folder Structure Template</a></li>
+          <li>Select the three vertical dots in the top right > Download. (This will download a zip file.)</li>
+          <li>Unzip the file locally on your computer.</li>
+          <li>Navigate on Google drive within your web browser to where you want your folder to go:</li>
+          <ul>
+              <li>If it is a DataKind Global project, it should go in the “DK_Projects” folder</li>
+              <li>If it is a DataKind Chapter project, it should go in the project folder within your chapter folder</li>
+          </ul>
+          <li>Drag the local folder from your computer into the desired web location</li>
+      </ol>
     </div>
-
+  
     <h5 class="section-title">Tips and Best Practices</h5>
-
+  
     <div class="indent">
-        <ul>
+        <ul class="custom-bullets">
             <li>Put a copy of the intake form results in the “1 Discover” folder for reference.</li>
             <li>Add a spreadsheet of final volunteer team information (emails, roles etc.) to the “3 Prepare” folder for reference.</li>
         </ul>

@@ -62,22 +62,29 @@
     </style>
     <!--subbullent point-->
     <style>
-      /* Remove default list styles and padding only for specific custom lists */
-      .custom-bullets ul, .custom-bullets ol, .custom-bullets li {
-          list-style-type: none;
-          padding-left: 0;
+      /* General styling for the list */
+      ul.custom-bullets {
+          padding-left: 20px; /* Adjust padding to align the list inside its container */
+          title: "Project Folder List"; /* Title attribute for additional context */
       }
-      /* Apply circle bullets to specific unordered list items */
-      .custom-bullets ul li {
-          list-style-type: circle;
-          margin-left: 20px; /* Add appropriate indentation */
+  
+      /* Style for individual list items */
+      ul.custom-bullets li {
+          list-style-type: none; /* Removes default list styling */
+          position: relative; /* Positions the pseudo-element relative to the list items */
+          margin-bottom: 10px; /* Adds space between list items */
       }
-      /* Apply decimal numbering to ordered list items */
-      .custom-bullets ol li {
-          list-style-type: decimal;
-          margin-left: 20px; /* Add appropriate indentation */
+  
+      /* Pseudo-element for custom bullet */
+      ul.custom-bullets li::before {
+          content: "○"; /* Hollow circle symbol */
+          position: absolute; /* Positions the pseudo-element absolutely within the relative parent */
+          left: -20px; /* Moves the bullet to the left of the list item text */
+          top: 0; /* Aligns the bullet with the top of the text */
       }
-  </style>
+    </style>
+
+ 
 
     
 

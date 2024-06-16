@@ -78,18 +78,19 @@
             margin-left: 20px; /* 添加适当的缩进 */
         }
     </style>
+    
     <style>
-        ul {
-            list-style-type: disc; /* 设置外层列表为实心点 */
-        }
-        ul.sub-bullet {
-            list-style-type: circle; /* 设置内嵌列表为空心点 */
-            margin-left: 20px; /* 适当的缩进以与外层列表对齐 */
-        }
-        .sub-bullet li {
-            margin-left: 20px; /* 进一步缩进子列表项 */
-        }
-    </style>
+      /* 设置默认的列表样式为实心点 */
+      ul {
+          list-style-type: disc;
+          padding-left: 20px; /* 添加默认的缩进 */
+      }
+      /* 设置特定子列表为圆圈（空心点） */
+      ul.sub-bullet {
+          list-style-type: circle;
+          padding-left: 20px; /* 确保子列表与外层列表对齐 */
+      }
+  </style>
 
     
 

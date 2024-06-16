@@ -57,39 +57,7 @@
           margin-right: 8px; /* 在符号和文字之间添加一些间隔 */
         }
     </style>
-    
-    <title>Project Steps Details</title>
-    <style>
-        ul {
-    list-style-type: none; /* Removes default list styling */
-    padding: 0;
-}
-
-li {
-    margin-bottom: 10px;
-    position: relative;
-    padding-left: 20px; /* Adds space for custom bullet */
-}
-
-li::before {
-    content: "•"; /* Default bullet as filled circle */
-    position: absolute;
-    left: 0;
-}
-
-li ul {
-    padding-left: 20px; /* Indents sub-list */
-}
-
-li ul li::before {
-    content: "○"; /* Sub-bullet as hollow circle */
-}
-    </style>
-        
-
-
-    
-    
+  
     <!--subbullent point-->
     
     
@@ -172,8 +140,8 @@ li ul li::before {
         <li>Have 1-3 discovery calls with the partner organization to ideate and discuss areas data science might help</li>
         <li>Evaluate the partner's readiness to use and maintain a data science solution with a data maturity assessment</li>
         <li>Create draft project statement(s) based on the data science project(s) identified and the partner's theory of change
-            <ul>
-                <li>Note: Make sure to propose a few early back-up plans for more risky ideas discussed in early calls with partner organizations. Alternatives with back-up plans make it easier to discuss later on when the original plan doesn’t work out.</li>
+            <ul style="list-style-type: circle;">
+                <li>Note: Propose a few early back-up plans for more risky ideas discussed in early calls with partner organizations. Alternatives with back-up plans make it easier to discuss later on when the original plan doesn’t work out.</li>
             </ul>
         </li>
         <li>Consider ethical implications of the project</li>

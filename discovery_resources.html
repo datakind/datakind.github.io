@@ -78,18 +78,21 @@
             margin-left: 20px; /* 添加适当的缩进 */
         }
     </style>
-    
+
+    <title>Discovery Stage Steps</title>
     <style>
-      /* Set default list style to solid bullets */
-      ul {
-          list-style-type: disc; /* Solid bullet */
-          padding-left: 20px; /* Default indentation */
-      }
-      /* Set specific sub-lists to hollow bullets */
-      ul.sub-bullet {
-          list-style-type: circle; /* Hollow bullet */
-          padding-left: 20px; /* Ensure alignment with the outer list */
-      }
+        /* Specific targeting to ensure styles apply */
+        body ul {
+            list-style-type: disc; /* Solid bullet */
+            margin-left: 20px; /* Adjust as needed for your layout */
+            padding-left: 0;
+        }
+    
+        body ul.sub-bullet {
+            list-style-type: circle; /* Hollow bullet */
+            margin-left: 20px;
+            padding-left: 0;
+        }
     </style>
 
     
@@ -184,12 +187,7 @@
             <li>Add a spreadsheet of final volunteer team information (emails, roles etc.) to the “3 Prepare” folder for reference.</li>
         </ol>
     </div>
-
-
-
-
-
-
+    
     <h5>Roles and responsibilities</h5>
     <p>The Discovery stage is led by the <b>Scoper(s)</b>, which is typically a role for an experienced Chapter volunteer, DataKind staff member, or someone intending to also volunteer as the Data Ambassador. Chapter Leaders or DataKind staff oversee the process by checking in and providing support and assistance to the Scoper.</p>
     <p> If the project will have a <a href="https://playbook.datakind.org/playbook/articles/151">Data Ambassador</a>, they are at times brought on in the Discovery Stage after a project partner organization is vetted and a potential project opportunity has been identified. The Data Ambassador can then join the technical conversations and conduct the data audit, and assist in the transition into the Design stage. Having the Data Ambassador engage in the design process helps set them and the project up for success, as they will be leading the Execute Stage. </p>
@@ -198,7 +196,6 @@
     </div>
     
     <h5>Discovery stage steps</h5>
-
     <ul>
       <li>Determine if the team has capacity to take on another project</li>
       <li>Research the organization, ensuring it is the right fit for DataKind</li>
@@ -209,17 +206,18 @@
       <li>Have 1-3 discovery calls with the partner organization to ideate and discuss areas data science might help</li>
       <li>Evaluate the partner's readiness to use and maintain a data science solution with a data maturity assessment</li>
       <li>Create draft project statement(s) based on the data science project(s) identified and the partner's theory of change</li>
-      <li>
-        <ul class="sub-bullet">
-            <li>Note: Make sure to propose a few early back-up plans for more risky ideas discussed in early calls with partner organizations. Alternatives with back-up plans make it easier to discuss later on when the original plan doesn’t work out.</li>
-        </ul>
-      </li>
       <li>Consider ethical implications of the project</li>
       <li>Assess that there is no obvious alternative or existing transferable solution with light online research on the landscape of potential projects</li>
       <li>Ensure the partner has data available now (or knows of public data that will meet their requirements)</li>
       <li>Document everything discovered in a Concept Note</li>
       <li>MUST DO: Scoper(s) check in with advisory team to review what was discovered, align on the Concept Note, and decide whether and how to move forward</li>
+      <li>
+          <ul class="sub-bullet">
+              <li>Note: Make sure to propose a few early back-up plans for more risky ideas discussed in early calls with partner organizations. Alternatives with back-up plans make it easier to discuss later on when the original plan doesn’t work out.</li>
+          </ul>
+      </li>
     </ul>
+
     <div class="image-container">
         <img src="assets/img/Discovery_stage_steps.png" alt="Discovery Stage DataKind Project Process">
     </div>

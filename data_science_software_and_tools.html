@@ -147,70 +147,78 @@
 
   <div class="wrapper-thin-alt py-6 mb-6 rte long-form">
 
-    <h4>Define Success Metrics and Create a Measurement Plan</h4>
-    <h5>Inputs from Discovery stage:</h5>
+    <h4>Data Science Software and Tools</h4>
+    <p>As you design your project, you’ll reach a point where you’ll need to decide what data science tools to use. As you assess whether a tool is a good fit for this project, consider:</p>
     <ul>
-        <li><a href="https://docs.google.com/spreadsheets/d/1i4Iplet0YFJ12SkH1SRQwN9ZMjcZniYxUiWQ2ReFfhg/edit?usp=sharing">Impact map template</a></li>
-        <li><a href="https://playbook.datakind.org/playbook/articles/17">Project statement</a> - “I want to use (data) to do (analysis) so that (behavior change) so that (impact)”</li>
+        <li>Is the tool standard in data science?</li>
+        <li>How much money does the tool cost?</li>
+        <li>Is the tool associated with any restrictive licensing terms?</li>
     </ul>
 
-    <h5>1. Update your project statement</h5>
-    <p>Make any edits to the statement based on the rest of the Discover and Design Stages so far. You will probably have to narrow the statement down from the many possibilities that you identified during Discover Stage to the most appropriate option you identified during the data audit. </p>
+    <h5>Selecting a Programming Language</h5>
+    <p>There are a lot of tools that industry professionals recommend data scientists use (and the list grows every day!), but let’s focus on the foundational tool that you need team and partner organization buy-in for: the programming language.</p>
 
-    <h5>2. Familiarize yourself with potential metrics</h5>
-    <p>For each step in the project statement, we need indicators that will elucidate whether we were successful or not in the project. Identifying how we will determine if we have succeeded at each step is essential, and in most cases it requires quantifiable metrics. However, finding the right metrics is a challenge that requires testing and brainstorming. Success metrics should relate back to the organization's mission and be anchored to the DataKind project.</p>
-    <p>There is an example in the “2 Success Metrics” tab of your impact map template. Start by reviewing that document.</p>
+    <p>Typically, data scientists conduct their modeling and analysis by coding in programming languages rather than via a graphical user interface (GUI), because:</p>
 
-    <h5>3. Identify your project success metrics </h5>
-    <p>Decide for your project what metric is the most meaningful indicator of success for each step in your project. This means filling in row 4 of the template: “What is the most adequate indicator of success for this step?”</p>
-    <p>All this information should come directly from your partner organization and be decided in collaboration with them. It may be the case that the organization is engaged with monitoring and evaluation (M&E) initiatives, which offer valuable insight into the type of work they are tracking to monitor their success. It’s great to use a metric that the organization is already using, but it is also okay to come up with a strategy that is new to the organization, as long as they are committed to tracking it. Remember, however, that there are a multitude of metrics which can be used in more complex analyses (e.g., Randomized Control Trials, etc.). Most likely your project will not be engaged in organization evaluation at this level, so it is important you find the right metric of success for your project. Metrics should follow the project, rather than having the project following the metrics. Similarly, we must always be careful that projects <a href="https://hbr.org/2019/09/dont-let-metrics-undermine-your-business">should not overfit the success metric</a>.</p>
-
-    <h5>4. Pick your targets for each success metric</h5>
-    <p>Decide for your project what metric is the best indicator of success for each step. Of course we must recognize that some projects will be subjective - and that's okay! We just need to make sure that we're actually measuring what we're trying to measure through the most appropriate indicators.</p>
-    <p>For each metric you identify that is quantifiable, select clear, reasonable targets. Work with your partner to identify baseline data that you can use, and evaluate the current state or trends in the data: </p>
     <ul>
-        <li>Where are we now for the metric of interest?</li>
-        <li>How has this indicator changed in the past?</li>
-        <li>What is a reasonable projection for the future if we did not do the project?</li>
-        <li>How much can we expect to improve that projection by doing the project?</li>
+        <li>It’s easier to perform complex data manipulations using a language rather than through a point-and-click interface.</li>
+        <li>Having your analysis in the form of code makes it easier to reproduce and share with collaborators. </li>
     </ul>
 
-    <p>This last question gives your indicator, which should include the variable and target. Now you have your goal and success metrics!</p>
+    <p>(RStudio’s Hadley Wickham has an <a href="http://youtube.com/watch?v=cpbtcsGE0OA&t=2694s">interesting talk about this</a>.)</p>
+
+    <p>The most popular languages for data science are currently <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a> and <a href="https://en.wikipedia.org/wiki/R_(programming_language)">R</a> due to the fact that:</p>
+    <ul>
+        <li><b>They support a large ecosystem of statistical and numerical computing software.</b> The more tools that the language supports (e.g. deep learning libraries such as <a href="https://en.wikipedia.org/wiki/TensorFlow">TensorFlow</a>, the more statistical methods and technologies you’ll have at your disposal during project execution.</li>
+        <li><b>There are a lot of professionals who know these languages.</b> This makes it easier to find qualified volunteers for your project.</li>
+        <li><b>They’re free!</b> That's right - the right to use them costs $0.</li>
+        <li>They support maintainable package development, with good tools for unit testing, dependency management, and high quality documentation.</li>
+    </ul>
+
+    <p>You can choose to use either, but we recommend that you stay consistent within each project team so that your volunteers can collaborate efficiently. Choose what works best for your partner organization, in order to enable them to sustain the results.</p>
+
+    <h5>Cost of the Tool</h5>
+    <p>There are a couple of ways that cost can be raised as an issue as you design your project. The first scenario is when your partner organization uses software that requires some sort of paid license. Common examples include:</p>
+    <ul>
+        <li><b>Proprietary Languages or Computing Environments</b>  -  Staff in the partner organization may be familiar with writing code -- but only in a proprietary language such as <a href="https://en.wikipedia.org/wiki/Stata">Stata</a> or <a href="https://en.wikipedia.org/wiki/MATLAB">MATLAB</a></li>
+        <li><b>Business Intelligence (BI) Tools for Enterprise</b>  - Staff in the partner organization may analyze their data in a proprietary point-and-click tool such as <a href="https://en.wikipedia.org/wiki/Tableau_Software">Tableau</a>.</li>
+    </ul>
+
+    <p>It’s likely financially infeasible to provide volunteers with paid licenses, but check with your Chapter Leader or DataKind staff support if it would be hugely helpful for a project. Luckily, with skilled volunteers and good project management, the volunteer team can avoid having to use these paid tools in most cases. For example, even if a Stata or MATLAB-user from the partner organization wants to understand project code, the code could still be written in R or Python. A skilled volunteer who’s good at explaining technical concepts and possesses good coding hygiene can be paired with the MATLAB user, gradually increasing the MATLAB user’s comfort level with R or Python. <b>When deciding on tooling, it is important to clarify with the organization if they want to be able to reproduce the analysis or if they just want the insight itself</b> or language-neutral versions of the data (e.g., csv) and analysis steps (documentation). </p>
+
+    <p>The second scenario involves the need for <a href="https://en.wikipedia.org/wiki/Cloud_computing">cloud computing</a> (computation using servers in remote data centers). Popular cloud computing platforms include <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services">Amazon Web Services</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Azure">Microsoft Azure</a>, and <a href="https://en.wikipedia.org/wiki/Google_Cloud_Platform">Google Cloud Platform</a>. These all require money, and the cost may be nontrivial. Situations when cloud computing may be necessary include:</p>
+    <ul>
+        <li><b>Big Data</b> - There’s too much project data to process on a personal computer.  Dedicated computational resources are required.</li>
+        <li><b>App Hosting</b> - The output of the project is a software application that needs to be hosted on a server somewhere.</li>
+    </ul>
+    <p>Discussions around cloud services can get tricky because how important they are varies on a project-by-project basis, and consensus needs to be reached in terms of who pays for it. An important tip is to be cognizant of what cloud services constitute a one-time cost, and what services constitute a recurring cost. If the cost is recurring, the partner organization will need to possess financial means to support the tool’s upkeep beyond the duration of the project. Make sure the potential cost is understood and agreed upon upfront, so that the DataKind team does not build a product that is not financially sustainable for a partner organization. If this will be a one-time cost and the partner organization is unable to pay for it, talk to your Chapter Leader or DataKind staff support to determine if DataKind would be able to pay for it, which we may be able to in rare cases. </p>
     
-    <p>Sometimes, your organization may not have any baseline data that you can use to determine a reasonable goal. In this case, consider doing some brief outside research to benchmark your target and understand your metric. For example, imagine you are conducting logistic regression on a MNIST digit classification task, and it gets a score of 90% accuracy. But if we don't have past performance, we don't know if that is good. With some research, we may see that the score is poor compared to other methods, or is really strong in comparison. In other words, researching how a metric performs elsewhere in similar situations could replace a baseline provided by the partner organization, if the organization doesn’t have one.</p>
+    <h5>Licensing</h5>
+    <p>If you decide not to use an open source tool, remember to ask the partner organization whether they have concerns about licensing restrictions. This is because output produced by a tool with a certain license may be bound by certain ownership and sharing restrictions.</p>
+
+    <p>When in doubt, consider either consulting legal personnel or defaulting to a tool that uses a permissive open source license. If you consider the latter route, check out this page by the <a href="https://opensource.org/licenses">Open Source Initiative</a> for more details. This is also a great topic to discuss with your DataKind staff support person.</p>
+
+
+
+
+
+
+
+
+
+    <!---
     
-    <h5>5. Consider additional kinds of success</h5>
-    <p>Although it is essential to have at least one metric directly mapped to the impact map, project success is not limited exclusively to direct impact on an organization’s mission or theory of change. Additional metrics to consider including in your success metrics plan include:</p>
-    <ul>
-        <li>Creation of open data sources</li>
-        <li>Increased data literacy or maturity at the partner organization</li>
-        <li>Commitment to embed data science more deeply into the partner organization’s operations or evaluation</li>
-        <li>Baseline values for your models to enable future evaluation</li>
-        <li>Stories and/or narratives that could inform policy decisions</li>
-    </ul>
 
-    <p>Realistically, you might not be able to measure every step of the project statement quantitatively. It is ideal, and we aim for as much measurement as possible, but at a minimum simply select a metric for the project end goal or (impact). Additionally, consider using qualitative metrics as relevant. </p>
 
-    <h5>6. Create a plan and set yourself up for success to adequately track your metric(s)</h5>
-    <p>For each of the metrics you identified, you need to determine how you will obtain it. Think about the data source. Most importantly, this means identifying where the data is located, who will be responsible for gathering the data, and when they will do so. As you plan exactly how you will track your indicators, consider the following:</p>
-    <ul>
-        <li>If you need to pull an automatically collected metric from the partner organization’s information system, what date should the metric be pulled? Who will make sure this happens? For example, imagine you would like to track the number of people who have signed up for an online service. How will you do so? Many of these questions should be informed by the partner organization's  <a href="https://playbook.datakind.org/playbook/articles/24/data-maturity-assessment"> data maturity</a>  assessment.</li>
-        <li>If you need to collect new data, what methodology will you use and what is the timeline to do so? Who is responsible for it? How will you be selecting the respondents? Do you have someone with survey research experience available to support?</li>
-        <li>If your metric requires monitoring the partner organization’s programs and activities, do they have a system in place for this monitoring? Who is responsible for it? Is this person committed to contributing monitoring data to DatatKind? How often do they typically collect this data? Will DataKind’s project require any additional measures?</li>
-    </ul>
+
+
+    Contributer(s)
     
-    <p>Keep in mind that DataKind typically conducts an assessment survey with the project partner six months after the project is complete. If six months is an appropriate timeline for seeing the change you want to track, then consider tracking your metrics at the same time as you conduct the follow-up survey, to make it easier for your partner organization.</p>
-
-    <p>This information goes in the third row of the “measurement plan” tab of the impact map template, and is called your “Means of Verification”. </p>
-
-    <h5>7. Identify risks and assumptions</h5>
-    <p>Before deciding to tackle a project, take time to understand the risks involved in undertaking the project, and the hypotheses you are assuming to be true that would prevent having the desired impact if proven false. Think carefully about what could go wrong at each phase, and fill in the last two rows of the template accordingly.</p>
-
-    <p>Congratulations! You just completed a plan for measuring your project’s impact! Add the completed measurement plan chart from the impact map template to your Project Brief.</p>
-
-    <p><b>For further learning and exploration:</b> Our success metric approach is built using a log frame, which helps structure the main elements of a project, identifying and exhibiting the causal linkages between them. Once complete, log frames help improve planning, implementation, management, monitoring, and evaluation of projects. If interested, <a href="https://www.unodc.org/documents/human-trafficking/Toolkit-files/08-58296_tool_10-3.pdf">read more about log frames here</a>.</p>
 
 
+
+
+    -->
 
     <p> <b>Contributer(s): </b> Nicole Kidman</p>
 

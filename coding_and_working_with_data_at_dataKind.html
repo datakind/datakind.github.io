@@ -147,41 +147,53 @@
 
   <div class="wrapper-thin-alt py-6 mb-6 rte long-form">
 
-    <h4>Checking in with the Partner Organization</h4>
-    <p>Regular check-ins with the partner organization go a long way towards setting up your project for success. Regular communication with the Project Champion throughout the project ensures that progress and expectations are shared and updated in real-time, and any roadblocks or pivots that require collaboration between the DataKind team and partner organization can be swiftly addressed. Typically, the Project Manager sets up these meetings while the Data Ambassador runs them.</p>
-    <p>In addition to our <a href="https://playbook.datakind.org/playbook/articles/133">general recommendations for working with Project Champions</a> the following are some specific tips from veteran DataKind volunteers for running effective check-ins:</p>
+    <h4>Coding and Working with Data at DataKind</h4>
+    <h5>Working with Data</h5>
+    <p>When working with data at DataKind, we uphold <a href="https://playbook.datakind.org/playbook/articles/31/data-storage-security-management">the data security requirements and storage agreements decided for each project</a>. For example, some projects request that you save data directly on your local computer, while other projects require you to keep the data in the cloud environment and work with it from there, never downloading it to your local computer. Whatever the specific requirements are for your project, we are <a href="https://gdpr.eu/">GDPR compliant at DataKind</a> , so treat data carefully and maintain data security at all times.</p>
+
+    <p>As a general best practice, don’t store data on GitHub or check data into git. Instead,</p>
     <ul>
-        <li><b>Getting started</b></li>
-        <ul style="list-style-type: circle;">
-            <li>If the partner is in a different country or local context than you are, start by asking them what local holidays you should be aware of. Add those holidays to your own calendar and to any planning documents, so you can be aware of them and plan meetings/work around them accordingly.</li>
-            <li>Start each meeting with an icebreaker question, as a small way to remind everyone to keep having fun and treat each other as humans. Take advantage of <a href="https://docs.google.com/spreadsheets/d/1bYfIjyJtwgDVhPvSJSmABu7fbY2JnB1rVlMYcfQNipc/edit#gid=0">this list</a> for ideas!</li>
-        </ul>
-        <li><b>Meeting attendees and roles</b></li>
-        <ul style="list-style-type: circle;">
-            <li>Make sure that the partner organization’s Project Champion and/or Data Specialist can attend.</li>
-            <li>The Project Manager should take the lead to review project progress from the last meeting(s) and set the agenda for the next meeting, to ensure the DataKind team has the information needed to make progress.</li>
-            <li>Establish clear roles of all the individuals on a call to identify who's doing what, such as: notetaker, project manager, etc.. Otherwise, everyone will do nothing or everything.</li>
-        </ul>
-        <li><b>Meeting agendas</b></li>
-        <ul style="list-style-type: circle;">
-            <li>Always set an agenda for all meetings that focuses on the goal the meeting is trying to achieve, because it's easy to run out of time. Prioritize what will be most important, and focus on that. Send out the agenda in advance to keep meetings focused.. Also send out pre-reading materials in advance of the meeting as much as possible so that everyone can come to the meeting with the same information to discuss.</li>
-            <li>Agree on an agenda for the next meeting at the last meeting. Write it down so it is discussed and there is alignment. Anyone can reply on the notes document directly to make sure there’s no confusion in the future.</li>
-        </ul>
-        <li><b>Notes and documentation</b></li>
-        <ul style="list-style-type: circle;">
-            <li>Take notes! Keep a running log of meeting notes and action items to share internally and with the partner organization. It's helpful to share your screen while taking notes so that anyone can capture anything that is incorrect in the moment and fix it.</li>
-            <li>Follow-up a meeting with sharing concise, clear next steps that are not too long or short. Ask for confirmation and suggestions if anything was missed for alignment. This follow-up email after a call is so important because it is easy to forget one hour later what you just talked about.</li>
-        </ul>
-        <li><b>Other best practices</b></li>
-        <ul style="list-style-type: circle;">
-            <li>In order to keep things moving, it can be helpful for the Data Ambassador, Project Manager, and anyone overseeing the project to have bi-weekly check-ins separate from the team meetings.</li>
-            <li>If the check-in will involve an in-depth conversation about your project methodology, consider preparing a document or slide deck summarizing what you want to convey ahead of time, as verbally explaining new complex ideas does not set your partner up to successfully process and respond in real time.</li>
-            <li>Don’t let conversations become too abstract in meetings. Keep track of tangible and specific tasks and outputs that are expected from everyone, so everyone knows what they need to do in the follow-up.</li>
-            <li>Before a meeting or conversation, have it in your head what the best, worst, and likely outcomes are for the call. Agree on it beforehand with the team you are working on to all align in the meeting.</li>
-        </ul>
+        <li>Add data formats to data/.gitignore</li>
+        <li>Share all data via Google Drive</li>
+        <li>Sync data from Google Drive or load directly</li>
     </ul>
-         
     
+    <p>(For more on DataKind's GitHub Workflow, see <a href="https://playbook.datakind.org/playbook/articles/205">this article</a>.)</p>
+
+    <p>If you are ever unclear about an expectation around data, don’t be afraid to ask! </p>
+
+    <h5>Coding</h5>
+    <p>When coding at DataKind, we build a culture of code review within the project team because little bugs always just happen! It’s also a great way to include more volunteers. As a data scientist, we expect you probably have a grasp of some coding best practices, but we would be remiss to not mention a few essential coding best practices to keep in mind:</p>
+    <ul>
+        <li>Always keep a log.</li>
+        <li>Follow <a href="https://ropensci-archive.github.io/reproducibility-guide/">best practices</a> to ensure code reproducibility. To help, we've created a GitHub actions template, which you can use to easily set up a new DataKind GitHub repo (more info <a href="https://playbook.datakind.org/playbook/articles/194/using-github-to-set-up-your-datakind-project">here</a>). We also have a standard DataKind GitHub Workflow, which you can find in <a href="https://playbook.datakind.org/playbook/articles/205">this Playbook article</a>.</li>
+        <li>Never hard code values.</li>
+        <li>Write clear, concise comments, including input and return output types for each function you use.</li>
+        <li>Document how you handle edge cases and outliers. Never delete data without commenting why.</li>
+        <li>Don’t forget to include prerequisite software installation commands in your code.</li>
+        <li>Print the time taken by each function and the entire code, including important lines like data inserting or pre-processing if the functions don't exist. In notebooks, it is recommended to use a plugin (for example, <a href="https://stackoverflow.com/questions/56843745/automatic-cell-execution-timing-in-jupyter-lab">this one</a>).</li>
+        <li>For software development projects, make sure the test cases exist (APIs, DB querying, get and put requests).</li>
+        <li>Secure all http requests.</li>
+        <li>If you have a server receiving data from external users, use the query parameters built into every database drive to ensure the content conforms to allowed values to avoid SQL injection attacks.</li>
+        <li>Most projects will need a license. The <a href="https://opensource.org/licenses/MIT">MIT license</a> is a good default if you're not sure what to use.</li>
+    </ul>
+    <h5>Open Sourcing - Python Code Consistency</h5>
+    <p>Effective coding collaboration is enabled by sharing code that has been developed to a standard quality. However, the standard should not be too aggressive as to impede progress. To this end, we use two tools as described <a href="https://towardsdatascience.com/keep-your-code-clean-using-black-pylint-git-hooks-pre-commit-baf6991f7376">here</a>.</p>
+    <ol>
+        <li>The <a href="https://pypi.org/project/black/">formulaic python formatter “black”</a>. As described by its authors it is deterministic and fast, but can be modified. We use the default settings, most notably formatting to a character limit of 88 per line.</li>
+        <li>The <a href="https://pylint.org/">code linter pylint</a>. This follows the <a href="https://peps.python.org/pep-0008/">PEP8 style standard</a>. PEP8 formatting standards are taken care of in black, with the exception that the default pylint line length is 80. Pylint is also modifiable and a standard set of exclusions to the PEP8 standard we have chosen are found <a href="https://github.com/datakind/medic_data_integrity/blob/main/.pylintrc">here</a>. We chose the default score of 7 as the minimum score for pylint to be shared.</li>
+    </ol>
+    <p>The combination of black and <a href="https://example.com/pylint">pylint</a> are needed before sharing code, and there are a number of ways to implement them in practice. Many common IDEs like <a href="https://code.visualstudio.com/docs/python/editing#_general-formatting-settings">VSCode</a> and <a href="https://plugins.jetbrains.com/plugin/11084-pylint">PyCharm</a> have settings or plugins for the packages. They can be incorporated into the git process using a pre-commit hook as described in the first resource. An optional slightly modified setup script for the pre-commit hook can be found <a href="https://github.com/datakind/medic_data_integrity/blob/main/setup_hooks.sh">here</a>.</p>
+    <p>Finally, no guidelines for coding consistency would be complete without unit tests. As many different styles of unit testing exist, we don’t make specific recommendations on the type or style of unit tests, but we do recommend using them in the <a href="https://pytest.org/">pytest</a> framework.</p>
+
+
+    
+    
+
+
+
+
+
 
     <!---
     

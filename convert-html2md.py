@@ -24,7 +24,7 @@ def convert_html_to_markdown(folder):
                     soup = BeautifulSoup(file, 'html.parser')
                 
                 # Find the div with class "container-wide"
-                container = soup.find('div', class_='container-wide')
+                container = soup.find('main', class_='main page-content')
                 if container:
                     # Convert the contents to markdown
                     markdown_content = md(str(container))

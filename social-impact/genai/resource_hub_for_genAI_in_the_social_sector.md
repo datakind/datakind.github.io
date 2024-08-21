@@ -1,18 +1,12 @@
-
-
-
-
-
-**Intended audience:**
-Social Impact Professionals
-
-
-
-
-
-
-#### Resource Hub for GenAI in the Social Sector
-
+---
+layout: default
+title: Resource Hub for GenAI in the Social Sector
+date: 02/29/2024
+author: John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky
+audience: Social Impact Professionals
+category: social-impact
+subcategory: genai
+---
 
 Looking for more? This field is constantly changing, but here are some resources that DataKind finds particularly useful for social impact organizations considering using Generative AI. 
 
@@ -185,33 +179,3 @@ Safety solutions
 
 
 Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
-
-
-
-
----
-
-
- **Contributer(s):** John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

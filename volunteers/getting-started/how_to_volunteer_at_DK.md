@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### How to Volunteer at DataKind
-
+---
+layout: default
+title: How to Volunteer at DataKind
+subtitle:
+date: 02/29/2024
+author: Nicole Kidman
+audience: DataKind Volunteers
+category: volunteers
+subcategory: getting-started
+---
 
 Volunteers are the lifeblood of DataKind! Our volunteers strategically apply their expertise to critical issues such as poverty, healthcare access, and mitigating the impacts of climate change, while working directly with both DataKind staff and our social impact partners.
 
@@ -34,10 +29,6 @@ There are a few ways in which you can volunteer at DataKind:
 
 To learn more about real DataKind volunteers and the types of work they do, check out the “volunteer spotlight” series in our [blog](https://www.datakind.org/blog/).
 
-
-
-
----
 
 
 ##### Volunteer Requirements
@@ -67,33 +58,3 @@ Besides the warm fuzzy feeling you get from helping others, benefits of voluntee
 
 
 Feel free to email us at community@datakind.org or schedule time with our [office hours](https://playbook.datakind.org/playbook/articles/11) to discuss.
-
-
-
-
----
-
-
- **Contributer(s):** Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

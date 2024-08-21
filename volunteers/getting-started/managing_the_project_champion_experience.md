@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Article: Managing the Project Champion Experience
-
+---
+layout: default
+title: Managing the Project Champion Experience
+subtitle:
+date: 02/29/2024
+author: Nicole Kidman
+audience: DataKind Volunteers
+category: volunteers
+subcategory: getting-started
+---
 
 The [Project Champion](https://playbook.datakind.org/playbook/articles/26/identifying-successful-project-champions) is the point\-person at the partner organization who coordinates activities within the organization and partners with the DataKind team throughout the project’s lifecycle. They are often an end user and/or the data specialist, and someone with deep knowledge and expertise on the problem and/or available data.
 
@@ -68,28 +63,3 @@ The language that an organization uses to describe its day\-to\-day work is a re
 
 * Suppose that a homelessness nonprofit refers to people whom they serve as “guests”. Calling recipients of the nonprofit’s services “guests” rather than “homeless people” demonstrates that you share the partner organization’s commitment to individual human dignity.
 * Suppose that a nonprofit frames their mission in the context of “citizen science”. Linking project workstreams and outcomes back to “citizen science” demonstrates that you support public participation in scientific discovery.
-
-
- **Contributer(s):**  Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

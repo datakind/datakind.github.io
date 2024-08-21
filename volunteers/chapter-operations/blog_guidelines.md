@@ -1,24 +1,15 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Blog Guidelines
-
-
-*Telling Your Story: How to Contribute to Our Blog* 
-
+---
+layout: default
+title: Blog Guidelines
+subtitle: Telling Your Story How to Contribute to Our Blog
+date: 02/29/2024
+author: Caroline Charrow, Melissa, Rachel Wells
+audience: DataKind Volunteers
+category: volunteers
+subcategory: chapter-operations
+---
 
 ##### What’s the DataKind blog? What’s the purpose?
-
 
 Humble. Mindful. Experts. Approachable and fun. Transparent. Diverse. At DataKind, we’re driven by these values and all united by a common mission to use data science and AI in the service of humanity. From highlighting our talented volunteers from around the world to featuring stories about the collaborative projects our global network of pro bono data scientists have worked on with social change organizations, the DataKind blog was created to tell the story of the work we do through engaging content that demonstrates our impact and strengthens our long\-term ties to our supporters. People connect with stories, and the stories we share should paint pictures and evoke emotions. Blogs are featured on the [Blogs page](https://www.datakind.org/blog/) of our website.
 
@@ -130,33 +121,3 @@ How should you share your published blog? Once published, we encourage you to sh
 
 
 Reach out to DataKind’s Director, Communications at [melissa@datakind.org](mailto:melissa@datakind.org) or use the button to the left to “Provide Feedback, Ask Questions!”. Thanks for working with us on content for our blog!
-
-
-
-
----
-
-
- **Contributer(s):** Caroline Charrow, Melissa, Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

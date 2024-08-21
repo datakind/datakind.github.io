@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Concept Note and Discover Documentation
-
+---
+layout: default
+title: Concept Note and Discover Documentation
+subtitle:
+date: 02/29/2024
+author: Benjamin Kinsella, Mallory Sheff
+audience: DataKind Volunteers
+category: project-stages
+subcategory: discovery
+---
 
 Once you have finished your discovery calls and research, you will create a concept note with high level information on the potential project to share with the partner organization to guide them in deciding if they would like to move forward into the Design Stage. It should include the project statement ideas, impact maps, a summary of the data science project ideas, and a summary of the project ethical considerations. Refer to the [concept note template](https://docs.google.com/document/d/1ZoFgERgTtYIpmV7FxaCq6uBU_6eante7T_Mb8gpas3U/edit)  and this  [sample completed concept note](https://docs.google.com/document/d/1mZC3vStTw3uSXINb7vC0LFrczg1qsVExQSPs5N3J64k/edit).
 
@@ -21,28 +16,3 @@ Once the concept note is agreed upon, the partner organization will be asked to 
 
 
 Make sure to document your additional discovery work by putting notes from discovery calls and the results of your work in the relevant shared folder. Be sure that your notes document key decisions made, the rationale for moving forward or not, and/or links to any relevant resources. Additionally, keeping running meeting notes shared between the DataKind team and partner organization team are very helpful in this stage and throughout DataKind’s project process.
-
-
- **Contributer(s):** Benjamin Kinsella, Mallory Sheff
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

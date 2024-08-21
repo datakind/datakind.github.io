@@ -1,20 +1,13 @@
-
-
-
-
-
-Share
-=====
-
-
-The team delivers the final version and documentation so the partner can increase its impact.
-
-
-
-
-
-
-
+---
+layout: default
+title: Share
+subtitle: The team delivers the final version and documentation so the partner can increase its impact.
+date: 02/29/2024
+author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
+audience: DataKind Volunteers
+category: volunteers
+subcategory: volunteer-management
+---
 
 [#### Project Project Surveys
 
@@ -50,23 +43,3 @@ Seward Lee
 
 
 Read More](rewarding_thanking_volunteers.html)
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,27 +1,20 @@
+---
+layout: default
+title: Assessing Data Maturity
+subtitle:
+date: 02/29/2024
+author: Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Emily Yelverton, Dulcie Vousden
+audience: DataKind Volunteers
+category: project-stages
+subcategory: design
+order:
+---
 
+Assessing an organization’s data maturity - broadly, its ability to collect and use data, internally and externally \- is an important step when determining both the fit of a potential project and the organization’s capacity to use and sustain a data science solution.
 
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Assessing Data Maturity
-
-
-Assessing an organization’s data maturity \- broadly, its ability to collect and use data, internally and externally \- is an important step when determining both the fit of a potential project and the organization’s capacity to use and sustain a data science solution.
-
-
-There is no specific data maturity “level” that an organization needs to be at to work with DataKind. They simply must have sufficient familiarity with data to understand and maintain the project output, make continuous improvements, or even build a data pipeline to incrementally update the data to sustain a solution. When scoping, evaluate each of these elements to assess whether the organization can (1\) actually use whatever DataKind builds, and (2\) leverage existing resources (e.g., technical, operational, financial, human, etc.) to manage the continuation of the DataKind solution.
-
+There is no specific data maturity “level” that an organization needs to be at to work with DataKind. They simply must have sufficient familiarity with data to understand and maintain the project output, make continuous improvements, or even build a data pipeline to incrementally update the data to sustain a solution. When scoping, evaluate each of these elements to assess whether the organization can (1\) actually use whatever DataKind builds, and (2) leverage existing resources (e.g., technical, operational, financial, human, etc.) to manage the continuation of the DataKind solution.
 
 ##### Step one: Provide an online data maturity assessment to the partner organization
-
 
 To save time in conversations, we’ve created a  [brief survey template](https://docs.google.com/forms/d/1_gPQ0OCBWhGV3EUY0XM7vhcQrEmaVVGo_j5459N9xvA/edit) for you to share with the organization before setting up a discovery call \- be sure to copy the template into your own folder and share the link to your version, so you can access the responses. This survey should take under 10 minutes to complete, and provide valuable information that will complement the qualitative assessment of the organization's data maturity that you would typically conduct on your first call. We recommend that the Project Champion should complete the survey. If certain questions are outside the scope of this person’s work (e.g., technical questions), we encourage them to seek confirmation from another team member who may have more familiarity with the organization’s data and infrastructure.
 
@@ -112,29 +105,3 @@ Want to learn more about data maturity? Check out the resources below:
 * This [Comparative Study of ICT Maturity Measurement Models](https://www.researchgate.net/publication/336376028_A_Comparative_Study_of_ICT_Maturity_Measurement_Models)
 * CARE created a great [Responsible Data Maturity Model for Development and Humanitarian Organizations](https://login.microsoftonline.com/e83233b7-4813-4ff5-893f-f60f400bfcba/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=BB500DF172BFFD0370CE2F4CDD6A35C130340BD9ED0D3009%2DDC4A25ACF8280A3A168C62C7EE7FEEC42401CAE59043EAFFCFF6BF4981421F3E&redirect%5Furi=https%3A%2F%2Fcareinternational%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=ac3134a1%2De057%2D9000%2D3527%2D122ac66a9dcb)
 * [This report on designing sustainable data institutions from ODI](https://theodi.org/insights/reports/designing-sustainable-data-institutions-paper/)
-
-
-
- **Contributer(s):** Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Emily Yelverton, Dulcie Vousden
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

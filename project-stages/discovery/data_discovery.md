@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Data Discovery
-
+---
+layout: default
+title: Data Discovery
+subtitle:
+date: 02/29/2024
+author: Benjamin Kinsella, Matthew Harris, Seward Lee
+audience: DataKind Volunteers
+category: project-stages
+subcategory: discovery
+---
 
 A data science project is only possible if there’s data to work with, so you’ll need to ensure that the partner organization can provide ready access to the necessary data. At this stage, you’ll want to gain a preliminary understanding of:
 
@@ -34,28 +29,3 @@ While the goals of this stage may seem obvious, there are some subtle and import
 * **Don't believe it until you see it.** Many organizations come claiming they have "30 years of human rights data" that ultimately ends up being a spreadsheet of 30 rows. Almost no organizations that DataKind has worked with have available data that matched what we pictured based on their initial description.
 * **Support sharing imperfect data.** Organizations may worry their data isn’t clean enough, good enough, or that it will show something they've done wrong. Remind them that (assuming you’ve carefully discussed data security requirements) it's okay, we're here to help and to show them, kindly, what they can improve on.
 * **Be mindful of costs.** Unless a project is funded by a grant that is covering the computing costs, we ask that partners plan to host and pay for any needed computing costs. If the partner organization has the capacity to host the data themselves and simply provide the DataKind volunteers with temporary access to the data within their systems, that is our preference.
-
-
- **Contributer(s):** Benjamin Kinsella, Matthew Harris, Seward Lee
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,26 +1,17 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Office Hours
-
+---
+layout: default
+title: Office Hours
+subtitle:
+date: 02/29/2024
+author: Benjamin Kinsella, Caroline Charrow, Shanna Lee, Rachel Wells 
+audience: DataKind Volunteers
+category: volunteers
+subcategory: getting-started
+---
 
 Hello, volunteer! Do you want to talk to someone who works at DataKind 1\-on\-1? You’re in the right place! Whether you are curious about DataKind, projects, need help finding something, want to share your feelings… whatever!
 
-
 Select who you want to talk to and sign up using the link in the table below:
-
-
-
 
 | Who to talk to | Role | Things this person is best positioned to talk about | How to sign\-up for their office hours |
 | --- | --- | --- | --- |
@@ -29,28 +20,3 @@ Select who you want to talk to and sign up using the link in the table below:
 
 
 Additionally, if you want to be in touch with DataKind generally about something, you can reach out to contact@datakind.org and someone at DataKind will get back to you.
-
-
- **Contributer(s):** Benjamin Kinsella, Caroline Charrow, Shanna Lee, Rachel Wells 
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

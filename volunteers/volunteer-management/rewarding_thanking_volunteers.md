@@ -1,17 +1,15 @@
+---
+layout: default
+title: Rewarding and Thanking Volunteers
+subtitle:
+date: 02/29/2024
+author: Daniel Nissani, Seward Lee
+audience: DataKind Volunteers
+category: volunteers
+subcategory: volunteer-management
+---
 
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Rewarding \+ Thanking Volunteers
+#### Rewarding & Thanking Volunteers
 
 
 There's something at DataKind we call the "Ice Cream Principle". It’s an embodiment of the Peak\-End principle, that states that people remember their experiences of events based on how they felt at the peak of the experience and at the end. The study involved giving people ice cream at the end of a painful surgery, hence the name.
@@ -34,33 +32,3 @@ Some tips to make the last stage of the project an extra\-sweet experience:
 
 
 Additionally, consider ways that you can say thank you that support the volunteer’s professional development, such as giving them the opportunity to present at an event or conference, asking them if they want to write a blog about the project, or endorsing them on LinkedIn for their work.
-
-
-
-
----
-
-
- **Contributer(s):** Daniel Nissani, Seward Lee
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

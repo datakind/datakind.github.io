@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-Social Impact Professionals
-
-
-
-
-
-
-#### Data Storage and Security Practices when Partnering with DataKind
-
+---
+layout: default
+title: Data Storage and Security Practices when Partnering with DataKind
+subtitle:
+date: 02/29/2024
+author: Benjamin Kinsella, DKSF Chapter, Jeremy Osborn, Lawrence Kilroy, William Ratcliff, Dulcie Vousden, Edwin Zhang
+audience: Social Impact Professionals
+category: social-impact
+subcategory: scoping
+---
 
 Data security, storage, and privacy are extremely important throughout DataKind's project process. DataKind is [GDPR compliant](https://gdpr.eu/) , but, more importantly, DataKind cares about protecting people's privacy to ensure our work remains in the service of humanity and in alignment with our values. Data sharing occurs during the Design Stage after the appropriate agreements are signed, the necessary data has been identified, and the appropriate data security protocols are in place. Therefore, the norms are set and decisions are made on how to handle data security at the beginning of the Design Stage. This article introduces DataKind's data security establishment process. For a full review of DataKind’s data security standards and policies, see [this slide deck](https://drive.google.com/file/d/19H5Oeyfut1enu2H4v7-lw6MFQ0IpOznk/view?usp=sharing).
 
@@ -53,33 +48,3 @@ Further information and links to resources for DataKind volunteers can be found 
 
 
 Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
-
-
-
-
----
-
-
- **Contributer(s):** Benjamin Kinsella, DKSF Chapter, Jeremy Osborn, Lawrence Kilroy, William Ratcliff, Dulcie Vousden, Edwin Zhang
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

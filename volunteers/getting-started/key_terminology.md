@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Article: Key Terminology
-
+---
+layout: default
+title: Key Terminology
+subtitle:
+date: 02/29/2024
+author: Nicole Kidman
+audience: DataKind Volunteers
+category: volunteers
+subcategory: getting-started
+---
 
 This article provides a list of commonly used terms at DataKind, and what we mean when we say them.
 
@@ -86,28 +81,3 @@ This article provides a list of commonly used terms at DataKind, and what we mea
 
 
 **Theory of change** \- A living tool used by mission\-driven organizations that links what they do, why and how they do it, who they are targeting for results, and what they expect to achieve. It is the organization's roadmap to change, and connects the dots between an organization's day\-to\-day program work and their ultimate mission. For more information, check out [the UN's resource on developing a theory of change.](https://unsdg.un.org/sites/default/files/UNDG-UNDAF-Companion-Pieces-7-Theory-of-Change.pdf)
-
-
- **Contributer(s):** Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

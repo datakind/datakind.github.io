@@ -1,18 +1,12 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Getting Started with GenAI
-
+---
+layout: default
+title: Getting Started with GenAI
+date: 02/29/2024
+author: Rachel Wells, Deborshi Goswami, Daniel Nissani, Caroline Charrow
+audience: DataKind Volunteers
+category: social-impact
+subcategory: genai
+---
 
 Social impact organization professionals who have not started to make use of GenAI or just started out testing different tools often come to a point where they need to make active decisions such as:
 
@@ -55,33 +49,3 @@ Regardless of the use case, specific tools that are currently available or might
 
 
 Whatever software you use at your organization, look into it and you might find some GenAI features at least ready for testing.
-
-
-
-
----
-
-
- **Contributer(s):** Rachel Wells, Deborshi Goswami, Daniel Nissani, Caroline Charrow
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

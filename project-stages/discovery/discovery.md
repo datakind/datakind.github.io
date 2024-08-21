@@ -1,19 +1,13 @@
-
-
-
-
-
-Discovery
-=========
-
-
-Discover if a potential partner organization would be a mutual good fit for DataKind
-
-
-
-
-
-
+---
+layout: default
+title: Discovery
+subtitle: Discover if a potential partner organization would be a mutual good fit for DataKind
+date: 02/29/2024
+author: Rachel Wells with help from Caitlin Augustin, Mitali Ayyangar, Caroline Charrow, Jackson Thomas, Shanna Lee, Michael Dowd, Jake Porway, Russatta Buford, Mallory Sheff, Elana Stern
+audience: DataKind Volunteers
+category: project-stages
+subcategory: discovery
+---
 
 #### Project Stages and Roles
 
@@ -73,18 +67,6 @@ The final stage happens between 3 to 24 months after project completion, at a ti
 * **Volunteers** \- Other volunteers may serve in a variety of roles according to the project needs, from data analyst to user experience designer to database engineer.
 * **Evaluator** \- The person responsible for evaluating the project’s success after it is completed, typically the Chapter Leader, DataKind staff member, or possibly the Data Ambassador if they opt to stay involved beyond project completion.
 * On the social impact organization side, the **Project Champion** is the person at the partner organization responsible for the project from their side, and who works closely with the DataKind team throughout the project process.
-
-
- **Contributer(s):** Rachel Wells with help from Caitlin Augustin, Mitali Ayyangar, Caroline Charrow, Jackson Thomas, Shanna Lee, Michael Dowd, Jake Porway, Russatta Buford, Mallory Sheff, Elana Stern
-
-
-
-
----
-
-
-
-
 
 [#### Overview of the Discovery Stage
 
@@ -305,23 +287,3 @@ Rachel Wells
 
 
 Read More](discovery_checkpoint.html)
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

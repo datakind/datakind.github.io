@@ -1,20 +1,13 @@
-
-
-
-
-
-Generative AI
-=============
-
-
-
-
-
-
-
-
-#### Generative AI
-
+---
+layout: default
+title: Generative AI
+subtitles:
+date: 02/29/2024
+author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
+audience: DataKind Volunteers
+category: social-impact
+subcategory: genai
+---
 
 To get started, you might be wondering what exactly is Generative AI? How is it already being used in the social sector? Our Nonprofit Data 101 webinar series will provide answers to these questions and more, to jump start your learning GenAI in the social sector. 
 
@@ -23,10 +16,6 @@ To get started, you might be wondering what exactly is Generative AI? How is it 
 * [A Year of GenAI Learning](https://youtu.be/Rk6jiKfJxsQ?si=dTsjz30GkBNcx4QZ) as of February 2024 provides an update on how the ecosystem has changed and how it is being used
 * [GenAI in Action](https://www.youtube.com/watch?v=TBhA-78XKjw&t=240s) outlines how this is playing out at three nonprofits as of April 2024\.
 
-
-
-
----
 
 
 
@@ -76,10 +65,6 @@ Regardless of the use case, specific tools that are currently available or might
 
 Whatever software you use at your organization, look into it and you might find some GenAI features at least ready for testing.
 
-
-
-
----
 
 
  **Contributer(s):** Rachel Wells, Deborshi Goswami, Daniel Nissani, Caroline Charrow
@@ -169,23 +154,3 @@ February 29, 2024
 
 
 Read More](genAI_playbook_credits_and_acknowledgements.html)
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

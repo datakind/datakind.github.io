@@ -1,4 +1,12 @@
-
+---
+layout: default
+title: design
+date: 02/29/2024
+author: Rachel Wells
+audience: DataKind Volunteers
+category: project-stages
+subcategory: execute
+---
 
 
 
@@ -68,10 +76,6 @@ Note that we call these “components” and not “steps,” as they should be 
 * Conduct project code and documentation review to ensure the solution is technically correct and documentation meets DataKind standards
 * MUST DO: Project team checks in with advisory team to review what's been executed, discuss results of code review, and decide if the project is ready for handoff
 
-
-
-
----
 
 
 

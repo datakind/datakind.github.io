@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-Social Impact Professionals
-
-
-
-
-
-
-#### GenAI Playbook Credits and Acknowledgements
-
+---
+layout: default
+title: GenAI Playbook Credits and Acknowledgements
+subtitle:
+date: 02/29/2024
+author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
+audience: Social Impact Professionals
+category: social-impact
+subcategory: genai
+---
 
 Many social impact organization professionals and volunteers contributed to the creation of this Playbook, in addition to authors and contributors mentioned in the specific articles. We’d like to acknowledge and thank: 
 
@@ -38,30 +33,3 @@ Additionally, insight from co\-creation sessions and collaborative conversations
 
 
 Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
-
-
-
-
----
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

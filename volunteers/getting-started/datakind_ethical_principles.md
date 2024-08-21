@@ -1,21 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### DataKind’s Ethical Principles
-
-
-*The following is inspired by DataKind UK's original publication of the principles* [DataKind UK's original publication of the principles](https://www.datakind.org/2018/01/22/doing-data-for-good-right/)
-
+---
+layout: default
+title:  DataKind’s Ethical Principles
+subtitle: \*The following is inspired by DataKind UK's original publication of the principles* [DataKind UK's original publication of the principles](https://www.datakind.org/2018/01/22/doing-data-for-good-right/)
+date: 02/29/2024
+author: Nicole Kidman
+audience: DataKind Volunteers
+category: volunteers
+subcategory: getting-started
+---
 
 Ensuring our work is done in the service of humanity and in alignment with our values is our top priority at DataKind. At each stage of a DataKind project, there are various actions DataKinders take to make sure that the project is done ethically. These actions help DataKind teams minimize the potential harm of solutions, allowing them to be more sustainable, impactful, and ethical.
 
@@ -78,28 +70,3 @@ This article provides an overview of the ethical considerations that apply throu
 
 
 *Note: DataKind’s principles were originally drafted and published by DataKind UK on* [their blog](https://www.datakind.org/2018/01/22/doing-data-for-good-right/). *DataKind UK keeps their principles up\-to\-date* [here](https://docs.google.com/document/d/1hvaFvvXD6HlS_WATAt4sZ9UgF4GnAlvuZrZHH-BAW7s/edit#heading=h.q7efcc109ffb).
-
-
- **Contributer(s):** Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,18 +1,12 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Identifying successful Project Champions and Executive Sponsors
-
+---
+layout: default
+title: Identifying successful Project Champions and Executive Sponsors
+date: 02/29/2024
+author: Rachel Wells
+audience: DataKind Volunteers
+category: project-stages
+subcategory: discovery
+---
 
 The partner organization team is made up of a few key roles, sometimes with one person serving multiple roles: 
 

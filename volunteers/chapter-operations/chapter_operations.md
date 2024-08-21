@@ -1,18 +1,13 @@
-
-
-
-
-
-Chapter Operations
-==================
-
-
-
-
-
-
-
-
+---
+layout: default
+title: Chapter Operations
+subtitle:
+date: 02/29/2024
+author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
+audience: DataKind Volunteers
+category: volunteers
+subcategory: chapter-operations
+---
 
 [#### How to run a DataJam
 
@@ -167,23 +162,3 @@ Benjamin Kinsella
 
 
 Read More](chapter_logos_avatars.html)
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

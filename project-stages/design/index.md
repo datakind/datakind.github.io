@@ -1,30 +1,15 @@
-
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-title: design
+title: Design
+subtitle: Explore the data, dive into the partner's challenges and goals, and design a project accordingly.
 date: 02/29/2024
 author: Rachel Wells
+audience: DataKind Volunteers
+category: project-stages
+subcategory: design
 ---
 
-
-
-Design
-======
-
-
-Explore the data, dive into the partner's challenges and goals, and design a project accordingly.
-
-
-
-
-
-
-
 #### Introduction to the Design Stage
-
 
 Once DataKind and the partner agree to move forward with designing a project together, they move into the second project stage: Design. In this stage, DataKind and the partner organization collaborate closely, starting with essential legal agreements, to creatively conceptualize and plan their project. This phase focuses on assessing data, refining project ideas, and establishing clear goals, ultimately culminating in a detailed Project Brief aimed at achieving sustainable impact as outlined below.
 
@@ -51,58 +36,34 @@ Many of the following components can happen in any order, or in parallel with ea
 
 
 * **MUST DO before starting the Design stage**
-+ Sign a mutual NDA and data license agreement
-
+    * Sign a mutual NDA and data license agreement
 
 * Complete throughout the Design stage in the order that works for your team and project
-+ Review data security requirements with the partner organization and create and implement a data management plan
-+ Complete a data audit, ensuring you have the correct and sufficient data to complete the proposed project
-+ Evaluate possible data inclusion \& exclusion risks and create a mitigation strategy
-+ Consider who should weigh in on project ideas as advisors or subject matter experts and incorporate their feedback
-+ Identify communities impacted or affected by this work and ensure accountability measures are built into the project
-+ Assess project\-specific risks and ethical implications of the end products, establishing a plan to ensure the project incorporates responsible data science practices
-+ Determine if the project is feasible and define technical methodology
-+ Refine the drafted project statements and decide on associated specific success metrics for the project
-+ Agree with the partner organization on a plan for how you will gather the success metrics to measure impact in the long term
-+ Identify organization's software and tool cost limitations and agree on software and tools needed accordingly
-+ Draft a pathway to adoption and sustainability plan for the organization post\-project to check that the project is realistically sustainable
-+ All parties decide to pursue the project and agree on clearly defined deliverables and timescales
-+ Complete your project brief, documenting all design work
-
+    * Review data security requirements with the partner organization and create and implement a data management plan
+    * Complete a data audit, ensuring you have the correct and sufficient data to complete the proposed project
+    * Evaluate possible data inclusion \& exclusion risks and create a mitigation strategy
+    * Consider who should weigh in on project ideas as advisors or subject matter experts and incorporate their feedback
+    * Identify communities impacted or affected by this work and ensure accountability measures are built into the project
+    * Assess project\-specific risks and ethical implications of the end products, establishing a plan to ensure the project incorporates responsible data science practices
+    * Determine if the project is feasible and define technical methodology
+    * Refine the drafted project statements and decide on associated specific success metrics for the project
+    * Agree with the partner organization on a plan for how you will gather the success metrics to measure impact in the long term
+    * Identify organization's software and tool cost limitations and agree on software and tools needed accordingly
+    * Draft a pathway to adoption and sustainability plan for the organization post\-project to check that the project is realistically sustainable
+    * All parties decide to pursue the project and agree on clearly defined deliverables and timescales
+    * Complete your project brief, documenting all design work
 
 * **MUST DO at the end of the Design stage**
-+ Create and sign services agreement
-+ Scoper(s) check in with advisory team to review what was designed
+    * Create and sign services agreement
+    * Scoper(s) check in with advisory team to review what was designed
 
 
- **Contributer(s):** Rachel Wells
-
-
-
-
----
-
-
-
-
-
-[#### Design Stage Launch Agreements
-
-
+#### [Design Stage Launch Agreements](/project-stages/design/design_stage_launch_agreements.html)
 March 28, 2024
-
-
-![Jiyon Yun image](https://avatars.githubusercontent.com/u/95733281?s=72)
-
-
+<img src="https://avatars.githubusercontent.com/rachelauryn?s=72" alt="Rachel Wells" height="72" width="72"/>
 Rachel Wells
+[Read More](/project-stages/design/design_stage_launch_agreements.html)
 
-
-@rachelauryn
-
-
-
-Read More](design_stage_launch_agreements.html)
 [#### Data Storage, Security, and Management Processes
 
 
@@ -307,23 +268,3 @@ Rachel Wells
 
 
 Read More](design_checkpoint.html)
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

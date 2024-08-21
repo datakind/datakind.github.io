@@ -1,4 +1,12 @@
-
+---
+layout: default
+title: design
+date: 02/29/2024
+author: Rachel Wells
+audience: DataKind Volunteers
+category: project-stages
+subcategory: share
+---
 
 
 
@@ -54,10 +62,6 @@ DataKind has created a [repository of email templates](https://docs.google.com/d
 
 \* See the “Chapter Leader Management” section of this playbook for more details on these steps.
 
-
-
-
----
 
 
 

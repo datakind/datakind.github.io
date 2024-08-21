@@ -1,15 +1,13 @@
-
-
-
-
-
-
-
-
-Volunteers
-==========
-
-
+---
+layout: default
+title: Volunteers
+subtitle:
+date: 02/29/2024
+author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
+audience: DataKind Volunteers
+category: volunteers
+subcategory: getting-started
+---
 
  This section of the Playbook contains articles authored by the community team, tailored to various volunteer roles. Please click on a topic to sort the articles accordingly.
 
@@ -143,26 +141,3 @@ Rachel Wells
 
 
 Read More](key_terminology.html)
-
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

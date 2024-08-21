@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-Social Impact Professionals
-
-
-
-
-
-
-#### GenAI Use Case Selection and Risk Assessment
-
+---
+layout: default
+title: GenAI Use Case Selection and Risk Assessment
+subtitle:
+date: 02/29/2024
+author: John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky
+audience: Social Impact Professionals
+category: social-impact
+subcategory: genai
+---
 
 Once you’ve made your way through steps one through four in the Playbook article “Getting Started with GenAI,” you might be ready to evaluate and select your first GenAI use case. This article is intended for anyone at social impact organizations engaging in the strategic design and decision making around GenAI use cases and risk mitigation, accessible and useful to both technical and nontechnical audiences.
 
@@ -159,33 +154,3 @@ This about how harmful the risk is, beneficial the use case is, and feasible the
 
 
 Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
-
-
-
-
----
-
-
- **Contributer(s):** John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

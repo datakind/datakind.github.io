@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Identifying \& Scoping an Equitable Data Project
-
+---
+layout: default
+title: Identifying \& Scoping an Equitable Data Project
+subtitle:
+date: 02/29/2024
+author: Caitlin Augustin, Shanna Lee, Caroline Charrow, Sarah Lenet, Fotis Zapantis
+audience: DataKind Volunteers
+category: social-impact
+subcategory: engineering
+---
 
 At DataKind, we feel “a problem well\-stated is half\-solved” (Charles Kettering), which is why our teams spend a significant amount of time working with social impact organizations to understand their pain points, co\-design an ideal end state, and identify the resources needed and available to create a data\-driven solution. We call this process “scoping,” and find that scoping a project well is the most important element of a “data science for good” project.
 
@@ -135,33 +130,3 @@ With these defined, we’re ready for all parties to agree on clearly defined de
 
 
 All this said, we’re always refining and improving our processes, and this is what DataKind’s Playbook is all about. Share your feedback and ideas for how we can improve our scoping process to support Social Impact Organizations in the comments below.
-
-
-
-
----
-
-
- **Contributer(s):** Caitlin Augustin, Shanna Lee, Caroline Charrow, Sarah Lenet, Fotis Zapantis
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

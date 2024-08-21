@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Expense \+ Reimbursement
-
+---
+layout: default
+title: Expense and Reimbursement
+subtitle:
+date: 02/29/2024
+author: Caroline Charrow
+audience: DataKind Volunteers
+category: volunteers
+subcategory: chapter-operations
+---
 
 ##### [Chapter expense policy](https://docs.google.com/document/d/1BrvuSbxnULf6hFENU0rihevSWdFkd9w5uLKNApfB8L4/edit)
 
@@ -39,33 +34,3 @@ For expenses that aren't already in your approved chapter budget.
 * [DKDC](https://docs.google.com/spreadsheets/d/1Muk6mfwJ-n7FTUrEiEt7kI_Pf_5mUi0ejgY0HiZI4rM/edit?gid=0#gid=0)
 * [DKSF](https://docs.google.com/spreadsheets/d/1YlQtcxat0EUfozhuQz3iBdDx5QNB5AlMy5IVfT1SCmQ/edit?gid=1274153183#gid=1274153183)
 * [DKSG](https://docs.google.com/spreadsheets/d/1fz3fTtzfMwfhHPuUvRMM_sap8yt7P6w7xoP8owkWgvc/edit?gid=1665628585#gid=1665628585)
-
-
-
-
----
-
-
- **Contributer(s):** Caroline Charrow
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

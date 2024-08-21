@@ -1,17 +1,13 @@
-
-
-
-
-
-Volunteer Management
-====================
-
-
-
-
-
-
-
+---
+layout: default
+title: Volunteer Management
+subtitle:
+date: 02/29/2024
+author: Daniel Nissani, Seward Lee
+audience: DataKind Volunteers
+category: volunteers
+subcategory: volunteer-management
+---
 
 #### Post\-Project Surveys
 
@@ -79,10 +75,6 @@ DataKind strives to continuously adjust its processes to best support partner or
 
 
 
-
----
-
-
  **Contributer(s):** Rachel Wells with help from Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff
 
 
@@ -111,33 +103,3 @@ Some tips to make the last stage of the project an extra\-sweet experience:
 
 
 Additionally, consider ways that you can say thank you that support the volunteer’s professional development, such as giving them the opportunity to present at an event or conference, asking them if they want to write a blog about the project, or endorsing them on LinkedIn for their work.
-
-
-
-
----
-
-
- **Contributer(s):** Daniel Nissani, Seward Lee
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

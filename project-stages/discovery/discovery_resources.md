@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Discovery Resources
-
+---
+layout: default
+title: Discovery Resources
+subtitle:
+date: 02/29/2024
+author: Danning Chen, Matthew Harris, Nathan Banion, Mallory Sheff, Benjamin Kinsella, Shanna Lee
+audience: DataKind Volunteers
+category: project-stages
+subcategory: discovery
+---
 
 ##### Email templates
 
@@ -51,29 +46,3 @@ Copy the folder structure template and all the templates inside it to create you
 
 * Put a copy of the intake form results in the “1 Discover” folder for reference.
 * Add a spreadsheet of final volunteer team information (emails, roles etc.) to the “3 Prepare” folder for reference.
-
-
-
- **Contributer(s):** Danning Chen, Matthew Harris, Nathan Banion, Mallory Sheff, Benjamin Kinsella, Shanna Lee
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

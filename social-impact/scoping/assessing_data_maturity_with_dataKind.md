@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-Social Impact Professionals
-
-
-
-
-
-
-#### Assessing Data Maturity with DataKind
-
+---
+layout: default
+title: Assessing Data Maturity with DataKind
+subtitle:
+date: 02/29/2024
+author: Rachel Wells, Caroline Charrow, Fotis Zapantis
+audience: Social Impact Professionals
+category: social-impact
+subcategory: scoping
+---
 
 “Data maturity” broadly describes an organization’s ability to collect and use data, and provides a framework to assess its data capabilities. Data maturity encompasses multiple dimensions in addition to an organization’s data infrastructure, such as leadership buy\-in and the emphasis on and activities surrounding data skills, knowledge, ethics, and more. This introductory article summarizes the importance of assessing your organization’s data maturity when discovering potential data science and AI projects, and DataKind's process for doing so. 
 
@@ -30,33 +25,3 @@ Further information, DataKind’s full data maturity assessment process, and lin
 
 
 Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
-
-
-
-
----
-
-
- **Contributer(s):** Rachel Wells, Caroline Charrow, Fotis Zapantis
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

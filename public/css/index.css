@@ -1,66 +1,3 @@
-@font-face {
-    font-family: 'fira';
-    src: url("../fonts/fira/FiraCode-Medium.woff2") format("woff2"), url("../fonts/fira/FiraCode-Medium.woff") format("woff");
-    font-weight: 500;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'fira';
-    src: url("../fonts/fira/FiraCode-Light.woff2") format("woff2"), url("../fonts/fira/FiraCode-Light.woff") format("woff");
-    font-weight: 200;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'fira';
-    src: url("../fonts/fira/FiraCode-Regular.woff2") format("woff2"), url("../fonts/fira/FiraCode-Regular.woff") format("woff");
-    font-weight: 400;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'alliance';
-    src: url("../fonts/alliance-no-2-regular.woff2") format("woff2"), url("../fonts/alliance-no-2-regular.woff") format("woff");
-    font-weight: 400;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'alliance';
-    src: url("../fonts/alliance-no-2-regular-italic.woff2") format("woff2"), url("../fonts/alliance-no-2-regular-italic.woff") format("woff");
-    font-weight: 400;
-    font-style: italic
-}
-
-@font-face {
-    font-family: 'alliance';
-    src: url("../fonts/alliance-no-2-medium.woff2") format("woff2"), url("../fonts/alliance-no-2-medium.woff") format("woff");
-    font-weight: 500;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'alliance';
-    src: url("../fonts/alliance-no-2-semibold.woff2") format("woff2"), url("../fonts/alliance-no-2-semibold.woff") format("woff");
-    font-weight: 600;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'alliance';
-    src: url("../fonts/alliance-no-2-bold.woff2") format("woff2"), url("../fonts/alliance-no-2-bold.woff") format("woff");
-    font-weight: 700;
-    font-style: normal
-}
-
-@font-face {
-    font-family: 'alliance';
-    src: url("../fonts/alliance-no-2-extrabold.woff2") format("woff2"), url("../fonts/alliance-no-2-extrabold.woff") format("woff");
-    font-weight: 800;
-    font-style: normal
-}
-
 /*!
  * @primer/css/core
  * http://primer.style/css
@@ -21531,7 +21468,7 @@ body.search-is-open .search-mask {
     position: relative;
     z-index: 2;
     background: #FFFFFF;
-    padding: 80px 0
+    padding: 40px 0
 }
 
 @media (min-width: 1012px) {

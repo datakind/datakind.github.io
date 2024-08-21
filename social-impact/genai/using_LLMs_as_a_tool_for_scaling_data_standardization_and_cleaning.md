@@ -1,21 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-Social Impact Professionals
-
-
-
-
-
-
-#### Using LLMs as a Tool for Scaling Data Standardization and Cleaning
-
-
-This article contains pointers for anyone looking to adopt LLMs for data standardization and cleaning tasks. It is a deeper dive into the technical details of one use case, intended for a user that is experimenting with Generative AI.
-
+---
+layout: default
+title: Using LLMs as a Tool for Scaling Data Standardization and Cleaning
+subtitle: This article contains pointers for anyone looking to adopt LLMs for data standardization and cleaning tasks. It is a deeper dive into the technical details of one use case, intended for a user that is experimenting with Generative AI.
+date: 02/29/2024
+author: John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky
+audience: Social Impact Professionals
+category: social-impact
+subcategory: genai
+---
 
 This article came from a collaboration between DataKind volunteer Deborshi Goswami and Vivery. Onboarding new partners into the Vivery platform requires a lengthy data collection, cleaning, and standardization process. Since each partner stores data in different formats, a “if\-then” rules\-based parsing approach isn’t flexible enough to work across multiple partners. LLMs can assist with the cleaning and standardization process with messy data that isn’t consistent in its formatting.
 
@@ -77,33 +69,3 @@ On iterating vs getting it right the first time:
 
 
 Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
-
-
-
-
----
-
-
- **Contributer(s):** John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

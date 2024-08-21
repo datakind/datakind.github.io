@@ -1,4 +1,12 @@
-
+---
+layout: default
+title: design
+date: 02/29/2024
+author: Rachel Wells
+audience: DataKind Volunteers
+category: project-stages
+subcategory: evaluate
+---
 
 
 
@@ -47,10 +55,6 @@ Note that the Evaluate Stage varies the most of all the stages between projects,
 
 The Evaluate stage enables us to make sure the solution actually solved for the partner’s needs. This is why evaluation is a crucial stage to make sure the assistance we provide to nonprofits is actually valuable to them.
 
-
-
-
----
 
 
 

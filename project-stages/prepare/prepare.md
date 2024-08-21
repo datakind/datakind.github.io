@@ -1,4 +1,12 @@
-
+---
+layout: default
+title: design
+date: 02/29/2024
+author: Rachel Wells
+audience: DataKind Volunteers
+category: project-stages
+subcategory: prepare
+---
 
 
 
@@ -59,10 +67,6 @@ Ensure project team and partners are aligned on the project plan with clear stag
 
 **MUST DO:** Scoper(s) and project leaders check in with advisory team to review what was prepared, particularly the project plan and agreed upon milestones for execution
 
-
-
-
----
 
 
 

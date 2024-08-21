@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Who Does What in Chapters
-
+---
+layout: default
+title: Who Does What in Chapters
+subtitle:
+date: 02/29/2024
+author: Rachel Wells
+audience: DataKind Volunteers
+category: volunteers
+subcategory: chapter-operations
+---
 
 ##### Chapter Volunteer Roles
 
@@ -44,33 +39,3 @@ There are two main volunteer roles within an individual chapter. Additional role
 
 
 This [document](https://docs.google.com/presentation/d/1QGumMwm_oSj5pzv0GI473OS2QZUFHlC10aKUwJYCd38/edit#slide=id.g942505a870_0_21) aligns the chapter strategies, goals, and how DK Global will support chapter goals.
-
-
-
-
----
-
-
- **Contributer(s):** Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

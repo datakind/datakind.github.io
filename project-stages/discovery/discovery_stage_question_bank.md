@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Discovery Stage question bank
-
+---
+layout: default
+title: Discovery Stage question bank
+subtitle:
+date: 02/29/2024
+author: Nicole Kidman
+audience: DataKind Volunteers
+category: project-stages
+subcategory: discovery
+---
 
 Discovering a project starts with problem identification. As you seek to understand the partner and its pain points, consider using the organization's pre\-mapped logic models based on their theory of change. Work together to draft problem statement(s). In doing this, you can consider asking:
 
@@ -95,28 +90,3 @@ Finally, if the solution pathway proposed is a data tool, here are some question
 
 
 Within at least one discovery call, it will be essential to ask questions as part of checking for DataKind value alignment, specifically focused on Diversity, Equity, and Inclusion (DEI). Make sure to review the questions and means of verification in  [this Playbook article on DataKind Value Alignment.](https://playbook.datakind.org/playbook/articles/22) Most elements of DataKind's DEI due diligence framework are best verified through a combination of discovery calls and research. Gathering information on DEI within the potential partner organization during a discovery call is essential because it is impossible to confidently know how DEI is incorporated into an organization's work solely based on their public messaging. Choose questions to ask based on what you are and are not able to find in your online research.
-
-
- **Contributer(s):** Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

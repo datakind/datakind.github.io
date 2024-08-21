@@ -1,17 +1,13 @@
-
-
-
-
-
-Data Project Scoping
-====================
-
-
-
-
-
-
-
+---
+layout: default
+title: Data Project Scoping
+subtitle:
+date: 02/29/2024
+author: Rachel Wells, with help from Caitlin Augustin, Shanna Lee, Caroline Charrow, Sarah Lenet, Fotis Zapantis
+audience: DataKind Volunteers
+category: social-impact
+subcategory: scoping
+---
 
 #### Identifying \& Scoping an Equitable Data Project
 
@@ -138,24 +134,6 @@ With these defined, we’re ready for all parties to agree on clearly defined de
 
 All this said, we’re always refining and improving our processes, and this is what DataKind’s Playbook is all about. Share your feedback and ideas for how we can improve our scoping process to support Social Impact Organizations in the comments below.
 
-
-
-
----
-
-
- **Contributer(s):** Rachel Wells, with help from Caitlin Augustin, Shanna Lee, Caroline Charrow, Sarah Lenet, Fotis Zapantis
-
-
-
-
----
-
-
-
-
-
-
 [#### Project Statements
 
 
@@ -207,23 +185,3 @@ Rachel Wells
 
 
 Read More](data_storage_and_security_practices_when_partnering_with_dataKind.html)
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

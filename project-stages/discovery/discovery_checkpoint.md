@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Discovery Checkpoint
-
+---
+layout: default
+title: Discovery Checkpoint
+subtitle:
+date: 02/29/2024
+author: Jai B, Bhargav Kowshik, Tina Toni
+audience: DataKind Volunteers
+category: project-stages
+subcategory: discovery
+---
 
 ##### Introduction to Checkpoints
 
@@ -68,28 +63,3 @@ Meeting agenda
 * Discuss and agree on next steps
 * Go over and answer questions on all the steps between now and the Design stage checkpoint
 * Answer any lingering questions
-
-
- **Contributer(s):** Jai B, Bhargav Kowshik, Tina Toni
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

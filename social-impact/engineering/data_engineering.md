@@ -1,17 +1,13 @@
-
-
-
-
-
-Where to Start with Data Engineering
-====================================
-
-
-
-
-
-
-
+---
+layout: default
+title: Where to Start with Data Engineering
+subtitle:
+date: 02/29/2024
+author: Chip Felton, Shouvik Basak, Matthew Hutchinson, Sridhar Ganapathy, Colleen Rosales, Fotis Zapantis, Jay Patel, Michelle Maluwetig, Sarah Lenet
+audience: DataKind Volunteers
+category: social-impact
+subcategory: engineering
+---
 
 Data engineering is an important and overlooked element of using data at social impact organizations (SIOs), required by many data projects to set up or sustain any large scale data work. There’s lots of information available on data engineering, so rather than creating something from scratch, this Playbook article compiles and organizes resources that might be useful for SIOs looking to improve their data infrastructure, answering a few frequently asked questions by pointing you to relevant resources to learn more. 
 
@@ -102,33 +98,3 @@ Start your journey with a book: [Fundamentals of Data Engineering](https://www.o
 
 
 Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
-
-
-  **Contributer(s):** Chip Felton, Shouvik Basak, Matthew Hutchinson, Sridhar Ganapathy, Colleen Rosales, Fotis Zapantis, Jay Patel, Michelle Maluwetig, Sarah Lenet
-
-
-
-
----
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

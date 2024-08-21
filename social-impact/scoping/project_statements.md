@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-Social Impact Professionals
-
-
-
-
-
-
-#### Project Statements
-
+---
+layout: default
+title: Project Statements
+subtitle:
+date: 02/29/2024
+author: Mitali Ayyangar, Cassy L Cox, Caroline Charrow, Shanna Lee, Daniel Nissani, Jake Porway, Mallory Sheff, Rachel Wells
+audience: Social Impact Professionals
+category: social-impact
+subcategory: scoping
+---
 
 One of the most important parts of the DataKind process is mapping the project to the partner organization's desired impact and measures of success. We do this through “project statements,” which are a summary of the project's activities, data, and impact in one simple sentence. Many people think that coming up with a data science solution or running a project is where all the action is, but we have actually found that converting a business problem into a data science\-ready project is the key to success.
 
@@ -57,33 +52,3 @@ For a real life example, *“Lwala Community Alliance exists to reduce maternal 
 
 
 Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
-
-
-
-
----
-
-
- **Contributer(s):** Mitali Ayyangar, Cassy L Cox, Caroline Charrow, Shanna Lee, Daniel Nissani, Jake Porway, Mallory Sheff, Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Consider Existing Solutions
-
+---
+layout: default
+title: Consider Existing Solutions
+subtitle:
+date: 02/29/2024
+author: Daniel Nissani
+audience: DataKind Volunteers
+category: project-stages
+subcategory: discovery
+---
 
 Checking that there is no obvious alternative or existing transferable solution before agreeing to complete a project is essential, because being able to learn from, apply, and expand other people’s work instead of starting from scratch is typically worth the time it takes to onboard to the existing solutions. Here are some tips and places to look for existing solutions: 
 
@@ -25,28 +20,3 @@ Checking that there is no obvious alternative or existing transferable solution 
 
 
 If you do find a transferable solution, this does not mean that you should not do the project! It is possible that customizing the existing solution to fit the partner organization’s data and situation would still be a valuable project requiring DataKind’s support. This is a judgment call you’ll have to make based on the partner organization’s capacity and how complex adopting the existing solution will be.
-
-
- **Contributer(s):** Daniel Nissani
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

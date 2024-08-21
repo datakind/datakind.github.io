@@ -1,4 +1,12 @@
-
+---
+layout: default
+title: design
+date: 02/29/2024
+author: Rachel Wells
+audience: DataKind Volunteers
+category: project-stages
+subcategory: discovery
+---
 
 
 
@@ -56,10 +64,6 @@ The Discovery stage is led by the **Scoper(s)**, which is typically a role for a
 ![Discovery Stage DataKind Project Process](assets/img/Discovery_stage_steps.png)
 
 
-
----
-
-
 ##### Ethical considerations
 
 
@@ -84,10 +88,6 @@ A few other things to be mindful of when considering ethics in the Discovery Sta
 
 Every single step as we discover and design a project is a potential exit point for DataKind or the partner organization. If the partner organization is not aligned or any step of the process is not successful, DataKind will end the engagement or place it on hold. We always document why the engagement was ended or placed on hold, and volunteers are expected to report back to your DataKind staff support with all the relevant documentation when they have identified a need to pause or exit a project.
 
-
-
-
----
 
 
  **Contributer(s):** Rachel Wells

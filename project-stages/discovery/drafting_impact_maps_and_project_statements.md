@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Drafting Impact Maps and Project Statements
-
+---
+layout: default
+title: Drafting Impact Maps and Project Statements
+subtitle:
+date: 02/29/2024
+author: Mitali Ayyangar, Cassy L Cox, Shanna Lee, Daniel Nissani, Jake Porway
+audience: DataKind Volunteers
+category: project-stages
+subcategory: discovery
+---
 
 *“This is THE MOST IMPORTANT part of the entire DK process… converting an ill\-formed business problem into a data science\-ready project is absolutely the key to success.”* \- Jake Porway, DataKind's founder and Executive Director of nine years
 
@@ -105,28 +100,3 @@ For example: MedicMobile exists to provide life\-saving healthcare to those who 
 
 
 ***Every project should have a paragraph like this that all team members can understand.***
-
-
- **Contributer(s):** Mitali Ayyangar, Cassy L Cox, Shanna Lee, Daniel Nissani, Jake Porway
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

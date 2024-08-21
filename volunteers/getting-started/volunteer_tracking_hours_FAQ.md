@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Volunteers Tracking Hours FAQs
-
+---
+layout: default
+title: Volunteers Tracking Hours FAQs
+subtitle:
+date: 02/29/2024
+author: Benjamin Kinsella, Caroline Charrow, Shanna Lee, Rachel Wells
+audience: DataKind Volunteers
+category: volunteers
+subcategory: getting-started
+---
 
 ##### 1\. Why is DataKind asking volunteers for this information?
 
@@ -55,28 +50,3 @@ To comply with both GDPR and PDPA, all volunteers can review our [privacy notice
 
 
 The DK Global Volunteer team will **only** email volunteers with the monthly survey to collect volunteer hours. This email will be sent at the end of each month and may include one reminder email. (These emails are separate from the DataKind newsletter, which is sent to anyone who [subscribes](https://www.datakind.org/subscribe/)).
-
-
- **Contributer(s):** Benjamin Kinsella, Caroline Charrow, Shanna Lee, Rachel Wells 
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

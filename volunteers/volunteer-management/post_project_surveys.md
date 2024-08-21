@@ -1,15 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
+---
+layout: default
+title: Post Project Surveys
+subtitle:
+date: 02/29/2024
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff
+audience: DataKind Volunteers
+category: volunteers
+subcategory: volunteer-management
+---
 
 #### Post\-Project Surveys
 
@@ -74,33 +72,3 @@ If you worked with any other key stakeholders during the project, please survey,
 
 
 DataKind strives to continuously adjust its processes to best support partner organizations and volunteers. To that end, these survey results allow DataKind to learn more about their experience and ways in which it could be improved. As a reminder, responses are always confidential and will never include details that directly identify the respondent. For qualitative responses, we also provide a text box for complaints and/or feedback. If an issue is raised, we will directly follow up only if it is requested. The completed surveys are kept in a secure place, which are never shared with anyone outside of DataKind staff and Chapter Leaders. If survey results are used internally for DataKind programmatic decision\-making, findings would only be presented in aggregate. If you have any questions about these surveys, please feel free to use the button on the left to “Provide Feedback, Ask Questions!”
-
-
-
-
----
-
-
- **Contributer(s):** Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

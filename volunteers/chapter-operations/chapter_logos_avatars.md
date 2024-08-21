@@ -1,18 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Chapter Logos and Avatars
-
+---
+layout: default
+title: Chapter Logos and Avatars
+subtitle:
+date: 02/29/2024
+author: Caroline Charrow, Melissa, Elana Stern, Rachel Wells
+audience: DataKind Volunteers
+category: volunteers
+subcategory: chapter-operations
+---
 
 **Note:** You can find our full [DataKind Style Guide for Chapters](https://drive.google.com/file/d/1WYHzxypKOY_9l4-GIRsawIsfI-ulZCpf/view) here.
 
@@ -55,33 +50,3 @@ Do not add any graphics, illustrations, or icons.
 
 
 Included with the Chapter logos are avatars for each Chapter. These avatars should be used for social media profile pictures, Slack channel icons, and the like.
-
-
-
-
----
-
-
- **Contributer(s):** Caroline Charrow, Melissa, Elana Stern, Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

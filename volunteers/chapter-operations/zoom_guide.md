@@ -1,21 +1,13 @@
-
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Zoom Guide
-
-
-This article outlines DataKind’s Zoom rooms that are available for Chapter use, as well as how to use the most common Zoom features. For more detailed Zoom guidance, check out the [Zoom Help Center.](https://support.zoom.com/hc/en)
-
+---
+layout: default
+title: Zoom Guide
+subtitle: This article outlines DataKind’s Zoom rooms that are available for Chapter use, as well as how to use the most common Zoom features. For more detailed Zoom guidance, check out the [Zoom Help Center.](https://support.zoom.com/hc/en)
+date: 02/29/2024
+author: Caroline Charrow
+audience: DataKind Volunteers
+category: volunteers
+subcategory: chapter-operations
+---
 
 ##### Zoom Lines
 
@@ -186,33 +178,3 @@ You can take advantage of Zoom Breakout Rooms to break a meeting into smaller gr
 
  Zoom has a [built\-in live transcription feature](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0062490) to automatically provide closed captions for your meeting. However, if you will have meeting participant(s) who are deaf or hard of hearing, we recommend paying a professional transcriber to provide the captions, or hiring a professional sign language interpreter, as the automated transcription is not entirely accurate. Contact [caroline@datakind.org](mailto:caroline@datakind.org) to discuss paying for these expenses with your Chapter budget.
  
-
-
-
-
----
-
-
- **Contributer(s):** Caroline Charrow
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

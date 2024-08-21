@@ -1,17 +1,13 @@
-
-
-
-
-
-Volunteer Management
-====================
-
-
-
-
-
-
-
+---
+layout: default
+title: Volunteer Management
+subtitle:
+date: 02/29/2024
+author: Rachel Wells, Asnat Ghebremedhin
+audience: DataKind Volunteers
+category: volunteers
+subcategory: donate
+---
 
 #### Double Your Donation
 
@@ -32,17 +28,6 @@ Thank you for being an important part of the DataKind volunteer community. Toget
 
 
 Being a not\-for\-loss nonprofit, we fundraise to support the service of ensuring your experience is as smooth and fulfilling as possible \- this includes finding passionate project partners and scoping out preliminary details for high\-impact projects so it's primed for you, the volunteer, to be the technologist bosses you are. And we want to continue growing the great work across our global network, which requires finding corporate partners who are willing to give financially to support this work.
-
-
-
-
----
-
-
- **Contributer(s):** Rachel Wells with help from Asnat Ghebremedhin
-
-
-
 
 #### Share a Funding Opportunity with DataKind
 
@@ -109,33 +94,3 @@ We’ve captured this process in a google form so nothing falls through the crac
 
 
 If you have suggestions to improve the process, we’d love to hear them!
-
-
-
-
----
-
-
- **Contributer(s):** Asnat Ghebremedhin with help from Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

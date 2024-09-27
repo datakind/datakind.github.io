@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Overview of the Discovery Stage
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Overview of the Discovery Stage
-
 
 ##### Overview
 
@@ -87,29 +73,3 @@ A few other things to be mindful of when considering ethics in the Discovery Sta
 
 
 Every single step as we discover and design a project is a potential exit point for DataKind or the partner organization. If the partner organization is not aligned or any step of the process is not successful, DataKind will end the engagement or place it on hold. We always document why the engagement was ended or placed on hold, and volunteers are expected to report back to your DataKind staff support with all the relevant documentation when they have identified a need to pause or exit a project.
-
-
-
- **Contributer(s):** Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

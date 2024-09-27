@@ -8,7 +8,7 @@
 			</a>
 		</div>
 		<ul class="desktop-navigation" style="color:black">
-		  {% assign grouped_pages = site.pages | group_by: 'category' | sort:"name"%}
+		  {% assign grouped_pages = site.pages | group_by: 'category' | sort:"name" %}
 		  {% for category in grouped_pages %}
 			{% unless category.name == null or category.name == "" %}
 		  
@@ -20,11 +20,11 @@
 				  </path>
 				</svg></h3></a>
 				<ul class="sub-nav">
-				  {% assign sub_grouped_pages = category.items | group_by: 'subcategory' %}
+				  {% assign sub_grouped_pages = category.items | group_by: 'subcategory' | sort:"name" %}
 				  {% for subcategory in sub_grouped_pages %}
 					{% if subcategory.name %}
 					  <li>
-						<a href="/{{ category.name }}/{{ subcategory.name}}"><h4>{{ subcategory.name | capitalize_all }}</h4></a>
+						<a href="/{{ category.name }}/{{ subcategory.name}}"><h4>{{ subcategory.name | replace:'-',' ' | capitalize_all }}</h4></a>
 					  </li>
 					{% endif %}
 				  {% endfor %}

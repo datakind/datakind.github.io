@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: design
 date: 02/29/2024
 author: Rachel Wells

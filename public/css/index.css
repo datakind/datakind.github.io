@@ -24815,7 +24815,7 @@ swiper-container .swiper-notification {
 .longform img,
 .rte img {
     width: 100%;
-    margin: 36px 0
+    /* margin: 36px 0 */
 }
 
 .longform h1,

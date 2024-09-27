@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Discovery
 subtitle: Discover if a potential partner organization would be a mutual good fit for DataKind
 date: 02/29/2024
@@ -7,6 +7,22 @@ author: Rachel Wells with help from Caitlin Augustin, Mitali Ayyangar, Caroline 
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+articles:
+  - title: "Overview of the Discovery Stage"
+    filename: "overview_of_the_discovery_stage"
+    date: "March 28, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Discovery Resources"
+    filename: "discovery_resources"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Discovery Calls"
+    filename: "discovery_calls"
+    date: "February 29, 2024"
+    author: "Seward Lee"
+    handle: "sewardlee337"
 ---
 
 #### Project Stages and Roles
@@ -68,222 +84,3 @@ The final stage happens between 3 to 24 months after project completion, at a ti
 * **Evaluator** \- The person responsible for evaluating the project’s success after it is completed, typically the Chapter Leader, DataKind staff member, or possibly the Data Ambassador if they opt to stay involved beyond project completion.
 * On the social impact organization side, the **Project Champion** is the person at the partner organization responsible for the project from their side, and who works closely with the DataKind team throughout the project process.
 
-[#### Overview of the Discovery Stage
-
-
-March 28, 2024
-
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](overview_of_the_discovery_stage.html)
-[#### Discovery Resources
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](discovery_resources.html)
-[#### Discovery Calls
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Seward Lee
-
-
-@sewardlee337
-
-
-
-Read More](discovery_calls.html)
-[#### Discovery Stage question bank
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](discovery_stage_question_bank.html)
-[#### Researching an Organization \+ DataKind Value Alignment Check
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Seward Lee
-
-
-@sewardlee337
-
-
-
-Read More](researching_an_organization.html)
-[#### Identifying successful Project Champions and Executive Sponsors
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Seward Lee
-
-
-@sewardlee337
-
-
-
-Read More](identifying_successful_project_champions_and_executive_sponsors.html)
-[#### Assessing Data Maturity
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](assessing_data_maturity.html)
-[#### Drafting Impact Maps and Project Statements
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](drafting_impact_maps_and_project_statements.html)
-[#### Consider Existing Solutions
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](consider_existing_solutions.html)
-[#### Data Discovery
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](data_discovery.html)
-[#### Concept Note and Discover Documentation
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](concept_note_and_discover_documentation.html)
-[#### When to Pause, Discontinue, or Decline a Project in the Discover Stage
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Benjamin Kinsella
-
-
-@bjk127
-
-
-
-Read More](when_to_pause_discovery.html)
-[#### Discovery Checkpoint
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](discovery_checkpoint.html)

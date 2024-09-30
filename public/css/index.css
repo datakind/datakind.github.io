@@ -25445,3 +25445,31 @@ body.localhost:after {
         content: 'x-large'
     }
 }
+
+.search-results {
+  display: none; /* Hide the div by default */
+  position: absolute;
+  right: 0;
+  margin-right: 10px; /* Adjust the value as needed */
+  background-color: white;
+  width: 25vw; /* Set the width to 25% of the viewport width */
+}
+
+.search-results-ul li {
+  padding: 10px; /* Add some padding for better appearance */
+  cursor: pointer; /* Change cursor to pointer to indicate it's clickable */
+  border: 1px solid black; /* Add a border around each list item */
+  margin-bottom: 5px; /* Add some space between list items */
+}
+
+.search-results-ul li:hover {
+  background-color: #f0f0f0; /* Change background color on hover */
+}
+
+.search-results-ul p {
+    font-weight: bold;
+}
+
+.search-results-ul span {
+    font-style: italic;
+}

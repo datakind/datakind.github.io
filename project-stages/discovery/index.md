@@ -35,7 +35,7 @@ Every stage has Playbook resources including guidelines, best practices, “how 
 
 
 
-![Discovery Stage DataKind Project Process](assets/img/discovery_dk_project_process.jpg)
+![Discovery Stage DataKind Project Process](/public/img/discovery_dk_project_process.jpg)
 
 ##### Discover (\~2\-10 weeks)
 

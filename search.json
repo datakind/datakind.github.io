@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[
+  {% for page in site.pages %}
+  {
+    {% if page.title != nil %}
+       "title"    : "{{ page.title | escape | replace:'\',' ' }}",
+       "category" : "{{ page.category }}",
+       "tags"     : "{{ page.tags | join: ', ' }}",
+       "url"      : "{{ site.baseurl }}{{ page.url }}",
+       "date"     : "{{ page.date }}",
+       "content"  : "{{ page.content | strip_html | strip_newlines | truncate: 200 | replace:'\',' ' | replace:'"',' '}}"
+    {% endif %}
+  } {% unless forloop.last %},{% endunless %}
+ {% endfor %}
+]

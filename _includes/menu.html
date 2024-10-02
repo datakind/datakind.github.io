@@ -1,0 +1,45 @@
+<header class="site-header text-black" id="site-header">
+
+	<div class="container-wide">
+		<div class="site-branding">
+			<a href="/index.html">
+				<img src="/public/img/DK_playbook_org.svg" alt="DataKind logo logo" />
+				<span class="sr-only">Return to homepage</span>
+			</a>
+		</div>
+		<ul class="desktop-navigation" style="color:black">
+			{% assign grouped_pages = site.pages | group_by: 'category' | sort:"name" %}
+			{% for category in grouped_pages %}
+			{% unless category.name == null or category.name == "" %}
+
+			<li class="has-sub-nav">
+				<a href="#">
+					<h3>{{ category.name | replace:'-',' ' | capitalize_all }}
+						<svg height="16" class="octicon octicon-chevron-down" viewBox="0 0 16 16" version="1.1"
+							width="16" aria-hidden="true">
+							<path fill-rule="evenodd"
+								d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z">
+							</path>
+						</svg>
+					</h3>
+				</a>
+				<ul class="sub-nav">
+					{% assign sub_grouped_pages = category.items | group_by: 'subcategory' | sort:"name" %}
+					{% for subcategory in sub_grouped_pages %}
+					{% if subcategory.name %}
+					<li>
+						<a href="/{{ category.name }}/{{ subcategory.name}}">
+							<h4>{{ subcategory.name | replace:'-',' ' | capitalize_all }}</h4>
+						</a>
+					</li>
+					{% endif %}
+					{% endfor %}
+				</ul>
+			</li>
+			{% endunless %}
+			{% endfor %}
+		</ul>
+		{% include search.html %}
+
+	</div>
+</header>

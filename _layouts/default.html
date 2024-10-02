@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body class="page-loading no-js developers-intro" id="page-developers-intro">
+  <a class="skip-to-content" href="#content">skip to content</a>
+
+  {% include menu.html %}
+  <main id="content" class="main page-content" aria-label="Content">
+    <article>
+      <header class="hero-banner hero-banner--auto-height">
+        <div class="wrapper">
+          <div class="hero-banner__content" data-animate-in="up">
+            <h1 class="h0 mt-0 mb-3 text-black">{{ page.title }}</h1>
+            <p class="p-lg">{{ page.subtitle }}</p>
+          </div>
+        </div>
+      </header>
+
+      <div class="wrapper mt-6 pt-6 pt-md-4 pb-4">
+        <div class="skill-level">
+          <p>
+            <b>Intended audience:</b>
+            <span>{{ page.audience }}</span>
+          </p>
+        </div>
+      </div>
+      <div class="wrapper-thin-alt py-6 mb-6 rte long-form">
+        {{ content }}
+
+        <p> <b>Contributer(s): </b>{{ page.author }}</p>
+      </div>
+      {% include footer.html %} 
+
+
+      <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+      <script src="/public/js/gsap.min.js"></script>
+      <script src="/public/js/swiper-bundle.min.js"></script>
+      <script src="/public/js/bundle.js"></script>
+      <script src="/public/js/main.js"></script>
+</body>
+
+</html>

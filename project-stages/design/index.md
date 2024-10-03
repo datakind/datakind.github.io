@@ -7,6 +7,63 @@ author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+articles:
+  - title: "Design Stage Launch Agreements"
+    filename: "design_stage_launch_agreements"
+    date: "March 28, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Data Storage, Security, and Management Processes"
+    filename: "data_storage_security_and_management_processes"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Evaluating Data Inclusion"
+    filename: "evaluating_data_inclusion"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Project Risk and Ethical Assessment"
+    filename: "project_risk_and_ethical_assessment"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Determine Technical Methodology"
+    filename: "determine_technical_methodology"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Define Success Metrics and Create a Measurement Plan"
+    filename: "define_success_metrics_and_create_a_measurement_plan"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Data Science Software and Tools"
+    filename: "data_science_software_and_tools"
+    date: "February 29, 2024"
+    author: "Seward Lee"
+    handle: "sewardlee337"
+  - title: "The Project Brief and Defining Your Deliverables"
+    filename: "the_project_brief_and_defining_your_deliverables"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "The Service Agreement"
+    filename: "the_service_agreement"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "When to Pause, Discontinue, or Decline a Project in the Design Stage"
+    filename: "when_to_pause_design"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "Design Checkpoint"
+    filename: "design_checkpoint"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+
 ---
 
 #### Introduction to the Design Stage
@@ -56,215 +113,3 @@ Many of the following components can happen in any order, or in parallel with ea
 * **MUST DO at the end of the Design stage**
     * Create and sign services agreement
     * Scoper(s) check in with advisory team to review what was designed
-
-
-#### [Design Stage Launch Agreements](/project-stages/design/design_stage_launch_agreements.html)
-March 28, 2024
-<img src="https://avatars.githubusercontent.com/rachelauryn?s=72" alt="Rachel Wells" height="72" width="72"/>
-Rachel Wells
-[Read More](/project-stages/design/design_stage_launch_agreements.html)
-
-[#### Data Storage, Security, and Management Processes
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](data_storage_security_and_management_processes.html)
-[#### Data Audit
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Seward Lee
-
-
-@sewardlee337
-
-
-
-Read More](data_audit.html)
-[#### Evaluating Data Inclusion
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](evaluating_data_inclusion.html)
-[#### Consulting Additional Key Stakeholders
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](consulting_additional_key_stakeholders.html)
-[#### Project Risk and Ethical Assessment
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](project_risk_and_ethical_assessment.html)
-[#### Determine Technical Methodology
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](determine_technical_methodology.html)
-[#### Define Success Metrics and Create a Measurement Plan
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](define_success_metrics_and_create_a_measurement_plan.html)
-[#### Data Science Software and Tools
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Seward Lee
-
-
-@sewardlee337
-
-
-
-Read More](data_science_software_and_tools.html)
-[#### The Project Brief and Defining Your Deliverables
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](the_project_brief_and_defining_your_deliverables.html)
-[#### The Service Agreement
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](the_service_agreement.html)
-[#### When to Pause, Discontinue, or Decline a Project in the Design Stage
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Benjamin Kinsella
-
-
-@bjk127
-
-
-
-Read More](when_to_pause_design.html)
-[#### Design Checkpoint
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](design_checkpoint.html)

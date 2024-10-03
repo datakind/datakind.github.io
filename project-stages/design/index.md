@@ -63,7 +63,6 @@ articles:
     date: "February 29, 2024"
     author: "Rachel Wells"
     handle: "rachelauryn"
-
 ---
 
 #### Introduction to the Design Stage

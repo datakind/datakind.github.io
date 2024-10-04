@@ -8,13 +8,18 @@
 			</a>
 		</div>
 		<ul class="desktop-navigation" style="color:black">
-			{% assign grouped_pages = site.pages | group_by: 'category' | sort:"name" %}
-			{% for category in grouped_pages %}
-			{% unless category.name == null or category.name == "" %}
+			{%- assign grouped_pages = site.pages | group_by: 'category' | sort:"name" -%}
+			{%- for category in grouped_pages -%}
+			{%- unless category.name == null or category.name == "" -%}
 
 			<li class="has-sub-nav">
 				<a href="#">
-					<h3>{{ category.name | replace:'-',' ' | capitalize_all }}
+					<h3>{% assign cat = category.name | replace:'-',' ' | split: ' ' %}
+						{%- capture category_name %}
+						{%- for word in cat %}
+						{{ word | capitalize | + " " }}
+						{%- endfor -%} {%- endcapture -%}
+						{{ category_name | replace: '						', ' ' | strip | strip_newlines }}
 						<svg height="16" class="octicon octicon-chevron-down" viewBox="0 0 16 16" version="1.1"
 							width="16" aria-hidden="true">
 							<path fill-rule="evenodd"
@@ -29,7 +34,20 @@
 					{% if subcategory.name %}
 					<li>
 						<a href="/{{ category.name }}/{{ subcategory.name}}">
-							<h4>{{ subcategory.name | replace:'-',' ' | capitalize_all }}</h4>
+							<h4>
+								{%- assign subcat = subcategory.name | replace:'-',' ' | split: ' ' %}
+								{%- capture subcategory_name %}
+									{%- for word in subcat %}
+										{{ word | capitalize | + " " }}
+								{%- endfor -%}{%- endcapture -%}
+
+								{%- assign subcat_name = subcategory_name | replace: '										', ' ' | strip | strip_newlines %}
+								{%- if subcat_name == "Genai" %}
+								GenAI
+								{%- else %}
+								{{ subcat_name }}
+								{%- endif %}
+							</h4>
 						</a>
 					</li>
 					{% endif %}

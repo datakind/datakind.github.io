@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Design
 subtitle: Explore the data, dive into the partner's challenges and goals, and design a project accordingly.
 date: 02/29/2024

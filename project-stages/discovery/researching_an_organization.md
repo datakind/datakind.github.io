@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Researching an Organization \+ DataKind Value Alignment Check
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Researching an Organization \+ DataKind Value Alignment Check
-
 
 Before initiating a project, you’ll need to conduct due diligence research to make sure that the potential partner organization is a good fit for a DataKind collaboration. If the organization doesn’t have a positive reputation and mission that’s aligned with DataKind’s mission or values, especially our values around diversity, equity, and inclusion, there’s really no potential for a project. Checking for DataKind value alignment includes four primary checks:
 

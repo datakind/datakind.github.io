@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: When to Pause, Discontinue, or Decline a Project in the Discover Stage
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Mitali Ayyangar, Emily Yelverton, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### When to Pause, Discontinue, or Decline a Project in the Discover Stage
-
 
 Saying “no” to a partner is always difficult, especially if you have invested time scoping a project. However, you’re responsible for identifying and scoping high quality data science projects, and that means that you may be faced with the decision to pause or discontinue a potential project. Whatever the reason you are unable to move forward with a project in the current moment, clearly communicate the rationale with the partner \- your role is to guide potential projects that could eventually advance the data science for social good space, and just because a partner isn’t a good fit now doesn’t mean they won’t be in the future.
 
@@ -52,28 +38,3 @@ You’ll need to communicate responsibly and professionally as to why the proble
 
 * Find a way to provide value to the organization, if possible. They’ve spent time talking with DataKind, and we want to make it worth their while. During Discover Stage, we recommend providing the partner organization with some suggested next steps that could improve the project. This could include a summary document of action items that the organization could implement to improve, for example, their data maturity. For an example, see this [concept note](https://docs.google.com/document/d/1ed1k_8F6igl17cZswheacKhVReRxhnW6Uq-wajfS0GA/edit) in which we essentially declined a project. The DataKind volunteer did a great job here to capture the challenge in brief and is clear with the recommendation not to proceed, while still giving the partner recommendations on how to proceed. You may not need to create such a long report \- but think about something structured like this that you can provide to the team.
 * Always communicate in a professional and responsive manner. It is important that you immediately communicate issues to the partner organization and DataKind staff support throughout the scoping process.
-
-
- **Contributer(s):** Caitlin Augustin, Mitali Ayyangar, Emily Yelverton, Mallory Sheff, Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

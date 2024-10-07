@@ -3,7 +3,7 @@ layout: default
 title: Office Hours
 subtitle:
 date: 02/29/2024
-author: Benjamin Kinsella, Caroline Charrow, Shanna Lee, Rachel Wells 
+author: Rachel Wells 
 audience: DataKind Volunteers
 category: volunteers
 subcategory: getting-started

@@ -3,7 +3,7 @@ layout: default
 title: How to Volunteer at DataKind
 subtitle:
 date: 02/29/2024
-author: Nicole Kidman
+author: Shanna Lee
 audience: DataKind Volunteers
 category: volunteers
 subcategory: getting-started

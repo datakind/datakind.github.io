@@ -28,7 +28,7 @@ articles:
     date: "February 29, 2024"
     author: "Caitlin Augustin"
     handle: "augustincaitlin"
-  - title: "Researching an Organization \+ DataKind Value Alignment Check"
+  - title: "Researching an Organization + DataKind Value Alignment Check"
     filename: "researching_an_organization"
     date: "February 29, 2024"
     author: "Caitlin Augustin"

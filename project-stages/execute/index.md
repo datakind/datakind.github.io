@@ -34,7 +34,7 @@ articles:
     author: "Rachel Wells"
     handle: "rachelauryn"
   - title: "Evaluating Bias"
-    filename: "evaluating_bias.html"
+    filename: "evaluating_bias"
     date: "February 29, 2024"
     author: "Benjamin Kinsella"
     handle: "bjk127"

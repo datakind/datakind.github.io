@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Design Checkpoint
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Bhargav Kowshik, Matthew Harris, Arina Igumenshcheva, Michael Wegan
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Design Checkpoint
-
 
 The Design Checkpoint is the point at which the team officially decides whether or not to take on a project. This decision is made by the advisory team (i.e., Chapter Leader(s), DataKind staff support person, etc.). 
 
@@ -61,29 +47,3 @@ Agenda template (feel free to edit based on your specific needs!):
 
 
 To conclude the Checkpoint, Chapter Leaders and/or staff should make sure that all project information is up\-to\-date in Salesforce. Projects that are not pursued should clearly document the reasoning in Salesforce, in case the partner reaches out to DataKind again later. 
-
-
-
- **Contributer(s):** Benjamin Kinsella, Bhargav Kowshik, Matthew Harris, Arina Igumenshcheva, Michael Wegan
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

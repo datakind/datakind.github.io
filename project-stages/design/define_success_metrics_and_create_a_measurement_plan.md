@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Define Success Metrics and Create a Measurement Plan
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Define Success Metrics and Create a Measurement Plan
-
 
 ##### Inputs from Discovery stage:
 
@@ -117,28 +103,3 @@ Congratulations! You just completed a plan for measuring your project’s impact
 
 
 **For further learning and exploration:** Our success metric approach is built using a log frame, which helps structure the main elements of a project, identifying and exhibiting the causal linkages between them. Once complete, log frames help improve planning, implementation, management, monitoring, and evaluation of projects. If interested, [read more about log frames here](https://www.unodc.org/documents/human-trafficking/Toolkit-files/08-58296_tool_10-3.pdf).
-
-
- **Contributer(s):** Benjamin Kinsella
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

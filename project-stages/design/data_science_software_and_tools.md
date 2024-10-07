@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Data Science Software and Tools
 date: 02/29/2024
-author: Rachel Wells
+author: Neal Fultz, Arina Igumenshcheva, Nathan Banion, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Data Science Software and Tools
-
 
 As you design your project, you’ll reach a point where you’ll need to decide what data science tools to use. As you assess whether a tool is a good fit for this project, consider:
 
@@ -88,29 +74,3 @@ If you decide not to use an open source tool, remember to ask the partner organi
 
 
 When in doubt, consider either consulting legal personnel or defaulting to a tool that uses a permissive open source license. If you consider the latter route, check out this page by the [Open Source Initiative](https://opensource.org/licenses) for more details. This is also a great topic to discuss with your DataKind staff support person.
-
-
-
- **Contributer(s):** Neal Fultz, Arina Igumenshcheva, Nathan Banion, Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

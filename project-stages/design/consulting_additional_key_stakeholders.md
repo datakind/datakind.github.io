@@ -8,8 +8,6 @@ category: project-stages
 subcategory: design
 ---
 
-#### Consulting Additional Key Stakeholders
-
 DataKind’s best work is done when we are able to include both subject matter experts and local stakeholders in the Design Stage \- each group can provide invaluable context and insights to inform project design.
 
 ##### Subject Matter Experts

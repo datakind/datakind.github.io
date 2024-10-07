@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Project Risk and Ethical Assessment
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Manojit Nandi, Daniel Nissani
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Project Risk and Ethical Assessment
-
 
 Assessing and mitigating risks is imperative in any data science project. In addition to the strategies outlined in the [evaluating data inclusion article](https://playbook.datakind.org/playbook/articles/44), use the following tips and considerations as you assess the ethics and risks of your potential project. Keep in mind that this guide is not meant to be comprehensive. Let the examples and suggestions below inspire you to think carefully about risks and determine your own evaluation approach that will ensure you are prepared to produce products that will be used for good.
 
@@ -78,28 +64,3 @@ One often overlooked risk is that the project won’t be sustainable within the 
 
 
 Whether the answers to these questions are deal breakers on conducting the project varies depending on context. Still, no DataKind project starts without ensuring there is a plan in place for the organization to sustain and use the project after DataKind leaves! 
-
-
- **Contributer(s):** Benjamin Kinsella, Manojit Nandi, Daniel Nissani
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

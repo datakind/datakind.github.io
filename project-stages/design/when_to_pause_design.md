@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: When to Pause, Discontinue, or Decline a Project in the Design Stage
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Arina Igumenshcheva, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### When to Pause, Discontinue, or Decline a Project in the Design Stage
-
 
 Just like in the [Discover Stage](https://playbook.datakind.org/playbook/articles/163/knowing-when-to-pause-discontinue-or-decline-a-project-in-the-discover-stage), you may be faced with the decision to pause, discontinue, or even decline a potential project during the Design Stage of the scoping process. While you will need to make the decision to either continue with the partner organization or not, the job of Scopers is to think about what the team is missing and communicate that to the organization. This article will help you think about these decisions and communicate them with the partner organization. 
 
@@ -46,28 +32,3 @@ As you evaluate your project based on these criteria, it is important that you c
 * Find templates in our [One Stop Shop for scoping email templates](https://docs.google.com/document/u/0/d/10d_OKPh5TPjpmSjkRYOHEgGgheMo2fIOm7RrXEgEbaM/edit)
 * Just like during Discover Stage, try to find a way to provide value to the organization if possible. They’ve spent time talking with DataKind, and we want to ensure that they leave the process with lessons learned and guidance for next steps. We recommend providing the partner with a proof of concept outlining ways in which their data or infrastructure could be improved for project readiness, and/or creating a summary document of action items that the organization could implement to improve their idea.
 * Always communicate in a professional and responsive manner. It is important that you immediately communicate issues to the Project Champion and DataKind staff throughout the scoping process.
-
-
- **Contributer(s):** Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Arina Igumenshcheva, Mallory Sheff
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -3,7 +3,7 @@ layout: default
 title: Getting Started with GenAI
 date: 02/29/2024
 author: Rachel Wells, Deborshi Goswami, Daniel Nissani, Caroline Charrow
-audience: DataKind Volunteers
+audience: Social Impact Professionals
 category: social-impact
 subcategory: genai
 ---

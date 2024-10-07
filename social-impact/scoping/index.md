@@ -4,9 +4,25 @@ title: Data Project Scoping
 subtitle:
 date: 02/29/2024
 author: Rachel Wells, with help from Caitlin Augustin, Shanna Lee, Caroline Charrow, Sarah Lenet, Fotis Zapantis
-audience: DataKind Volunteers
+audience: Social Impact Professionals
 category: social-impact
 subcategory: scoping
+articles:
+  - title: "Project Statements"
+    filename: "project_statements"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Assessing Data Maturity with DataKind"
+    filename: "assessing_data_maturity_with_dataKind"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "Data Storage and Security Practices when Partnering with DataKind"
+    filename: "data_storage_and_security_practices_when_partnering_with_dataKind"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
 ---
 
 #### Identifying \& Scoping an Equitable Data Project
@@ -133,55 +149,3 @@ With these defined, we’re ready for all parties to agree on clearly defined de
 
 
 All this said, we’re always refining and improving our processes, and this is what DataKind’s Playbook is all about. Share your feedback and ideas for how we can improve our scoping process to support Social Impact Organizations in the comments below.
-
-[#### Project Statements
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](project_statements.html)
-[#### Assessing Data Maturity with DataKind
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Benjamin Kinsella
-
-
-@bjk127
-
-
-
-Read More](assessing_data_maturity_with_dataKind.html)
-[#### Data Storage and Security Practices when Partnering with DataKind
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](data_storage_and_security_practices_when_partnering_with_dataKind.html)

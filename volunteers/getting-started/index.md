@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Volunteers
-subtitle: This section of the Playbook contains articles authored by the community team, tailored to various volunteer roles. Please click on a topic to sort the articles accordingly.
+title: Getting Started
+subtitle: 
 date: 02/29/2024
 author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
 audience: DataKind Volunteers

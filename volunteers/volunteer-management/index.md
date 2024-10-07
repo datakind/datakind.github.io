@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Share
-subtitle: The team delivers the final version and documentation so the partner can increase its impact.
+title: Volunteer Management
+subtitle: 
 date: 02/29/2024
 author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
 audience: DataKind Volunteers

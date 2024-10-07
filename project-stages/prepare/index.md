@@ -33,7 +33,7 @@ articles:
     date: "February 29, 2024"
     author: "Caitlin Augustin"
     handle: "augustincaitlin"
-  - title: "Project Technology Set\-up"
+  - title: "Project Technology Set-up"
     filename: "project_technology_set-up"
     date: "February 29, 2024"
     author: "Benjamin Kinsella"

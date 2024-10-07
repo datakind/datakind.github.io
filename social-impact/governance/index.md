@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Data Governance
 subtitle:
 date: 02/29/2024

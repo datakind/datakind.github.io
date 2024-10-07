@@ -1,12 +1,43 @@
 ---
-layout: default
+layout: page
 title: Generative AI
 subtitles:
 date: 02/29/2024
-author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
-audience: DataKind Volunteers
+author: Rachel Wells, Deborshi Goswami, Daniel Nissani, Caroline Charrow
+audience: Social Impact Professionals
 category: social-impact
 subcategory: genai
+articles:
+  - title: "Getting Started with GenAI"
+    filename: "getting_started_with_GenAI"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "GenAI Use Case Selection and Risk Assessment"
+    filename: "genAI_use_case_selection_and_risk_assessment"
+    date: "March 28, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Setting up GenAI Tools and Technology"
+    filename: "setting_up_GenAI_tools_and_technology"
+    date: "February 29, 2024"
+    author: "Deborshi Goswami"
+    handle: "deborshigoswami95"
+  - title: "Using LLMs as a Tool for Scaling Data Standardization and Cleaning"
+    filename: "using_LLMs_as_a_tool_for_scaling_data_standardization_and_cleaning"
+    date: "February 29, 2024"
+    author: "Deborshi Goswami"
+    handle: "deborshigoswami95"
+  - title: "Resource Hub for GenAI in the Social Sector"
+    filename: "resource_hub_for_genAI_in_the_social_sector"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "GenAI Playbook Credits and Acknowledgements"
+    filename: "genAI_playbook_credits_and_acknowledgements"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
 ---
 
 To get started, you might be wondering what exactly is Generative AI? How is it already being used in the social sector? Our Nonprofit Data 101 webinar series will provide answers to these questions and more, to jump start your learning GenAI in the social sector. 
@@ -64,93 +95,3 @@ Regardless of the use case, specific tools that are currently available or might
 
 
 Whatever software you use at your organization, look into it and you might find some GenAI features at least ready for testing.
-
-
-
- **Contributer(s):** Rachel Wells, Deborshi Goswami, Daniel Nissani, Caroline Charrow
-
-
-
-
-
-
-[#### GenAI Use Case Selection and Risk Assessment
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](genAI_use_case_selection_and_risk_assessment.html)
-[#### Setting up GenAI Tools and Technology
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Deborshi Goswami
-
-
-@deborshigoswami95
-
-
-
-Read More](setting_up_GenAI_tools_and_technology.html)
-[#### Using LLMs as a Tool for Scaling Data Standardization and Cleaning
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Deborshi Goswami
-
-
-@deborshigoswami95
-
-
-
-Read More](using_LLMs_as_a_tool_for_scaling_data_standardization_and_cleaning.html)
-[#### Resource Hub for GenAI in the Social Sector
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](resource_hub_for_genAI_in_the_social_sector.html)
-[#### GenAI Playbook Credits and Acknowledgements
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-
-
-Read More](genAI_playbook_credits_and_acknowledgements.html)

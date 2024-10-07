@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Discovery Stage question bank
+title: Discovery Stage Question Bank
 subtitle:
 date: 02/29/2024
-author: Nicole Kidman
+author: Caitlin Augustin, Caroline Charrow, Jack Craft, Erin Antcliffe, Matthew Harris, Arina Igumenshcheva, Ben Lebovitz, Sebastien Ouellet, Seward Lee, Srivalya Elluru, Dulcie Vousden, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery

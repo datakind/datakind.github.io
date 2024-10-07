@@ -1,27 +1,12 @@
 ---
 layout: default
-title: design
+title: Data Storage, Security, and Management Processes
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, DKSF Chapter, Jeremy Osborn, Lawrence Kilroy, William Ratcliff, Dulcie Vousden, Edwin Zhang
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Data Storage, Security, and Management Processes
-
-
 Once you have signed contracts, you are ready to start working with the partner organization’s data! ata security and privacy are critical components to any data science project. Using the process below will help you understand how to identify, access, transfer, store, and/or dispose of sensitive data, so that we can appropriately manage data throughout the project process to mitigate risk and build trust with partners. DataKind is [GDPR compliant](https://gdpr.eu/), but more importantly, DataKind cares about protecting people's privacy to ensure our work remains in alignment with our values. For a full summary of DataKind’s data security standards and policies, see [this slide deck](https://drive.google.com/file/d/19H5Oeyfut1enu2H4v7-lw6MFQ0IpOznk/view).
 
 
@@ -102,28 +87,3 @@ If you have specific questions or concerns, know who to turn to for help:
 
 
 If you’d like more information on DataKind’s data security processes, you can find it in [this folder](https://drive.google.com/drive/folders/1jFCIiYytn_JTMUx5sKiAh3w1acLxVbkB). Please know that comments are always welcome into any of our processes and documentation, as we are on a journey aiming for continuous improvement.
-
-
- **Contributer(s):** Benjamin Kinsella, DKSF Chapter, Jeremy Osborn, Lawrence Kilroy, William Ratcliff, Dulcie Vousden, Edwin Zhang
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

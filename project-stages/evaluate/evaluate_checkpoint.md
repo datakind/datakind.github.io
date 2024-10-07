@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Evaluate Checkpoint
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Evaluate Checkpoint
-
 
 The Evaluate Checkpoint is the final step of a project before sharing the evaluation learnings and permanently closing the project. Most importantly, the Evaluate Checkpoint is the time to ensure that the project has been fully evaluated, that the partner organization is supported in sustaining what was delivered, and that everything has been properly documented (including learnings) before the project is permanently closed. 
 
@@ -40,29 +26,3 @@ Agenda template (feel free to edit based on your specific needs!):
 
 
 To conclude the Checkpoint, Chapter Leaders and/or staff should make sure that all project information is up\-to\-date in Salesforce.
-
-
-
- **Contributer(s):** Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

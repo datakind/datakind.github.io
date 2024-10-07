@@ -2,7 +2,7 @@
 layout: default
 title: Identifying successful Project Champions and Executive Sponsors
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Caroline Charrow, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
@@ -34,29 +34,3 @@ Leadership investment is one of the most important factors in project success, m
 * Agree to promote and support implementation of the project \- Leadership strategy and resource allocation should be aligned with the goals of the project. The decision\-makers at the organization should be excited about the anticipated results of the project, and prepared to prioritize supporting it at the organizational level.
 * Be innovation\-ready, able to make decisions, and have a point of view \- Executive Sponsors that are “fine with whatever” or let DataKind make all the decisions do not have a clear end\-state vision, and do not understand what the specific requirements of the solution are. They need to have an informed point of view to make good decisions and ensure that the tool will actually get used.
 * Be value aligned regarding Diversity, Equity, and Inclusion (DEI) \- As part of our DEI due diligence research, we ask the question: “Are any of the leadership members from the communities the organization serves?”. DataKind believes that it is essential for our partner organizations' leadership teams to center the communities they serve. For more information on this element of the project partner leadership qualities, see the section on DEI due diligence research in the [DataKind Value Alignment Playbook article](https://playbook.datakind.org/playbook/articles/22/datakind-value-alignment).
-
-
-
- **Contributer(s):** Benjamin Kinsella, Caroline Charrow, Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

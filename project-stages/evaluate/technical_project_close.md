@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Technical Project Close
 date: 02/29/2024
-author: Rachel Wells
+author: Caroline Charrow, Emily Yelverton
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Technical Project Close
-
 
 Ensure that you have closed down all the technical and cloud environments as part of offboarding, so that data remains properly protected and DataKind’s systems and structures remain organized and set up for future projects. 
 
@@ -44,29 +30,3 @@ If you have any challenges or are not sure about an element of closing a technic
 
 
 That’s it!!! You did it!!! Once you’ve shared the project’s evaluation, you have finished the final step of a DataKind project. Congratulations! Thanks for all you do, and we can’t wait for the next one!
-
-
-
- **Contributer(s):** Caroline Charrow, Emily Yelverton
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

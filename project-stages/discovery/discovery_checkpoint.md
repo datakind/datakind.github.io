@@ -3,7 +3,7 @@ layout: default
 title: Discovery Checkpoint
 subtitle:
 date: 02/29/2024
-author: Jai B, Bhargav Kowshik, Tina Toni
+author: Jai B, Bhargav Kowshik, Tina Toni, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery

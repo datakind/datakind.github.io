@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: The Service Agreement
 date: 02/29/2024
-author: Rachel Wells
+author: Gwen Hopkins, Shanna Lee, Russatta Buford
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### The Service Agreement
-
 
 Congratulations \-\- if you’ve made it to the Services Agreement, that means you’re ready to launch a project! How exciting! But before you jump right into the project work, note that roughly 10 business days are needed for DataKind’s Operations Team to complete a contract review, and this MUST be in place before any work is done.
 
@@ -35,29 +21,3 @@ The Services Agreement essentially says that the intellectual property that come
 
 
 This is important because we often build upon the products from past projects at DataKind. For example, we built a tool for route optimization for SOIL Haiti, which we then a couple years later used for a completely different project transporting COVID samples. It’s still a route optimization model, but using all new data. Therefore, it is important that we own the work product so we can reuse it with other projects.
-
-
-
- **Contributer(s):** Gwen Hopkins, Shanna Lee, Russatta Buford
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Evaluating Data Inclusion
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Benjamin Kinsella, Emily Yelverton, Jeremy Osborn, Manojit Nandi, Daniel Nissani, Phil Azar, William Ratcliff, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Evaluating Data Inclusion
-
 
 Data inclusion ensures the data are representative and are not missing any people, variables, communities, or indicators. Evaluating possible data inclusion risks means understanding the assumptions that are made when collecting, curating, or tagging data by evaluating the abstract notions of data, what’s included, and decisions that were made in collection. 
 
@@ -92,28 +78,3 @@ Incorporate domain expertise and previous research to ensure data representative
 * Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J., Wallach, H., Daumé III, H., and Crawford, K. (2018\).  [Datasheets for datasets](https://arxiv.org/pdf/1803.09010.pdf). arXiv preprint arXiv:1803\.09010\.
 * Suresh, H., and Guttag, J. (2019\). [A framework for understanding unintended consequences of machine learning](https://arxiv.org/pdf/1901.10002.pdf). arXiv preprint arXiv:1901\.10002\.
 * Jacobs, A. (2021\). [Measurement and fairness](https://arxiv.org/pdf/1912.05511.pdf). In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 375\-385\).
-
-
- **Contributer(s):** Caitlin Augustin, Benjamin Kinsella, Emily Yelverton, Jeremy Osborn, Manojit Nandi, Daniel Nissani, Phil Azar, William Ratcliff, Mallory Sheff
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

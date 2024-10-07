@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: The Project Brief and Defining Your Deliverables
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### The Project Brief and Defining Your Deliverables
-
 
 As you plan out your project, you’ll need to explicitly and clearly define the project deliverables. This is a very important step for multiple reasons:
 
@@ -93,32 +79,3 @@ Key deliverables include:
 * Executable Python code to run on transformed data
 * Code will produce a CSV file of the imported data with a new data field which contains the linked records Member ID, or a generated Member ID for new data
 * Technical writeup of process to arrive to final model
-
-
-
-
-
-
- **Contributer(s):** Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

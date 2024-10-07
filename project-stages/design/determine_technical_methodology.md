@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Determine Technical Methodology
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Srivalya Elluru
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Determine Technical Methodology
-
 
 At DataKind, our [working definition of data science](https://playbook.datakind.org/playbook/articles/151) is using computers to interpret data, model relationships in data, and create data\-driven algorithms. This often involves the use of advanced analytical and computational techniques to extract new information from novel data sources, usually for the sake of supporting organizational decision making or increasing efficiency. To sum it up then, data science is the necessary processing of otherwise overwhelming and messy information to help our human brains make better decisions.
 
@@ -55,28 +41,3 @@ In traditional data science projects, established methodologies often look like:
 
 
 This might be the perfect method for your project, or you might have much more specific details ready to be outlined based on the results of the data audit. Your project might require a completely different framework, and that’s fine too! DataKind keeps the technical methodology flexible and open to innovation and creativity. Do what makes sense for the specific needs of your project, but whatever you decide, select a general method plan before you start the project.
-
-
- **Contributer(s):** Benjamin Kinsella, Srivalya Elluru
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

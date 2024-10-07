@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Qualitative Evaluation
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Caroline Charrow, Manojit Nandi, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Qualitative Evaluation
-
 
 Qualitatively evaluating the project is all about understanding the context and gathering supplemental information about impact that isn’t captured quantitatively. This can be done a number of ways, so the guidelines are flexible to fit with your specific project’s needs, although some form of interview is the most common. Here are some best practices when conducting an evaluation interview:
 
@@ -86,29 +72,3 @@ After a DataKind project is executed, it is highly recommended to [assess maturi
 
 
 If the data has been shared openly already, ask about the potential impact that this shared data might have had on the broader community or other ecosystem actors. Consider reaching out to contacts in the industry to evaluate this or gather information on engagement with the data.
-
-
-
- **Contributer(s):** Benjamin Kinsella, Caroline Charrow, Manojit Nandi, Mallory Sheff
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

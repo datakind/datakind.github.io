@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Evaluation Report and Sharing
 date: 02/29/2024
-author: Rachel Wells
+author: Kenley Ambroise, Caroline Charrow
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Evaluation Report and Sharing
-
 
 Now that you have gathered data about the impact of the project and feedback from the project stakeholders, summarize the findings in a brief report that can be shared with everyone involved in the project and beyond, so that everyone can learn from the project. 
 
@@ -52,29 +38,3 @@ Sharing what was learned in the Evaluate Stage is the only way we can all learn 
 * Consider presenting the results at the partner organization again, if there is demand or value in the partner organization staff learning from what came out of the evaluation. Work with the Project Champion to decide if this is a good idea.
 * Consider applying to a conference or posting on the DataKind blog to share the learnings from the evaluation. Any decision to publicly share the evaluation results needs to be agreed upon by both DataKind and the partner organization, and signed off by the appropriate approvers on both sides.
 * Update any internal documentation that has been used to keep ongoing track of the project, such as the project plan or information about a portfolio that the project is a part of. Make sure that the results from the Evaluate Stage are shared everywhere the project is internally discussed and managed.
-
-
-
- **Contributer(s):** Kenley Ambroise, Caroline Charrow
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

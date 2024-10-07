@@ -1,27 +1,54 @@
 ---
 layout: page
-title: design
+title: Evaluate
+subtitle: Checking back in later, we reflect on what worked and where we could have done better.
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
+articles:
+  - title: "Quantitative Evaluation"
+    filename: "quantitative_evaluation"
+    date: "March 28, 2024"
+    author: "Kenley Ambroise"
+    handle: "ambroisekenley01"
+  - title: "Qualitative Evaluation"
+    filename: "qualitative_evaluation"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127" 
+  - title: "Ethical Evaluation"
+    filename: "ethical_evaluation"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "What if the Organization Requests Additional Support?"
+    filename: "what_if_the_organization_requests_additional_support"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "Evaluation Report and Sharing"
+    filename: "evaluation_report_and_sharing"
+    date: "February 29, 2024"
+    author: "Kenley Ambroise"
+    handle: "ambroisekenley01" 
+  - title: "Data Publication or Destruction"
+    filename: "data_publication_or_destruction"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "Technical Project Close"
+    filename: "technical_project_close"
+    date: "February 29, 2024"
+    author: "Caroline Charrow"
+    handle: "charrowc"
+  - title: "Evaluate Checkpoint"
+    filename: "evaluate_checkpoint"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
 ---
-
-
-
-
-Evaluate
-========
-
-
-Checking back in later, we reflect on what worked and where we could have done better.
-
-
-
-
-
-
 
 #### Introduction to the Evaluate Stage
 
@@ -54,165 +81,3 @@ Note that the Evaluate Stage varies the most of all the stages between projects,
 
 
 The Evaluate stage enables us to make sure the solution actually solved for the partner’s needs. This is why evaluation is a crucial stage to make sure the assistance we provide to nonprofits is actually valuable to them.
-
-
-
-
-
-
-[#### Quantitative Evaluation
-
-
-March 28, 2024
-
-
-![Jiyon Yun image](https://avatars.githubusercontent.com/u/95733281?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](quantitative_evaluation.html)
-[#### Qualitative Evaluation
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](qualitative_evaluation.html)
-[#### Ethical Evaluation
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](ethical_evaluation.html)
-[#### What if the Organization Requests Additional Support?
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](what_if_the_organization_requests_additional_support.html)
-[#### Evaluation Report and Sharing
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](evaluation_report_and_sharing.html)
-[#### Data Publication or Destruction
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](data_publication_or_destruction.html)
-[#### Technical Project Close
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](technical_project_close.html)
-[#### Evaluate Checkpoint
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](evaluate_checkpoint.html)
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Checking in with the Partner Organization
 date: 02/29/2024
-author: Rachel Wells
+author: Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Seward Lee, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Checking in with the Partner Organization
-
 
 Regular check\-ins with the partner organization go a long way towards setting up your project for success. Regular communication with the Project Champion throughout the project ensures that progress and expectations are shared and updated in real\-time, and any roadblocks or pivots that require collaboration between the DataKind team and partner organization can be swiftly addressed. Typically, the Project Manager sets up these meetings while the Data Ambassador runs them.
 
@@ -50,29 +36,3 @@ In addition to our [general recommendations for working with Project Champions](
 + If the check\-in will involve an in\-depth conversation about your project methodology, consider preparing a document or slide deck summarizing what you want to convey ahead of time, as verbally explaining new complex ideas does not set your partner up to successfully process and respond in real time.
 + Don’t let conversations become too abstract in meetings. Keep track of tangible and specific tasks and outputs that are expected from everyone, so everyone knows what they need to do in the follow\-up.
 + Before a meeting or conversation, have it in your head what the best, worst, and likely outcomes are for the call. Agree on it beforehand with the team you are working on to all align in the meeting.
-
-
-
- **Contributer(s):**  Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

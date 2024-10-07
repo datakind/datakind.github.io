@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Project Insight Report
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Benjamin Kinsella, Caroline Charrow, Nathan Banion, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Project Insight Report
-
 
 As a final deliverable, consider writing an Insight Report for the partner organization. This report explains the project in a clear and succinct manner, so that your Project Champion can share it with colleagues and/or senior management to promote your recommendations. This document will be more technical and include graphs and visuals, alongside supporting text. Whether you decide to document the project results for the partner organization in a report or a presentation, make sure to include the following sections:
 
@@ -94,29 +80,3 @@ Appendix
 * Final presentation
 * Data audit
 * Any additional technical documentation
-
-
-
- **Contributer(s):** Caitlin Augustin, Benjamin Kinsella, Caroline Charrow, Nathan Banion, Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

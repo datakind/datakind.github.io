@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Onboarding \+ Managing Volunteers to Create Inclusive Teams
 date: 02/29/2024
-author: Rachel Wells
+author: Afua Bruce, Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Onboarding \+ Managing Volunteers to Create Inclusive Teams
-
 
 [Recruiting a diverse team](https://playbook.datakind.org/playbook/articles/61/diversity-ethics-in-volunteer-team-selection) does no good if there aren’t practices in place to ensure that the team is inclusive and equitable. Onboarding and training all volunteers in these practices ensures everyone can truly feel welcome. 
 
@@ -44,29 +30,3 @@ Are there practices, such as allowing teams to self organize, that may reinforce
 
 
 Take note of which volunteers remain engaged with DataKind after completing a project and which do not. Are there patterns that indicate certain groups may feel more welcome than others? If you notice members with a particular shared identity tend to return at lower rates than others, do some research into why that is (e.g. request feedback from volunteers about their experience) and how you can improve the experience of people with that identity.
-
-
-
- **Contributer(s):** Afua Bruce, Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

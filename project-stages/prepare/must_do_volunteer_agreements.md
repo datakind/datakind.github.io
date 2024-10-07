@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Volunteer Agreements
 date: 02/29/2024
-author: Rachel Wells
+author: Afua Bruce, Caroline Charrow, Russatta Buford
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### MUST DO: Volunteer Agreements
-
 
 Once selected for a project, all DataKind volunteers must have a signed volunteer agreement on file before starting to work with DataKind. If someone on a project has volunteered with DataKind before, ensure that their volunteer agreement is on file. If not, ask them to sign a new one. 
 
@@ -56,29 +42,3 @@ The final part of the Volunteer Agreement is photo \& video consent. If a volunt
 * Only take 1\-2 pictures and intentionally ensure the individuals are not included.
 * In rare cases in which it would be impossible to avoid photos, we ask that volunteers unwilling to sign the consent to reconsider if they should attend an event.. Clearly indicate in the event description that all participants are consenting to photos when they choose to attend.
 * If the event is virtual, remind volunteers they may turn off their camera if they do not wish to be on video.
-
-
-
- **Contributer(s):** Afua Bruce, Caroline Charrow, Russatta Buford
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

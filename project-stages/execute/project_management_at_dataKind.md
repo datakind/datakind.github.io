@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Project Management at DataKind
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Daud Sikander, Beatrice Francesco, Jade Tabony, Jen A, Jeremy Osborn, Jeshua Bratman, Kate Mulroney, Ben Lewis, Maja Ferle, Manu Sharma, Ran Mao, Matthew Zhou, Smit Mehta, Shanshan Wang, A Sindhar, Stefan Hilts, Tahir Mahmood, Danielle Taneyo Saa, Terence Tam, Ada Tong, Tina Toni, Rachel Wells, Martijn Wieriks, Jony Zambrano
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Project Management at DataKind
-
 
 DataKind’s project management practices are embedded throughout the project process, and are therefore discussed throughout the playbook. This article focuses specifically on additional tips and best practices from volunteers, and recommendations for addressing common challenges.
 
@@ -83,29 +69,3 @@ This may also be a great moment to start getting feedback from volunteers. Sched
 
 
 Be wary of introducing new ethical risks that require additional due diligence. For example, similar to scope creep, be cautious of “PII creep” \- that is, requests for more personally identifiable information, among other data, which had not been initially required in the project scope. It is good practice to routinely check to make sure there are no new sensitive or high\-risk elements, and come up with a plan to address any that arise. 
-
-
-
- **Contributer(s):** Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

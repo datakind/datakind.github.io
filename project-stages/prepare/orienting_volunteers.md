@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Orienting Volunteers
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Shanna Lee, Melissa, Michael Dowd, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Orienting Volunteers
-
 
 Here’s what we recommend for orienting volunteers :
 
@@ -51,29 +37,3 @@ Here’s what we recommend for orienting volunteers :
 * Think through the sensitivity of project data before onboarding the volunteers in the specific project. Are some data sources considered sensitive or offensive to volunteers (e.g., images and/or text on violence, data on abuse, intensive detailed medical answers to questions, etc.)? Have you warned volunteers of this potentially offensive and/or sensitive information? Do volunteers know where to turn if they have questions or concerns?
 * A good ice breaker idea is “first job”: it’s fun and interesting, and everyone has one, so it’s easy for people to come up with! [This document](https://docs.google.com/spreadsheets/d/1bYfIjyJtwgDVhPvSJSmABu7fbY2JnB1rVlMYcfQNipc/edit#gid=0) has additional fun icebreaker question ideas.
 * Be mindful of inclusivity if you’re encouraging cameras on. Consider making it highly encouraged but optional, potentially ask each person to turn their camera on for at least a couple minutes to introduce themselves if possible, and then they can turn it back off. Another option is to be fine with being off camera, but to call on anyone with their camera off if you don’t hear from them, to ensure they are actually there.
-
-
-
- **Contributer(s):** Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Shanna Lee, Melissa, Michael Dowd, Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

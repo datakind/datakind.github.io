@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Conducting a Retrospective
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Conducting a Retrospective
-
 
 An internal project retrospective (retro) is an essential part of documenting your learnings so that we can constantly improve our work at DataKind. We use the results of retrospectives to inform how we work on other projects, improve DataKind’s practices, and do higher quality data science for good projects that drive social impact.
 
@@ -81,29 +67,3 @@ At DataKind, you’ll conduct retros in a variety of contexts. For example, a di
 
 
 Ready to conduct your project retro? Use DataKind’s [retro template](https://docs.google.com/document/d/1IOvB7DBAVmEhY0bmeakUOTD1853hLiJVsqyafQs1DX4/edit), which provides a step\-by\-step guide to begin discussing your project and/or event! Feel free to customize your retro plan for your specific project needs.
-
-
-
- **Contributer(s):** Benjamin Kinsella, Mallory Sheff
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

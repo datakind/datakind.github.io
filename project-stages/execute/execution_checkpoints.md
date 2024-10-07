@@ -1,26 +1,12 @@
-
 ---
 layout: default
-title: design
+title: Execution Checkpoints
 date: 02/29/2024
-author: Rachel Wells
+author: Matthew Harris, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
 ---
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Execution Checkpoints
-
 
 The Execution stage is unique in that it has three checkpoints within it, instead of just one cumulative checkpoint at the end. For a reminder on how all checkpoints are conducted and how to prepare for them, see the [Intro to Checkpoints](https://playbook.datakind.org/playbook/articles/127/introduction-to-checkpoints). To conclude each checkpoint, Chapter Leaders and/or staff should make sure that all project information is up\-to\-date in Salesforce.
 
@@ -83,29 +69,3 @@ This is the last Checkpoint of the Execute Stage, and the point at which you dec
 
 
 If these steps haven’t all happened, or another review would be valuable, provide whatever support you can to help the team move forward and get to the Share Stage in a timely manner. That said, do not move the team forward until all these elements are in place!
-
-
-
- **Contributer(s):** Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

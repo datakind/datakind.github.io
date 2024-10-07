@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: GitHub Workflow
 date: 02/29/2024
-author: Rachel Wells
+author: Rachael Blake, Harrison Li, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### GitHub Workflow
-
 
 Feel free to adjust this suggested GitHub workflow as it works best for your DataKind team to organize your code collaboration. We also welcome feedback and suggestions, as we continue to improve how we work together!
 
@@ -104,29 +90,3 @@ DataKind project teams can request to set up [GitHub\-Slack integration](https:/
 2. Once the GitHub app is installed in Slack, you can run a command like /github to see the possible commands.
 	* *For example, with a project with Complete College America, DataCorps team members ran /github subscribe datakind/CCA\_model\_work. This linked changes made to the repo to the team members’ Slack, so they would get notifications.*
 3. You can then also add a subscription for comments by doing /github subscribe datakind/CCA\_model\_work comments. This gives you all comments on a PR, which can get noisy. Alternatively, you can just subscribe to mentions using [these steps](https://stackoverflow.com/questions/48217234/get-a-slack-notification-if-mentioned-on-github).
-
-
-
- **Contributer(s):** Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

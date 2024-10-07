@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Prepare Checkpoint
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Prepare Checkpoint
-
 
 The Prepare Checkpoint is to ensure that you have time to finalize the detailed project plan. This is important because creating a project plan with clear stages and checkpoints, in addition to being customized to fit the project’s unique needs, is challenging. Confirm that you all agree with the number and frequency of checkpoints planned. You don’t want to go too long without checking in on project progress! Once everyone is happy with the project plan, sign off on the project to begin execution.
 
@@ -44,29 +30,3 @@ To conclude the Checkpoint, Chapter Leaders and/or staff should make sure that a
 
 
 For a reminder on how all Checkpoints are conducted and how to prepare for them, see the [Intro to Checkpoints](https://playbook.datakind.org/playbook/articles/127/introduction-to-checkpoints). If you have any questions or need support, you can always reach out to community@datakind.org! 
-
-
-
- **Contributer(s):** Benjamin Kinsella
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

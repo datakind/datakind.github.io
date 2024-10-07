@@ -1,26 +1,54 @@
 ---
-layout: default
-title: design
+layout: page
+title: Share
+subtitle: The team delivers the final version and documentation so the partner can increase its impact.
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
+articles:
+  - title: "Project Insight Report"
+    filename: "project_insight_report"
+    date: "March 28, 2024"
+    author: "Caitlin Augustin"
+    handle: "augustincaitlin"
+  - title: "Technical Project Hand\-off, Systems Integration, and Supporting Initial Implementation"
+    filename: "technical_project_hand-off"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "Presenting to Partner Leadership"
+    filename: "presenting_to_partner_leadership"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "Sharing Learnings Across DataKind and Beyond"
+    filename: "sharing_learnings_across_dataKind_and_beyond"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Creating Reusable Resources for Beyond DataKind"
+    filename: "creating_reusable_resources_for_beyond_dataKind"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "Conducting a Retrospective"
+    filename: "conducting_a_retrospective"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "Finalize the Evaluation Plan"
+    filename: "finalize_the_evaluation_plan"
+    date: "February 29, 2024"
+    author: "Caitlin Augustin"
+    handle: "augustincaitlin"
+  - title: "Share Checkpoint"
+    filename: "share_checkpoint"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
 ---
-
-
-
-
-Share
-=====
-
-
-The team delivers the final version and documentation so the partner can increase its impact.
-
-
-
-
-
 
 
 #### Introduction to the Share Stage
@@ -61,165 +89,3 @@ DataKind has created a [repository of email templates](https://docs.google.com/d
 
 
 \* See the “Chapter Leader Management” section of this playbook for more details on these steps.
-
-
-
-
-
-
-[#### Project Insight Report
-
-
-March 28, 2024
-
-
-![Jiyon Yun image](https://avatars.githubusercontent.com/u/95733281?s=72)
-
-
-Seward Lee
-
-
-@sewardlee337
-
-
-
-Read More](project_insight_report.html)
-[#### Technical Project Hand\-off, Systems Integration, and Supporting Initial Implementation
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](technical_project_hand-off.html)
-[#### Presenting to Partner Leadership
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](presenting_to_partner_leadership.html)
-[#### Sharing Learnings Across DataKind and Beyond
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](sharing_learnings_across_dataKind_and_beyond.html)
-[#### Creating Reusable Resources for Beyond DataKind
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](creating_reusable_resources_for_beyond_dataKind.html)
-[#### Conducting a Retrospective
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](conducting_a_retrospective.html)
-[#### Finalize the Evaluation Plan
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](finalize_the_evaluation_plan.html)
-[#### Share Checkpoint
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](share_checkpoint.html)
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

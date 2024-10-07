@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Coding and Working with Data at DataKind
 date: 02/29/2024
-author: Rachel Wells
+author: Shahab Arabshahi, Benjamin Kinsella, Tyler Dorland, Neal Fultz, Kavita Maheshwari, Michael Dowd, Daniel Nissani, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Coding and Working with Data at DataKind
-
 
 ##### Working with Data
 
@@ -75,29 +61,3 @@ The combination of black and [pylint](https://example.com/pylint) are needed bef
 
 
 Finally, no guidelines for coding consistency would be complete without unit tests. As many different styles of unit testing exist, we don’t make specific recommendations on the type or style of unit tests, but we do recommend using them in the [pytest](https://pytest.org/) framework.
-
-
-
- **Contributer(s):** Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

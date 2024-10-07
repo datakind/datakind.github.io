@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Evaluating Bias
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, William Ratcliff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Evaluating Bias
-
 
 In the Design Stage the team considered [project risks](https://playbook.datakind.org/playbook/articles/41), [data inclusion](https://playbook.datakind.org/playbook/articles/44), and [community accountability](https://playbook.datakind.org/playbook/articles/43). Having thought carefully about potential risks and outlined mitigation strategies, you’re now at the Execute Stage and must continuously revisit and evaluate bias in your proposed technical solution. There are not only risks associated with data inclusion and model trustworthiness, but also biases to be considered during general project management and execution. 
 
@@ -71,29 +57,3 @@ While machine learning methods are common in many DataKind projects, you will na
 * Are you clear about sampling errors and variation in your data set? Have you reported and communicated summary statistics, including the data’s variance, confidence intervals, margins of error, etc.?
 * Have you considered ways in which your visualizations and data analyses might be misinterpreted? For example: Are there any design choices in your visualizations that could lead to incorrect conclusions? Are there mismatches between perceived color differences and actual data differences? Are the axes truncated? Did you perform any transformations on your data that could distort interpretations?
 * For geospatial projects, have you evaluated ways in which your maps may lead to false conclusions or bias? For example, does projection bias \- the tendency to mis\-portray the actual size of locations \- diminish relative size and importance of a country? Does your map fail to represent people or land that has been implicitly or explicitly excluded (e.g., misrepresenting population level characteristics through aggregation, etc.)?
-
-
-
- **Contributer(s):** Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,29 +1,14 @@
 ---
 layout: default
-title: design
+title: Technical Quality Checks and Code Review
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Matthew Harris, Srivalya Elluru, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
 ---
 
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Technical Quality Checks and Code Review
-
-
 While you are building your minimum viable product and final solution, take care to ensure your solution is technically correct as you go. What this means will vary based on the project, but all projects should include:
-
 
 * **Intuition checks:** Step back and think about the data and results you are getting. Does the data look right? Does it follow what we’ve heard for our projects? Does anything not add up?
 * **Reality checks:** You have already asked the question, “does the proposed solution make sense?”. Now we need to ask, “do the drafted outputs make sense?” as we build. Continuously check\-in and reflect on if the output makes sense for the partner. This includes constantly asking yourself “is this a solution the partner organization will be able to implement?”
@@ -56,29 +41,3 @@ Lastly, in addition to the above technical reviews, make sure you carefully revi
 
 
 \*When running the methodology or documentation by someone outside the team, we first advise using someone inside the DataKind network who already has a signed NDA on file with us. We have tons of brilliant volunteers eager to contribute to projects as advisors and provide one\-off support in this way. Post on the slack \#help\-wanted channel the type of challenge you are addressing, and you’ll likely be able to find a great expert to conduct a methodology check for you! If you want to talk with someone outside of DataKind, talk to your DataKind staff support in advance, to make sure you are complying with our partner agreements. Make sure to speak in extremely general terms about the project constraints and requirements that were used in model selection. Stick to information in the agreed upon public language section of the Project Brief. If there is any risk that you might operate against the NDA in conducting a methodology check with a statistician you trust, talk with your Chapter Leader or DataKind staff support, and the team can get your advisor an NDA to sign.
-
-
-
- **Contributer(s):**  Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Documentation and Instructional Materials
 date: 02/29/2024
-author: Rachel Wells
+author: Mitali Ayyangar, Benjamin Kinsella, Rachael Blake, Matthew Harris, Michael Dowd, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Documentation and Instructional Materials
-
 
 As a reminder, everything about your project should be documented in the [Google Drive folder](https://playbook.datakind.org/playbook/articles/20) (project plans, meetings notes, etc…) or [GitHub page](https://playbook.datakind.org/playbook/articles/205) (code and code documentation). As a DataKind volunteer, you are committed to maintaining documentation of your own work.
 
@@ -55,29 +41,3 @@ In addition to documenting lessons you learned while doing your project that oth
 * Use clear structure. Use the structure that makes the most sense for your project, whether video, written, or a combination. Always start with a sentence saying what the solution does and instructions are for. If the instructions are long, provide a table\-of\-contents at the top to help the user get some quick context before starting.
 * Test, test, test. It is crucial to have other people test your instructions. It’s very easy to miss documenting one tiny step because you do it automatically, which in turn could hold back a partner for weeks. Test first with a team member, then with your partner at the partner organization, and lastly with someone unfamiliar with the project \- if there is turnover within the organization, someone new to the product needs to be able to use it correctly and address a simple maintenance issue. Finally, refine your instructions based on the feedback you gather. You can find an example of some tested instructions [here](https://docs.google.com/document/d/1AZm274ABcQhjYJVfW2CqodcImj8mltEAJO6FyHl2rqg/edit?usp=sharing).
 * Create a sustainability plan. Instructions are often part of Sustainability Plans for DataKind projects, which also include contextual information to help the organization sustain the product. For example, consider the need to plan for the potential risk that software updates may pose for the tool you hand over and propose pathways for remediation if applicable. See [example 1](https://docs.google.com/document/d/1HqdCwrPklTt_gOmom_pxq_T3riqIuE74n7mojl22DTY/edit#heading=h.ixkl28kr8ox9), [example 2](https://docs.google.com/document/d/1-_Hu8h9AEyFQ8JgSVOMXieCnmCObdQK-POUtmkVezmM/edit#), and a [basic template](https://docs.google.com/document/d/1VPuZ8CYr13T0WcjIauhRWLdx0Xj-OvGXbOqq_GivWXo/edit) of a Sustainability Plan.
-
-
-
- **Contributer(s):** Nicole Kidman
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,27 +1,54 @@
 ---
-layout: default
-title: design
+layout: page
+title: Execute
+subtitle: The team and partner work together to execute on the project, starting with a prototype that is adjusted based on feedback and needs.
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
+articles:
+  - title: "Checking in with the Partner Organization"
+    filename: "checking_in_with_the_partner_organization"
+    date: "March 28, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Project Management at DataKind"
+    filename: "project_management_at_dataKind"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Documentation and Instructional Materials"
+    filename: "documentation_and_instructional_materials"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Coding and Working with Data at DataKind"
+    filename: "coding_and_working_with_data_at_dataKind"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "GitHub Workflow"
+    filename: "gitHub_workflow"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Evaluating Bias"
+    filename: "evaluating_bias.html"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "Technical Quality Checks and Code Review"
+    filename: "technical_quality_checks_and_code_review"
+    date: "February 29, 2024"
+    author: "Benjamin Kinsella"
+    handle: "bjk127"
+  - title: "Execution Checkpoints"
+    filename: "execution_checkpoints"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
 ---
-
-
-
-
-Execute
-=======
-
-
-The team and partner work together to execute on the project, starting with a prototype that is adjusted based on feedback and needs.
-
-
-
-
-
-
 
 #### Introduction to the Execute Stage
 
@@ -75,182 +102,3 @@ Note that we call these “components” and not “steps,” as they should be 
 * Create instructional materials for maintenance and scale
 * Conduct project code and documentation review to ensure the solution is technically correct and documentation meets DataKind standards
 * MUST DO: Project team checks in with advisory team to review what's been executed, discuss results of code review, and decide if the project is ready for handoff
-
-
-
-
-
-
-[#### Checking in with the Partner Organization
-
-
-March 28, 2024
-
-
-![Jiyon Yun image](https://avatars.githubusercontent.com/u/95733281?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](checking_in_with_the_partner_organization.html)
-[#### Project Management at DataKind
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](project_management_at_dataKind.html)
-[#### Documentation and Instructional Materials
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](documentation_and_instructional_materials.html)
-[#### MUST DO: Volunteer Agreements
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](must_do_volunteer_agreements.html)
-[#### Coding and Working with Data at DataKind
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](coding_and_working_with_data_at_dataKind.html)
-[#### GitHub Workflow
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](gitHub_workflow.html)
-[#### Evaluating Bias
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](evaluating_bias.html)
-[#### Technical Quality Checks and Code Review
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](technical_quality_checks_and_code_review.html)
-[#### Execution Checkpoints
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](execution_checkpoints.html)
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

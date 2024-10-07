@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Project Technology Set\-up
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Mallory Sheff, Vignesh Kumaresan
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Project Technology Set\-up
-
 
 Setting up all the necessary technology before launching a project is essential to set volunteers up for successful collaboration and engagement. From our experience, saving set up until after project launch means you’ll be playing catch up and constantly reminding volunteers where to look for things throughout the project. It’s best to have all the collaboration spaces set up from the very beginning, and introduce this technology during team orientation. 
 
@@ -45,29 +31,3 @@ Technology that needs to be set up before project launch includes:
 
 
 Most successful projects stick to the above 3\-4 channels for online collaboration, but occasionally projects will also use Asana or Trello for task management. It is recommended that you keep project management within GitHub for most projects, though, so the team does not have to remember to use another log\-in or system. When working with volunteers, it’s best to use as few different softwares as reasonable for project management and communication, even if they are data scientists! We recommend selecting one project management space for the duration of the project that allows your team to (a) remotely access what they need to work on and (b) allows DataKind to see at a glance where your project is at.
-
-
-
- **Contributer(s):** Benjamin Kinsella, Mallory Sheff, Vignesh Kumaresan
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Volunteer Recruitment and Retention
 date: 02/29/2024
-author: Rachel Wells
+author: Shanna Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Volunteer Recruitment and Retention
-
 
 One of the most challenging responsibilities of Chapter Leaders is sustaining experienced volunteers between projects and supporting individual volunteers in their volunteer experience across projects. You can always connect with your DataKind staff support person for guidance and assistance with volunteer recruitment.
 
@@ -63,29 +49,3 @@ Another useful part of managing a pool of volunteers for new projects is keeping
 
 
 Finally, projects being aligned with volunteers’ interests and skills helps with volunteer engagement. Find out what your volunteers are most interested in, such as sector\-specific work (e.g., healthcare, education, financial inclusion, etc) or type of data science. Write these interests down in your volunteer tracking space! That way, when a new project opportunity comes up, you can reference the list with volunteers “on deck” that includes their interests to find the perfect volunteer for the opportunity, with the right technical skills and passion to provide huge value to the project partner.
-
-
-
- **Contributer(s):** Shanna Lee
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Project Execution Plan
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Devangana Khokhar, Emily Yelverton, Asnat Ghebremedhin, Shanna Lee, Pui Kwan (PJ) Lee, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Project Execution Plan
-
 
 The project plan is for internal team project management, so draft it in whatever tool or system will work best for you and your team. When you need to report back and summarize key milestones for the partner organization, update the [Project Brief](https://playbook.datakind.org/playbook/articles/47) with that information. 
 
@@ -50,29 +36,3 @@ Everyone has different preferences on what their project plan looks like, but he
 
 * Use the [5 Ws: Who, What, Why, When, and Where](https://www.managementcenter.org/resources/delegation-worksheet/) to disaggregate larger projects in combination with the MOCHA framework.
 * Don’t get to a point where updating the project plan becomes more work than the utility you get out of it. Be aware of the ROI of project plan creation and don’t spend too much time on it.
-
-
-
- **Contributer(s):** Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Devangana Khokhar, Emily Yelverton, Asnat Ghebremedhin, Shanna Lee, Pui Kwan (PJ) Lee, Mallory Sheff
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

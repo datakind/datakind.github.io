@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Writing Volunteer Role Descriptions
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Emily Yelverton, Shanna Lee, Manojit Nandi, Nelsa Peña, Daniel Nissani, Mallory Sheff, Martijn Wieriks
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Writing Volunteer Role Descriptions
-
 
 ***"Great vision without great people is irrelevant."*** \- James Collins
 
@@ -68,29 +54,3 @@ Detail how you are selecting volunteers. For example, teams at DataKind Global a
 
 
 The above considerations might impact your considerations for team size (typically when recruiting for a DataCorps project). There is no absolute rule to determine the optimum size of a DataCorps team, but in general, having teams larger than 8 can lead to coordination complexity for team leads, and reduction in individual motivation and performance \- and therefore productivity and happiness! One way to think about the ideal team size is to review the [Defined Deliverables](https://playbook.datakind.org/playbook/articles/45) and think about the interdependence of tasks and need for team collaboration. For instance, if the project benefits from volunteers working in discrete workstreams, a larger overall team could work out well! The more collaboration needed between the team members and the higher the interdependence of tasks, the more likely it is that a smaller team will perform better. For most DataCorps projects, the ideal team size is between 4 and 7\.
-
-
-
- **Contributer(s):** Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Emily Yelverton, Shanna Lee, Manojit Nandi, Nelsa Peña, Daniel Nissani, Mallory Sheff, Martijn Wieriks
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Diversity and Ethics in Volunteer Team Selection
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Diversity and Ethics in Volunteer Team Selection
-
 
 Recruiting a diverse team with multiple viewpoints and skill sets is critical to creating high quality and ethical work. Diversity is the presence of differences within a group, e.g. in terms of race, gender, religion, sexual orientation, ethnicity, nationality, socioeconomic status, language, (dis)ability, age, religious commitment, or political perspective. At DataKind, we aim to build diverse teams and foster an inclusive environment in alignment with our values.
 
@@ -74,29 +60,3 @@ Recruiting a diverse team is just the beginning! Check out [Onboarding and Manag
 * [Teams with More Women are Smarter](https://www.businessinsider.com/teams-with-more-women-are-smarter-2015-1), Business Insider
 * [Diversity Drives Better Decisions](https://www.peoplemanagement.co.uk/experts/research/diversity-drives-better-decisions), People Management
 * [Why Diversity Matter](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters), McKinsey
-
-
-
- **Contributer(s):** Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

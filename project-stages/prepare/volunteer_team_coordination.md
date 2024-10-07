@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Volunteer Team Coordination
 date: 02/29/2024
-author: Rachel Wells
+author: Daniel Nissani, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Volunteer Team Coordination
-
 
 Volunteer team coordination is a special type of project leadership. It’s not easy; you can’t lead a volunteer team with the same tools that you’d have in a paid corporate role. But when you have a team of volunteers enthusiastically engaged in making the world a little better, it’s an amazing sight to behold. 
 
@@ -94,29 +80,3 @@ Each GitHub repo also comes with a suite of productivity and team coordination t
 * [Issue Tracker](https://guides.github.com/features/issues/) \- Issue Tracker is a standard tool in open source software development, and provides a convenient way to track and assign tasks among volunteers.
 * [Project Wiki](https://guides.github.com/features/wikis/) \- It’s up to you to decide how to divide your documentation between your Project Wiki or other options (such as the README.md file or documents in your shared Google Drive). Just remember to be consistent! And consider that Wiki pages on GitHub allows you to create documentation that’s clean, pretty, and easily\-accessible.
 * [Project Board](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards) \- If you want to use a Kanban board to track your project, you can! GitHub provides a Project Board that integrates nicely with its other features (such as Issue Tracker).
-
-
-
- **Contributer(s):** Daniel Nissani, Seward Lee, Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

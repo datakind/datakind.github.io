@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Using GitHub to Set Up Your DataKind Project
 date: 02/29/2024
-author: Rachel Wells
+author: Caroline Charrow, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Using GitHub to Set Up Your DataKind Project
-
 
 This article documents GitHub’s Actions template, developed for DataKind to assist your project work. It includes a summary of how to use GitHub’s action templates and how to contribute for future improvements of the project. 
 
@@ -79,29 +65,3 @@ If you would like to volunteer to build out the next steps of this project, feel
 * [Workflow Syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 * [Context and Expression Syntax](https://docs.github.com/en/actions/learn-github-actions/contexts) (This covers the metadata provided to the Actions environment for use in your automation, as well as syntax for how to use them.)
 * [Events that trigger workflows](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
-
-
-
- **Contributer(s):** Caroline Charrow, Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

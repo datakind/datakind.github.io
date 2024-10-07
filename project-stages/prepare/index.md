@@ -1,26 +1,69 @@
 ---
-layout: default
-title: design
+layout: page
+title: Prepare
+subtitle: Recruit and prepare the right fit team of data scientists to complete the project.
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+articles:
+  - title: "Writing Volunteer Role Descriptions"
+    filename: "writing_volunteer_role_descriptions"
+    date: "March 28, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Volunteer Recruitment and Retention"
+    filename: "voluntee_recruitment_and_retention"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Diversity and Ethics in Volunteer Team Selection"
+    filename: "diversity_and_ethics_in_volunteer_team_selection"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "MUST DO: Volunteer Agreements"
+    filename: "must_do_volunteer_agreements"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Onboarding \+ Managing Volunteers to Create Inclusive Team"
+    filename: "onboarding_+_managing_volunteers_to_create_inclusive_teams"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Project Technology Set\-up"
+    filename: "project_technology_set-up"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Using GitHub to Set Up Your DataKind Project"
+    filename: "using_gitHub_to_set_up_your_dataKind_project"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Orienting Volunteers"
+    filename: "orienting_volunteers"
+    date: "February 29, 2024"
+    author: "Seward Lee"
+    handle: "sewardlee337"
+  - title: "Volunteer Team Coordination"
+    filename: "volunteer_team_coordination"
+    date: "February 29, 2024"
+    author: "Seward Lee"
+    handle: "sewardlee337"
+  - title: "Project Execution Plan"
+    filename: "project_execution_plan"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
+  - title: "Prepare Checkpoint"
+    filename: "prepare_checkpoint"
+    date: "February 29, 2024"
+    author: "Rachel Wells"
+    handle: "rachelauryn"
 ---
-
-
-
-
-Prepare
-=======
-
-
-Recruit and prepare the right fit team of data scientists to complete the project.
-
-
-
-
-
 
 
 #### Introduction to the Prepare Stage
@@ -66,216 +109,3 @@ Ensure project team and partners are aligned on the project plan with clear stag
 
 
 **MUST DO:** Scoper(s) and project leaders check in with advisory team to review what was prepared, particularly the project plan and agreed upon milestones for execution
-
-
-
-
-
-
-[#### Writing Volunteer Role Descriptions
-
-
-March 28, 2024
-
-
-![Jiyon Yun image](https://avatars.githubusercontent.com/u/95733281?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](writing_volunteer_role_descriptions.html)
-[#### Volunteer Recruitment and Retention
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](voluntee_recruitment_and_retention.html)
-[#### Diversity and Ethics in Volunteer Team Selection
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](diversity_and_ethics_in_volunteer_team_selection.html)
-[#### MUST DO: Volunteer Agreements
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](must_do_volunteer_agreements.html)
-[#### Onboarding \+ Managing Volunteers to Create Inclusive Teams
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](onboarding_+_managing_volunteers_to_create_inclusive_teams.html)
-[#### Project Technology Set\-up
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](project_technology_set-up.html)
-[#### Using GitHub to Set Up Your DataKind Project
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](using_gitHub_to_set_up_your_dataKind_project.html)
-[#### Orienting Volunteers
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Seward Lee
-
-
-@sewardlee337
-
-
-
-Read More](orienting_volunteers.html)
-[#### Volunteer Team Coordination
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Seward Lee
-
-
-@sewardlee337
-
-
-
-Read More](volunteer_team_coordination.html)
-[#### Project Execution Plan
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](project_execution_plan.html)
-[#### Prepare Checkpoint
-
-
-February 29, 2024
-
-
-![Sarah Oyetubo image](https://avatars.githubusercontent.com/u/70516588?s=72)
-
-
-Rachel Wells
-
-
-@rachelauryn
-
-
-
-Read More](prepare_checkpoint.html)
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
-
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -13,7 +13,7 @@ articles:
     date: "March 28, 2024"
     author: "Caitlin Augustin"
     handle: "augustincaitlin"
-  - title: "Technical Project Hand\-off, Systems Integration, and Supporting Initial Implementation"
+  - title: "Technical Project Hand-off, Systems Integration, and Supporting Initial Implementation"
     filename: "technical_project_hand-off"
     date: "February 29, 2024"
     author: "Benjamin Kinsella"

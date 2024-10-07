@@ -28,7 +28,7 @@ articles:
     date: "February 29, 2024"
     author: "Caroline Charrow"
     handle: "charrowc"
-  - title: "Onboarding \+ Managing Volunteers to Create Inclusive Team"
+  - title: "Onboarding + Managing Volunteers to Create Inclusive Team"
     filename: "onboarding_+_managing_volunteers_to_create_inclusive_teams"
     date: "February 29, 2024"
     author: "Caitlin Augustin"

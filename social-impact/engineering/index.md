@@ -7,6 +7,12 @@ author: Chip Felton, Shouvik Basak, Matthew Hutchinson, Sridhar Ganapathy, Colle
 audience: DataKind Volunteers
 category: social-impact
 subcategory: engineering
+articles:
+  - title: "Identifying & Scoping an Equitable Data Project"
+    filename: "identifying_scoping_an_equitable_data_project"
+    date: "March 28, 2024"
+    author: "Caitlin Augustin"
+    handle: "augustincaitlin"
 ---
 
 Data engineering is an important and overlooked element of using data at social impact organizations (SIOs), required by many data projects to set up or sustain any large scale data work. There’s lots of information available on data engineering, so rather than creating something from scratch, this Playbook article compiles and organizes resources that might be useful for SIOs looking to improve their data infrastructure, answering a few frequently asked questions by pointing you to relevant resources to learn more. 

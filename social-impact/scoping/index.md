@@ -25,7 +25,7 @@ articles:
     handle: "rachelauryn"
 ---
 
-#### Identifying \& Scoping an Equitable Data Project
+#### Identifying & Scoping an Equitable Data Project
 
 
 At DataKind, we feel “a problem well\-stated is half\-solved” (Charles Kettering), which is why our teams spend a significant amount of time working with social impact organizations to understand their pain points, co\-design an ideal end state, and identify the resources needed and available to create a data\-driven solution. We call this process “scoping,” and find that scoping a project well is the most important element of a “data science for good” project.

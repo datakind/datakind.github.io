@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volunteer Management
+title: Donate
 subtitle:
 date: 02/29/2024
 author: Rachel Wells, Asnat Ghebremedhin
@@ -38,7 +38,7 @@ Hey there! If you’re a Chapter member or leader and have found a potential fun
 We have a formal process to review funding opportunities in order to ensure we make informed, transparent and documented decisions about whether or not to apply based on fit with DataKind goals, project priorities and team capacity. We so appreciate that you are thinking of ways to help us secure financial support! **Please complete the [Request to Pursue Funding form](https://docs.google.com/forms/d/e/1FAIpQLSec67YugGgRwwghgkmppvg70DsbHKXg50eZBl8lQQtq5A_7tA/viewform) at least two weeks in advance of the application deadline. DataKind's Business Development team will then follow up and let you know whether or not you have approval to apply.**
 
 
-##### Q\&A
+##### Q&A
 
 
 **When should I fill out the Expression of Interest form?**

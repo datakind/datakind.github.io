@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Creating Reusable Resources for Beyond DataKind
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Benjamin Kinsella, Phil Azar
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Creating Reusable Resources for Beyond DataKind
-
 
 Could you convert some of your code into a template or reusable resource for similar projects? Did you apply a certain methodology to a social good problem in a way that someone else facing similar constraints on a social good problem might be able to benefit from? Could anything that you did on this project be valuable for other social impact organizations or DataKinders to repurpose?
 
@@ -45,29 +31,3 @@ If you’re interested in submitting a resource you’ve built with your DataKin
 
 
 If you want to dive deeper into what makes for a good public resource, check out the [Guide on Digital Public Goods](https://docs.google.com/document/d/1vru3LY3mnHPMhD_iejPphx1-vpKw2SaidtqcOXw8zug/edit).
-
-
-
- **Contributer(s):** Caitlin Augustin, Benjamin Kinsella, Phil Azar
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

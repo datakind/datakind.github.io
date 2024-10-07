@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Sharing Learnings Across DataKind and Beyond
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Sharing Learnings Across DataKind and Beyond
-
 
 Did you learn anything while doing this project that might be valuable for other DataKinders to know about? Did you do something that worked really well that you would love to share so that others can repeat your success, or make a mistake that you want to make sure others can learn from? 
 
@@ -70,29 +56,3 @@ When authoring a blog, don't forget to acknowledge teammates that may have contr
 
 
 You could also consider sharing the results through additional pathways, such as a conference, journal articles, podcasts, and more. Remember, it is important to confirm external communications with the partner organization before presenting or publishing your work. Be sure to let the DataKind Communications team know before submitting your work.
-
-
-
- **Contributer(s):** Rachel Wells
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

@@ -1,26 +1,12 @@
 ---
 layout: default
-title: design
+title: Technical Project Hand\-off, Systems Integration, and Supporting Initial Implementation
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Emily Yelverton, Kelson Shilling\-Scrivo
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
 ---
-
-
-
-
-**Intended audience:**
-DataKind Volunteers
-
-
-
-
-
-
-#### Technical Project Hand\-off, Systems Integration, and Supporting Initial Implementation
-
 
 ​​Since you aren’t the one who will be using the product you built, one of the most important things you will do is hand off your project’s deliverables and documentation to the partner organization. Doing this process well is critical for the project’s long\-term sustainability, so take time to organize your code, write up any findings, and create as standalone of a package as you can. 
 
@@ -80,29 +66,3 @@ While the specifics will vary based on project needs, here are a few ways that D
 
 
 To conclude, part of the scoping process is making sure that the project will be sustainable, and the project deliverables were carefully designed to ensure that specific teams and individuals at the partner organization would be able to manage them. You shouldn’t be teaching someone python or to use AWS at this stage. If you feel that there has been a mismatch of the deliverables and that the partner organization will not be able to sustain the project without extremely substantial support, talk to your DataKind staff support to troubleshoot and plan how to move forward. Read more about sustainability planning in this Playbook article on [instructional materials](https://playbook.datakind.org/playbook/articles/73).
-
-
-
- **Contributer(s):** Benjamin Kinsella, Emily Yelverton, Kelson Shilling\-Scrivo
-
-
-
-
-
-
-
-##### Contact us
-
-
-If you would like to learn more about us, partner with us, or get in touch, email us at community@datakind.org
-
-
-
- 
-**Subscribe to our newsletter**
-  
-
-[Subscribe](https://www.datakind.org/subscribe/)
-
-
-

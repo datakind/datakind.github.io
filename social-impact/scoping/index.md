@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Data Project Scoping
 subtitle:
 date: 02/29/2024

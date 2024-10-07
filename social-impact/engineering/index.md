@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Where to Start with Data Engineering
 subtitle:
 date: 02/29/2024

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Share
 subtitle: The team delivers the final version and documentation so the partner can increase its impact.
 date: 02/29/2024

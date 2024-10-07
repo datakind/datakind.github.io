@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Volunteers
 subtitle:
 date: 02/29/2024

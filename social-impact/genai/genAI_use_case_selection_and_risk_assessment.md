@@ -132,7 +132,7 @@ Focus on identifying and building low risk solutions, while mitigating any remai
 
 
 
-![](assets/img/data_scoping_project_Picture1.png)
+![](/public/img/genAI_risk_Picture1.png)
 
 When selecting your GenAI problem statement, use this matrix to evaluate risk (the x\-axis) versus impact (the y\-axis). Think about where any possible GenAI use case might fall. You are looking for a use case that falls in the top left quadrant, with the lowest levels of risks and the highest possible impact. Think through possible use cases, assess the risks for each opportunity, and chart them on this matrix to identify what would be the best place to start. 
 

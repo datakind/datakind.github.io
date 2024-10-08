@@ -50,7 +50,7 @@ The MVP is a first version of the product, which has just enough features for th
 	+ The focus of the last phase
 	+ The output of the last phase if applicable
 	+ Questions for the organization
-* Q\&A (20 minutes)
+* Q&A (20 minutes)
 
 
 The MVP Checkpoint is an opportunity to debrief the demo for the partner organization, and decide on next steps based on the results. 

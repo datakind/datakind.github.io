@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog Guidelines
-subtitle: Telling Your Story How to Contribute to Our Blog
+subtitle: How to Contribute to Our Blog
 date: 02/29/2024
 author: Caroline Charrow, Melissa, Rachel Wells
 audience: DataKind Volunteers
@@ -41,7 +41,7 @@ Below is a list of the types of content that we prefer to feature, along with ex
 * Other Project Updates and Showcases
 * Profiles (Chapter Leaders, Other Volunteers, Board Members, Staff)
 * Partnerships
-* Commentary on Case Studies: *Our case studies are featured on the [Projects page](https://www.datakind.org/blog/) of our website and are a chance to tell the story of DataKind’s work. The blog could be a great place to provide commentary (explaining the “so what” of the project) on a case study. Examples include (but not limited to): a project volunteer’s first hand experience, learnings or updates from a past or ongoing project, etc.*
+* Commentary on Case Studies: Our case studies are featured on the [Projects page](https://www.datakind.org/blog/) of our website and are a chance to tell the story of DataKind’s work. The blog could be a great place to provide commentary (explaining the “so what” of the project) on a case study. Examples include (but not limited to): a project volunteer’s first hand experience, learnings or updates from a past or ongoing project, etc.
 * How\-To’s and Tutorials (that would be helpful to our readers, specifically our pro bono data scientists and partners at social change organizations)
 * Tips, Resources, Cheat Sheets, or Checklists (that would be useful to our readers)
 
@@ -67,7 +67,7 @@ Below is a list of the types of content that we prefer to feature, along with ex
 * [DataKind UK Ethics Committee: Our First Year in Review](https://www.datakind.org/2019/12/18/datakind-uk-ethics-committee-our-first-year-in-review/)
 * [DataKind DC’s First Citizen Science DataDive](https://www.datakind.org/blog/datakind-dcs-first-citizen-science-datadive)
 * [Using Data Science to Improve Mental Health Services for Diverse Communities](https://www.datakind.org/2019/12/26/using-data-science-to-improve-mental-health-services-for-diverse-communities/)
-* [Applying AI to Societal Challenges in Cities \& Communities: Highlights from DataKind’s Virtual DataDive With Microsoft](https://www.datakind.org/2019/11/07/applying-ai-to-societal-challenges-in-cities-communities-highlights-from-datakinds-virtual-datadive/)
+* [Applying AI to Societal Challenges in Cities & Communities: Highlights from DataKind’s Virtual DataDive With Microsoft](https://www.datakind.org/2019/11/07/applying-ai-to-societal-challenges-in-cities-communities-highlights-from-datakinds-virtual-datadive/)
 * [DataKind Joins Partnership on Artificial Intelligence](https://www.datakind.org/2018/11/09/datakind-joins-partnership-on-artificial-intelligence/)
 * [A Step Change: DataKind Raises $20M Investment to Support the Data Science for Social Good Ecosystem](https://www.datakind.org/2019/01/22/a-step-change-datakind-raises-20m-investment-to-support-the-data-science-for-social-good-ecosystem/)
 

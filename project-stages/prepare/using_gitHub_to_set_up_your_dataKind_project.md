@@ -23,7 +23,7 @@ GitHub Actions help you automate tasks within your software development life cyc
 We created an [Actions template](https://github.com/migarjo-enterprise-org/initial-actions-template/blob/main/README.md) and [forked it onto to DataKind’s GitHub repository](https://github.com/datakind/initial-actions-template-DataKind) (see Figure below). 
 
 
-![Template view on DataKind GitHub workspace](assets/img/action_template.png)
+![Template view on DataKind GitHub workspace](/public/img/action_template.png)
 This demo repository to create Actions would run on a newly\-created repository. It contains the following two actions:
 
 
@@ -43,11 +43,11 @@ As we begin to use Actions within GitHub at DataKind, there are improvements to 
 First, the yaml file creating the repository should be updated to ensure the template produces the most convenient and usable GitHub repo. 
 
 
-![Template view on DataKind GitHub workspace](assets/img/yaml_file_1.png)
+![Template view on DataKind GitHub workspace](/public/img/yaml_file_1.png)
 Additionally, part of the template allows for the selection of either Python or R as the default programming language. There is an option to select a specific project category (Project A, B, C, etc.), such as a predictive model, software/product design, etc. We are working on refining and defining these categories to those that will be most usable across all DataKind projects. Share your ideas in the comments below!
 
 
-![Template view on DataKind GitHub workspace](assets/img/yaml_file_2.png)
+![Template view on DataKind GitHub workspace](/public/img/yaml_file_2.png)
 If you would like to volunteer to build out the next steps of this project, feel free to join us on GitHub! Reach out to us by pushing the “Provide Feedback, Ask Questions!" button to the left with any questions you have.
 
 

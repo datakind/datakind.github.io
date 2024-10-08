@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Identifying \& Scoping an Equitable Data Project
+title: Identifying & Scoping an Equitable Data Project
 subtitle:
 date: 02/29/2024
 author: Caitlin Augustin, Shanna Lee, Caroline Charrow, Sarah Lenet, Fotis Zapantis
@@ -25,7 +25,7 @@ At DataKind, we believe there are six components of a successful AI and data sci
 
 
 
-![](assets/img/data_scoping_project_Picture1.png)
+![](/public/img/data_scoping_project_Picture1.png)
 
 *The six components of a successful data science for good project* 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  DataKind’s Ethical Principles
-subtitle: \*The following is inspired by DataKind UK's original publication of the principles* [DataKind UK's original publication of the principles](https://www.datakind.org/2018/01/22/doing-data-for-good-right/)
+subtitle: The following is inspired by DataKind UK's original publication of their principles at https://www.datakind.org/2018/01/22/doing-data-for-good-right/
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
@@ -15,7 +15,7 @@ Ensuring our work is done in the service of humanity and in alignment with our v
 This article outlines DataKind’s ethical principles. What these principles look like specifically within each project stage is described in articles throughout the Projects section of the Playbook. At DataKind, we reference these principles at each stage throughout the project process:
 
 
-##### 1\) Harms \& Benefits Evaluation
+##### 1\) Harms & Benefits Evaluation
 
 
 *I will actively seek to consider the potential harms and benefits of my work with DataKind.*
@@ -24,7 +24,7 @@ This article outlines DataKind’s ethical principles. What these principles loo
 We evaluate who will be most impacted by our work and what that impact will be. Will our project empower communities who are marginalized, or become an oppressive tool for the powerful? When there is an ethical question, DataKind teams work with project partners to understand their intent and goals, and ensure their recommended solution won’t cause harm to the impacted community. This analysis is done in various ways, including evaluating the potential harms of model outputs or considering the different ways organizations can make decisions using our analyses. Emphasizing the benefits and harms also lets us compare to the baseline: what if we do nothing? Even during project handoffs, we need to make sure we continue evaluating because we never know how our models will be used in the future.
 
 
-##### 2\) Context \& Impact
+##### 2\) Context & Impact
 
 
 *I will actively seek to understand the context of the data and tools I use, and mitigate negative impacts to the best of my ability.*
@@ -36,7 +36,7 @@ Understanding the context of a data solution is complex. It involves interrogati
 Addressing internal and external biases allows us to create more robust data solutions. We believe that it is essential to ensure impacted populations are equitably represented, which could be as simple as making sure there are representative and balanced identifiers in a dataset or as complex as digging into a data collection pipeline to make sure that certain groups were not left out. By making sure the impacted population is represented in the dataset and consents to the solution being developed, unforeseen discrimination and harm can be avoided.
 
 
-##### 3\) Communication \& Transparency
+##### 3\) Communication & Transparency
 
 
 *I will enable others to understand the data and analysis choices I have made, now and in the future.*
@@ -45,7 +45,7 @@ Addressing internal and external biases allows us to create more robust data sol
 We believe that people have a right to understand how models that impact them work. We prioritize creating excellent documentation that takes into consideration accessibility (such as local language), readability, sustainability, and understandability. Ranging from impacted communities that need colloquial project briefs to technical partners who need to understand the parameters of a model, good communication starts from a point of transparency and equity. Disaggregating datasets, creating diagrams and images of model architectures, and reporting out results simply, but rigorously allows all participants to evaluate the state of a project, detect any errors or privacy concerns, and reproduce results to validate the solution.
 
 
-##### 4\) Capacity \& Humility
+##### 4\) Capacity & Humility
 
 
 *I will actively seek to understand my own limits and the limits of the organizations involved.*
@@ -54,7 +54,7 @@ We believe that people have a right to understand how models that impact them wo
 As volunteers, we have finite time to dedicate to DataKind projects. Partner organizations may have limited funding, minimal technical infrastructure, or missing data. In order to proceed ethically in a project, we must understand the limits and biases of ourselves and our partner organizations. These constraints allow us to accurately represent what is possible to our partners and build more creative solutions. 
 
 
-##### 5\) Openness \& Learning
+##### 5\) Openness & Learning
 
 
 *I will debate and discuss ethical choices.*

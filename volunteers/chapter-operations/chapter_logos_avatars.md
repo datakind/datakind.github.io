@@ -15,7 +15,7 @@ subcategory: chapter-operations
 The DataKind Chapter logos are the symbol of our global community using data science for good, so use it thoughtfully. Always include it on any DataKind\-related materials and whenever possible, use the original orange version (HEX \#f79122\). When on a color background, use the white or gray versions, depending the design application.
 
 
-[\> Access Chapter avatars and logos.](https://drive.google.com/drive/folders/1Mk8GnPgV0YGhqaI0QAOHaO1vmcLfFl06)
+[Access Chapter avatars and logos here.](https://drive.google.com/drive/folders/1Mk8GnPgV0YGhqaI0QAOHaO1vmcLfFl06)
 
 
 ##### Logo Spacing and Application

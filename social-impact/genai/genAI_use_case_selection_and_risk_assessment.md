@@ -44,13 +44,13 @@ Now, you might be ready to dive into evaluating what makes the most sense. Here 
 | Generate | All | Insights and advice in specific situations of crises |
 | Generate | All | Personalized learning and guidelines |
 | Predict | Programs | Climate events, economic crash or inflation, forced migration, conflict, etc. |
-| Automate | Data | Codebooks \& metadata documents |
+| Automate | Data | Codebooks & metadata documents |
 | Automate | Data | Labeling unlabeled data |
 | Automate | Data | Database wrangling, cleaning, and quality checks |
 | Automate | Data | Generating data taxonomies |
 | Analyze | Evaluation | Project evaluation |
 | Analyze | All | Sentiment analysis |
-| Analyze | Human resources | Impact \& performance |
+| Analyze | Human resources | Impact & performance |
 | Detect | Programs | Natural disasters and anomalies |
 | Detect | Technology | Fraud |
 | Detect | Technology | Mis and disinformation |
@@ -67,7 +67,7 @@ Now, you might be ready to dive into evaluating what makes the most sense. Here 
 | Manage | Evaluation | Identify and organize themes within qualitative data |
 | Manage | All | Classify information |
 | Generate | Communications | Design presentations, storyboards, etc. |
-| Generate | Communications | Edit images \& videos |
+| Generate | Communications | Edit images & videos |
 | Analyze | Data | Image tagging |
 | Generate | Data | Layout designs for visual data |
 | Generate | Operations | Creating templates |
@@ -110,9 +110,9 @@ On top of careful scoping to select a safer use case and general policies to mit
 
 | Sample area(s) of risk | Sample mitigation approach(es) |
 | --- | --- |
-| Hallucination, information loss, errors | * Tools for controlling LLM outputs: [Guardrails](https://www.guardrailsai.com/), [Outlines](https://outlines-dev.github.io/outlines/), [LMQL](https://lmql.ai/), and [SGLang](https://arxiv.org/pdf/2312.07104.pdf). * Inference strategies to generate better outputs using calls to models and tools: [chain\-of\-thought](https://arxiv.org/pdf/2201.11903.pdf), [self\-consistency](https://arxiv.org/pdf/2203.11171.pdf), [WikiChat](https://arxiv.org/pdf/2305.14292.pdf), automated validation techniques like [RAG](https://arxiv.org/pdf/2005.11401.pdf) * Less technical elements: limit data sources and always include references for required human\-in\-the\-loop fact checking reviews |
+| Hallucination, information loss, errors | Tools for controlling LLM outputs: [Guardrails](https://www.guardrailsai.com/), [Outlines](https://outlines-dev.github.io/outlines/), [LMQL](https://lmql.ai/), and [SGLang](https://arxiv.org/pdf/2312.07104.pdf). <br><br> Inference strategies to generate better outputs using calls to models and tools: [chain\-of\-thought](https://arxiv.org/pdf/2201.11903.pdf), [self\-consistency](https://arxiv.org/pdf/2203.11171.pdf), [WikiChat](https://arxiv.org/pdf/2305.14292.pdf), automated validation techniques like [RAG](https://arxiv.org/pdf/2005.11401.pdf) <br><br> Less technical elements: limit data sources and always include references for required human\-in\-the\-loop fact checking reviews |
 | Data leakage | Data security systems, select a tool that protects privacy |
-| Misuse, [Jailbreak](https://chats-lab.github.io/persuasive_jailbreaker/), model exploitation, prompt injection (i.e. [a worm that targets GenAI applications such as RAG systems](https://sites.google.com/view/compromptmized)) | * Setup model safety guardrails and build in accountability with observability, monitoring, red teaming, etc. to ensure model compliance and appropriate responses to harmful requests * Use the [same care as with the installation of other software and libraries with open models](https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/) |
+| Misuse, [Jailbreak](https://chats-lab.github.io/persuasive_jailbreaker/), model exploitation, prompt injection (i.e. [a worm that targets GenAI applications such as RAG systems](https://sites.google.com/view/compromptmized)) | Setup model safety guardrails and build in accountability with observability, monitoring, red teaming, etc. to ensure model compliance and appropriate responses to harmful requests <br><br> Use the [same care as with the installation of other software and libraries with open models](https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/) |
 | Bias | Test for equity and inclusivity for historically disadvantaged communities |
 | Transparency | Select a constrained use case for clarity into how it’s working |
 | Inaccessibility (language, internet access, etc.) | Include translation checks, create accommodations to increase accessibility, etc. |
@@ -131,8 +131,7 @@ Pulling it all together, here’s an [example of what this AI risk evaluation lo
 Focus on identifying and building low risk solutions, while mitigating any remaining risks. For example, asking an LLM questions where the answers are from its training data is high risk, with a large possibility that it will provide false information. Whereas, using an LLM to predict technical metadata on data you provided is a more low risk solution. While low risk solutions are still not risk\-free and require mitigation strategies, they are much better places to start. Assess the risks and possibilities across use cases, using a simply matrix: 
 
 
-
-![](/public/img/genAI_risk_Picture1.png)
+![A graph with two axes labeled "risk" and "impact," with the quadrant labeled "low risk, high impact" highlighted as the area to look for use cases.](/public/img/genAI_risk_Picture1.png)
 
 When selecting your GenAI problem statement, use this matrix to evaluate risk (the x\-axis) versus impact (the y\-axis). Think about where any possible GenAI use case might fall. You are looking for a use case that falls in the top left quadrant, with the lowest levels of risks and the highest possible impact. Think through possible use cases, assess the risks for each opportunity, and chart them on this matrix to identify what would be the best place to start. 
 

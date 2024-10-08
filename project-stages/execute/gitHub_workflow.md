@@ -54,7 +54,7 @@ When you first introduce GitHub Actions workflows, you should be able to see the
 If you don’t have a \`.github\` directory in your repo or yaml files under that directory, then a workflow hasn't been set up yet. Once you try to set up a workflow for the first time, you can always go to the [“Actions” tab](https://github.com/datakind/CCA_model_work/actions) and see the GitHub actions that have been run or tried to run. (See below screenshot)
 
 
-![](assets/img/execute_Picture1.png)
+![](/public/img/execute_Picture1.png)
 Note that for subsequent workflows added, you shouldn't have to go to the \`Actions\` tab again. Going forward, you should see the workflows run attempts directly in the PR. It’s just that when setting up the first workflow, it doesn't always appear in the PR \- especially if it's failing.
 
 

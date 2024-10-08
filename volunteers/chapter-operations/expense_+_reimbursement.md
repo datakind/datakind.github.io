@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Expense and Reimbursement
+title: Expenses and Reimbursement
 subtitle:
 date: 02/29/2024
 author: Caroline Charrow

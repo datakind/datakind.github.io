@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Technology Set\-up
+title: Project Technology Set-up
 date: 02/29/2024
 author: Benjamin Kinsella, Mallory Sheff, Vignesh Kumaresan
 audience: DataKind Volunteers

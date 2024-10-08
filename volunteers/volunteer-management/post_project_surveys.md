@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Post Project Surveys
+title: Post-Project Surveys
 subtitle:
 date: 02/29/2024
 author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff
@@ -8,9 +8,6 @@ audience: DataKind Volunteers
 category: volunteers
 subcategory: volunteer-management
 ---
-
-#### Post\-Project Surveys
-
 
 To supplement the volunteer retrospective, an anonymous survey should be sent out to project volunteers to get additional feedback that people might not be comfortable sharing openly. The [DataKind post\-project feedback form](https://docs.google.com/forms/d/10OvAVr4zhmP1ZXimLFXetrw0rKNtSjQCMsdWnSIAyNo/viewform?edit_requested=true) allows us to capture that information and our volunteer Net Promoter Score, which is an indicator we use to measure our success in engaging volunteers at DataKind. If you are doing a project with DataKind Global or are with a chapter and do not want to customize your survey, send the volunteers this URL: [https://forms.gle/PHFq8ZhDr2Dzsi1KA](https://docs.google.com/forms/d/e/1FAIpQLSccSjkpV5CeVLHV60ExE5ofFq4b7HtRikcCUWLLXHyU4iEGHQ/viewform?usp=send_form). DataKind staff will have access to the results from this survey for reflection. Chapter Leaders will also have access to the data from this survey by logging in with their datakind.org email addresses. If you are with a chapter and want to customize the survey, feel free to make a copy of the [DataKind post\-project feedback form](https://docs.google.com/forms/d/10OvAVr4zhmP1ZXimLFXetrw0rKNtSjQCMsdWnSIAyNo/viewform?edit_requested=true) and edit it to incorporate any additional questions you want answers to.
 

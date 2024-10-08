@@ -57,7 +57,7 @@ Pre\-work: Send the documents you have created throughout the discovery process 
 Meeting agenda
 
 
-* Review \& discuss what has been done so far
+* Review & discuss what has been done so far
 * Ask questions about the project and explain any unclear documentation as needed
 * Make formal decision on whether or not to move into the next stage
 * Discuss and agree on next steps

@@ -28,11 +28,11 @@ Everyone has different preferences on what their project plan looks like, but he
 * Use weekly or biweekly [sprints](https://www.scrumguides.org/scrum-guide.html) to segment work targets
 * Track how project reality compares to the initial project plan to more accurately understand how much time things take, so you can refine the plan as the project progresses
 * Use the [MOCHA framework](https://www.managementcenter.org/resources/assigning-responsibilities/) to align on who is responsible for what. For example, a data visualization element of a project might have the following MOCHA:
-+ **M**anager: the Project Manager
-+ **O**wner: the Data Expert with visualization expertise
-+ **C**onsulted: the other Data Experts
-+ **H**elper: the Data Ambassador
-+ **A**pprover: the Project Champion
+  * **M**anager: the Project Manager
+  * **O**wner: the Data Expert with visualization expertise
+  * **C**onsulted: the other Data Experts
+  * **H**elper: the Data Ambassador
+  * **A**pprover: the Project Champion
 
 * Use the [5 Ws: Who, What, Why, When, and Where](https://www.managementcenter.org/resources/delegation-worksheet/) to disaggregate larger projects in combination with the MOCHA framework.
 * Don’t get to a point where updating the project plan becomes more work than the utility you get out of it. Be aware of the ROI of project plan creation and don’t spend too much time on it.

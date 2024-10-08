@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Researching an Organization \+ DataKind Value Alignment Check
+title: Researching an Organization + DataKind Value Alignment Check
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
@@ -45,7 +45,7 @@ As another example, they would fall somewhere on this gender continuum:
 
 
 
-![Discovery Stage DataKind Project Process](assets/img/DEI Due Diligence Research_Picture2.png)
+![Discovery Stage DataKind Project Process](/public/img/DEI Due Diligence Research_Picture2.png)
 
 ([Source](https://www.unicef.org/evaluation/media/1226/file/UNICEF%20Guidance%20on%20Gender%20(Full%20version).pdf))
 

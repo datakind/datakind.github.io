@@ -24,7 +24,7 @@ The Discovery stage is led by the **Scoper(s)**, which is typically a role for a
 
 
 
-![Discovery Stage DataKind Project Process](assets/img/execute_stage.png)
+![Discovery Stage DataKind Project Process](/public/img/execute_stage.png)
 
 ##### Discovery stage steps
 
@@ -47,7 +47,7 @@ The Discovery stage is led by the **Scoper(s)**, which is typically a role for a
 
 
 
-![Discovery Stage DataKind Project Process](assets/img/Discovery_stage_steps.png)
+![Discovery Stage DataKind Project Process](/public/img/Discovery_stage_steps.png)
 
 
 ##### Ethical considerations

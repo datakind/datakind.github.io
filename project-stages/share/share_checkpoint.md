@@ -17,7 +17,7 @@ See the [Intro to Checkpoints](https://playbook.datakind.org/playbook/project/12
 Agenda template (feel free to edit based on your specific needs!):
 
 
-* Review \& discuss what has been done so far
+* Review & discuss what has been done so far
 * Ask questions about the project and explain any unclear documentation as needed
 * Make formal decision on whether the project is complete and the partner is satisfied with all shared deliverables
 * Discuss and agree on next steps

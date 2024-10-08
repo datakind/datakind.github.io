@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zoom Guide
-subtitle: This article outlines DataKind’s Zoom rooms that are available for Chapter use, as well as how to use the most common Zoom features. For more detailed Zoom guidance, check out the [Zoom Help Center.](https://support.zoom.com/hc/en)
+subtitle: This article outlines DataKind’s Zoom rooms that are available for Chapter use, as well as how to use the most common Zoom features. For more detailed Zoom guidance, check out the Zoom Help Center at https://support.zoom.com/hc/en
 date: 02/29/2024
 author: Caroline Charrow
 audience: DataKind Volunteers

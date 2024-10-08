@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who Does What in Chapters
+title: Who Does What in Chapters?
 subtitle:
 date: 02/29/2024
 author: Rachel Wells
@@ -18,8 +18,8 @@ There are two main volunteer roles within an individual chapter. Additional role
 1\. [Chapter Leader](https://drive.google.com/file/d/1XPugchU-8Wp_JT2gq8C4jC5_E8lm6TCz/view) : A leader and motivator to help spearhead the data\-for\-good movement in their community by developing and contributing to data science projects, collaborating with partners, leading volunteers, and promoting DataKind.
 
 
-* *[Chapter Leader Onboarding Checklist](https://docs.google.com/document/d/17jpNNF9Xu3DR8dWOU4H3LvMYKCb13S-GlKyrYrV6xaE/edit)*
-* *[Chapter Charter Agreement](https://drive.google.com/file/d/0B2BgzVIOaz9fUkd5Q21BYW5zLVU/view?usp=sharing)*
+* [Chapter Leader Onboarding Checklist](https://docs.google.com/document/d/17jpNNF9Xu3DR8dWOU4H3LvMYKCb13S-GlKyrYrV6xaE/edit)
+* [Chapter Charter Agreement](https://drive.google.com/file/d/0B2BgzVIOaz9fUkd5Q21BYW5zLVU/view?usp=sharing)
 
 
 2\. [Chapter Core Volunteer](https://drive.google.com/file/d/17_qeRnL-F37JuYQYCRyqqF2q0LUTx-Tn/view): A volunteer who supports chapter efforts toward organizing community events, preparing and executing data science projects, and bringing together those interested in DataKind.

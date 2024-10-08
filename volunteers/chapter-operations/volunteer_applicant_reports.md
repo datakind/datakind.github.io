@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volunteer applicant reports
+title: Volunteer Applicant Reports
 subtitle:
 date: 02/29/2024
 author: Caroline Charrow

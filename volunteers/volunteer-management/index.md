@@ -8,7 +8,7 @@ audience: DataKind Volunteers
 category: volunteers
 subcategory: volunteer-management
 articles:
-  - title: "Project Project Surveys"
+  - title: "Project-Project Surveys"
     filename: "post_project_surveys"
     date: "March 28, 2024"
     author: "Rachel Wells"

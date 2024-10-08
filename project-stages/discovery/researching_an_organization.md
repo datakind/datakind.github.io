@@ -36,7 +36,7 @@ All organizations, including DataKind and all potential partners we speak with, 
 
 
 
-![Discovery Stage DataKind Project Process](assets/img/DEI Due Diligence Research_Picture1.png)
+![Discovery Stage DataKind Project Process](/public/img/DEI Due Diligence Research_Picture1.png)
 
 ([Source](https://racc.org/wp-content/uploads/buildingblocks/foundation/Continuum%20on%20Becoming%20an%20Anti-Racist,%20Multicultural%20Institution.pdf))
 

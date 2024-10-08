@@ -42,7 +42,7 @@ Book via Google Calendar.
 
 
 
-![](assets/img/zoom_guide.png)
+![](/public/img/zoom_guide.png)
 
 ##### Zoom Invitation format
 

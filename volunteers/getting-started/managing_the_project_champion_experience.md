@@ -9,7 +9,7 @@ category: volunteers
 subcategory: getting-started
 ---
 
-The [Project Champion](https://playbook.datakind.org/playbook/articles/26/identifying-successful-project-champions) is the point\-person at the partner organization who coordinates activities within the organization and partners with the DataKind team throughout the project’s lifecycle. They are often an end user and/or the data specialist, and someone with deep knowledge and expertise on the problem and/or available data.
+The [Project Champion](/project-stages/discovery/identifying_successful_project_champions_and_executive_sponsors) is the point\-person at the partner organization who coordinates activities within the organization and partners with the DataKind team throughout the project’s lifecycle. They are often an end user and/or the data specialist, and someone with deep knowledge and expertise on the problem and/or available data.
 
 
 As a DataKind volunteer, always treat partners with the same professionalism as you would in a consulting engagement. Here are a few tips for how to maintain a positive relationship with the Project Champion:

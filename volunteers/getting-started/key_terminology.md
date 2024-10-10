@@ -24,7 +24,7 @@ This article provides a list of commonly used terms at DataKind, and what we mea
 **DataCorps® project** \- A long\-term engagement that helps organizations use data science to transform their work and their sector. Note: “DataCorps” is always used as an adjective, and the first instance has the registered trademark ® sign. 
 
 
-**DataDive® event** \- A high\-energy, marathon\-style event that helps partner organizations do initial data analysis, exploration, and prototyping, often over the course of a weekend. Note: “DataDive” is always used as an adjective, and the first instance has the registered trademark ® sign. For more information, read our [DataDive FAQ](https://playbook.datakind.org/playbook/articles/170).
+**DataDive® event** \- A high\-energy, marathon\-style event that helps partner organizations do initial data analysis, exploration, and prototyping, often over the course of a weekend. Note: “DataDive” is always used as an adjective, and the first instance has the registered trademark ® sign. For more information, read our [DataDive FAQ](/volunteers/getting-started/data_dive_faqs).
 
 
 **DataJam event** \- Typically a 2\-3 hour event where volunteers are cleaning and prepping data for further work, say at a DataDive event, or where volunteers are doing basic exploratory analysis, say as part of the scoping process for a longer\-term engagement. 
@@ -42,7 +42,7 @@ This article provides a list of commonly used terms at DataKind, and what we mea
 **DataKind Network** \- All Chapters worldwide, including DataKind Global.
 
 
-**Discovery Day** \- Typically a 3\-4 hour event in which volunteers are paired with potential partner organizations to discover possible project opportunities and support them in their data strategy. For more information, read our [Discovery Day articles](https://playbook.datakind.org/playbook/articles/176/introduction-to-discovery-days) in the Engagements section of the Playbook.
+**Discovery Day** \- Typically a 3\-4 hour event in which volunteers are paired with potential partner organizations to discover possible project opportunities and support them in their data strategy.
 
 
 **Generative AI** \- A subset of AI that uses algorithms called Large Language Models (LLMs) trained on large amounts of human\-created content to generate new content such as text, images, or music, similar to what humans might produce (ie. ChatGPT). 

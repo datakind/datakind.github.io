@@ -11,7 +11,7 @@ subcategory: evaluate
 The Evaluate Checkpoint is the final step of a project before sharing the evaluation learnings and permanently closing the project. Most importantly, the Evaluate Checkpoint is the time to ensure that the project has been fully evaluated, that the partner organization is supported in sustaining what was delivered, and that everything has been properly documented (including learnings) before the project is permanently closed. 
 
 
-See the [Intro to Checkpoints](/project-stages/discovery/discovery_checkpoint) for a reminder on how all checkpoints are conducted and how to prepare for them. If you have any questions or need support, you can always reach out to community@datakind.org! 
+See [Intro to Checkpoints](/project-stages/discovery/discovery_checkpoint) for a reminder on how all checkpoints are conducted and how to prepare for them. If you have any questions or need support, you can always reach out to community@datakind.org! 
 
 
 Agenda template (feel free to edit based on your specific needs!):

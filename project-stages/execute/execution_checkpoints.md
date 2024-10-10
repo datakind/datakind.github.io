@@ -8,7 +8,7 @@ category: project-stages
 subcategory: execute
 ---
 
-The Execution stage is unique in that it has three checkpoints within it, instead of just one cumulative checkpoint at the end. For a reminder on how all checkpoints are conducted and how to prepare for them, see the [Intro to Checkpoints](/project-stages/discovery/discovery_checkpoint). To conclude each checkpoint, Chapter Leaders and/or staff should make sure that all project information is up\-to\-date in Salesforce.
+The Execution stage is unique in that it has three checkpoints within it, instead of just one cumulative checkpoint at the end. For a reminder on how all checkpoints are conducted and how to prepare for them, see [Intro to Checkpoints](/project-stages/discovery/discovery_checkpoint). To conclude each checkpoint, Chapter Leaders and/or staff should make sure that all project information is up\-to\-date in Salesforce.
 
 
 Agenda template for all checkpoints (feel free to edit based on your specific needs!):

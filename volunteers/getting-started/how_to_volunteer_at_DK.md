@@ -22,8 +22,8 @@ There are a few ways in which you can volunteer at DataKind:
 
 
 1. Join a [Chapter](https://www.datakind.org/about-us/our-chapters/): Chapters are groups of local volunteers that organize events and connect with local mission\-driven organizations to complete Data Science and AI for Good projects. We are constantly learning; the Playbook is designed to be continuously updated as our processes and recommendations evolve.
-2. Volunteer for a [DataDive® event](https://playbook.datakind.org/playbook/articles/170): DataDive events are high energy, marathon\-style happenings where mission\-driven organizations work alongside teams of volunteer data scientists, developers, and designers to use data to gain insight into their programs, the communities they serve and more \- all in 48 hours or less!
-3. Volunteer for a [DataCorps® project](https://playbook.datakind.org/playbook/articles/173): DataCorps projects bring together teams of pro bono data scientists with social change organizations on long\-term projects that use data science to transform their work and their sector.
+2. Volunteer for a [DataDive® event](/volunteers/getting-started/data_dive_faqs): DataDive events are high energy, marathon\-style happenings where mission\-driven organizations work alongside teams of volunteer data scientists, developers, and designers to use data to gain insight into their programs, the communities they serve and more \- all in 48 hours or less!
+3. Volunteer for a DataCorps® project: DataCorps projects bring together teams of pro bono data scientists with social change organizations on long\-term projects that use data science to transform their work and their sector.
 4. Additional volunteer opportunities: Sometimes we will invite volunteers to apply for specific one\-off volunteer roles. When this happens, we will send an email and share about it in our community Slack. These roles often require specific skills and experience and are detailed in the application process.
 
 
@@ -57,4 +57,4 @@ Besides the warm fuzzy feeling you get from helping others, benefits of voluntee
 ##### Questions about volunteering?
 
 
-Feel free to email us at community@datakind.org or schedule time with our [office hours](https://playbook.datakind.org/playbook/articles/11) to discuss.
+Feel free to email us at community@datakind.org or schedule time with our [office hours](/volunteers/getting-started/office_hours) to discuss.

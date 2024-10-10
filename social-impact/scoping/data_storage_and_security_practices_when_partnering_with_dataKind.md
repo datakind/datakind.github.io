@@ -47,4 +47,4 @@ A data incident is when there is any risk of or actual unauthorized exposure, de
 Further information and links to resources for DataKind volunteers can be found in the [Data Storage, Security and Management Processes](#) Playbook article. If you have more questions, reach out to your DataKind point of contact and ask.
 
 
-Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
+Please see other "scoping" articles for social impact organizations at the bottom of the [Scoping page](/social-impact/scoping/index).

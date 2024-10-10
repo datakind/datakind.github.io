@@ -92,7 +92,7 @@ Note that we call these “components” and not “steps,” as they should be 
 
 * Establish cadence for internal team check\-ins and meetings with the project champion
 * Incorporate creativity and experimentation while executing the project
-* Manage projects in alignment with [DataKind's project management practices](https://playbook.datakind.org/playbook/articles/75)
+* Manage projects in alignment with [DataKind's project management practices](/project-stages/execute/project_management_at_dataKind)
 * Create quality, reusable, and well\-documented code as you go, following coding and data management best practices and maintaining GitHub hygiene
 * Regularly share lessons learned and challenges overcome with the DataKind Community
 * Explore Checkpoint: Project team checks in with advisory team and with the partner organization to affirm the project plan and scoping, make any adjustments, or decide if the project needs a pivot

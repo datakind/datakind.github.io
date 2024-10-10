@@ -14,14 +14,14 @@ Ensure that you have closed down all the technical and cloud environments as par
 Make sure to check on the following:
 
 
-* Check that all the final datasets are [secured](https://playbook.datakind.org/playbook/articles/107/data-publication-or-destruction)
+* Check that all the final datasets are [secured](/project-stages/evaluate/data_publication_or_destruction)
 * Double check that the NDA and data security steps are completed
 * Check that all documents and information from the project is stored in Google Drive
 * Change the Google Drive settings so that they are not shared outside of staff
 * Delete the team on Asana (if needed)
 * Archive the Slack channel for the project
 * Close the AWS instance
-* Make sure [final code](https://playbook.datakind.org/playbook/articles/72/coding-and-working-with-data-at-datakind) is hosted on DataKind’s GitHub
+* Make sure [final code](/project-stages/execute/coding_and_working_with_data_at_dataKind) is hosted on DataKind’s GitHub
 * Remove GitHub access from volunteers if they are no longer contributing to the repository
 * Close out the contract
 

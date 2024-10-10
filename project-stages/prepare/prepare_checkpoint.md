@@ -29,4 +29,4 @@ Agenda template (feel free to edit based on your specific needs!):
 To conclude the Checkpoint, Chapter Leaders and/or staff should make sure that all project information is up\-to\-date in Salesforce, including that volunteer Salesforce records have all been created and/or updated and that all volunteers have a signed volunteer agreement on file in the project Google Drive folder. 
 
 
-For a reminder on how all Checkpoints are conducted and how to prepare for them, see the [Intro to Checkpoints](https://playbook.datakind.org/playbook/articles/127/introduction-to-checkpoints). If you have any questions or need support, you can always reach out to community@datakind.org! 
+For a reminder on how all Checkpoints are conducted and how to prepare for them, see the [Intro to Checkpoints](/project-stages/discovery/discovery_checkpoint). If you have any questions or need support, you can always reach out to community@datakind.org! 

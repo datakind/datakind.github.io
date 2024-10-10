@@ -20,7 +20,7 @@ The first project stage is Discovery. It starts as soon as a potential project o
 The Discovery stage is led by the **Scoper(s)**, which is typically a role for an experienced Chapter volunteer, DataKind staff member, or someone intending to also volunteer as the Data Ambassador. Chapter Leaders or DataKind staff oversee the process by checking in and providing support and assistance to the Scoper.
 
 
- If the project will have a [Data Ambassador](https://playbook.datakind.org/playbook/articles/151), they are at times brought on in the Discovery Stage after a project partner organization is vetted and a potential project opportunity has been identified. The Data Ambassador can then join the technical conversations and conduct the data audit, and assist in the transition into the Design stage. Having the Data Ambassador engage in the design process helps set them and the project up for success, as they will be leading the Execute Stage. 
+ If the project will have a [Data Ambassador](/volunteers/getting-started/key_terminology), they are at times brought on in the Discovery Stage after a project partner organization is vetted and a potential project opportunity has been identified. The Data Ambassador can then join the technical conversations and conduct the data audit, and assist in the transition into the Design stage. Having the Data Ambassador engage in the design process helps set them and the project up for success, as they will be leading the Execute Stage. 
 
 
 

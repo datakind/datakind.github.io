@@ -8,7 +8,7 @@ category: project-stages
 subcategory: prepare
 ---
 
-The project plan is for internal team project management, so draft it in whatever tool or system will work best for you and your team. When you need to report back and summarize key milestones for the partner organization, update the [Project Brief](https://playbook.datakind.org/playbook/articles/47) with that information. 
+The project plan is for internal team project management, so draft it in whatever tool or system will work best for you and your team. When you need to report back and summarize key milestones for the partner organization, update the [Project Brief](/project-stages/design/the_project_brief_and_defining_your_deliverables) with that information. 
 
 
 Since the most important thing about a project plan is that it is useful for you, there’s a lot of flexibility on what it can look like or what form it can take. That said, there are a few key elements that every DataKind project plan should include:

@@ -21,7 +21,7 @@ At this point, you have already looked at organizational data readiness, availab
 Example: Medic Mobile wants to **predict the number of lives saved for new deployments** using the **Lives Saved Tool data** so that  **they can more effectively select new public health programs** so that **more lives are saved**.  *(See additional examples [here](https://docs.google.com/document/d/1KJMFYVwQ8ku-IvgkuzpwVs5YTPHQiMrOb-4KvdAvBIA/edit#heading=h.yrp7h7p5jy3j))*
 
 
-Here is [a version of the project statement template ready to share with the partner organization.](https://drive.google.com/file/d/1qvWlr24GmNXw_YBNRjTRGg5d43HeiNJN/view) Additionally, [this Playbook article introducing project statements](https://playbook.datakind.org/playbook/articles/169/introduction-to-project-statements) is a great resource to share with a partner organization that wants more details on what to expect.
+Here is [a version of the project statement template ready to share with the partner organization.](https://drive.google.com/file/d/1qvWlr24GmNXw_YBNRjTRGg5d43HeiNJN/view) Additionally, [this Playbook article introducing project statements](/social-impact/scoping/project_statements) is a great resource to share with a partner organization that wants more details on what to expect.
 
 
 ##### Inputs
@@ -29,7 +29,7 @@ Here is [a version of the project statement template ready to share with the par
 
 * Your notes from your discovery calls with the partner
 * A copy of the  [impact map template](https://docs.google.com/spreadsheets/d/1i4Iplet0YFJ12SkH1SRQwN9ZMjcZniYxUiWQ2ReFfhg/edit#gid=31121870) for your project
-* A copy of your partner’s  [theory of change](https://playbook.datakind.org/playbook/articles/151/key-terminology)
+* A copy of your partner’s  [theory of change](/volunteers/getting-started/key_terminology)
 * A call scheduled \- consider working together on this with the partner organization!
 
 

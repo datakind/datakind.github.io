@@ -73,7 +73,7 @@ One of our favorite tools for discovering a possible project’s mission alignme
 
 
 
-![](assets/img/project_scoping_picture2.png)
+![](/public/img/project_scoping_picture2.png)
 
 For example: “Riders for Health wants to optimize routes and schedules of medical samples collection
 using route information of its fleet of sample transport couriers

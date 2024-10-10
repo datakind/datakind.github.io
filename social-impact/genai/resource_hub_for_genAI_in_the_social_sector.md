@@ -95,7 +95,6 @@ Technical Papers and Articles on responsible AI:
 * [Paper that takes a more human approach to creating fair algorithms](https://arxiv.org/pdf/2201.10408.pdf)
 * [An overview of all the different points where bias could enter the machine learning life cycle](https://arxiv.org/pdf/1901.10002.pdf)
 * [How to make transparent the effects of protected attributes on machine learning algorithms](https://arxiv.org/pdf/2302.03874.pdf)
-* [The harms that could come from using LLMs](https://dl.acm.org/doi/10.1145/3442188.3445922)
 * [Red teaming with LLMs](https://www.deepmind.com/publications/red-teaming-language-models-with-language-models)
 * [Testing framework utilizing the idea of unit tests for LLMs](https://aclanthology.org/2020.acl-main.442.pdf)
 * [Privacy](https://arxiv.org/abs/1802.08232)
@@ -147,8 +146,8 @@ Proposal writing:
 Education sector:
 
 
-* [The AI Divide Equitable Applications of AI in Higher Education to Advance the Completion Agenda](https://completecollege.org/wp-content/uploads/2023/11/CCA_The_AI_Divide.pdf)
-* [Attainment with AI Making a Real Difference in College Completion with Artificial Intelligence](https://completecollege.org/wp-content/uploads/2023/11/CCA_AttainmentwithAI.pdf)
+* [The AI Divide Equitable Applications of AI in Higher Education to Advance the Completion Agenda](https://eric.ed.gov/?q=machines&ff1=pubOpinion+Papers&ff2=dtySince_2004&id=ED633824)
+* [Attainment with AI Making a Real Difference in College Completion with Artificial Intelligence](https://eric.ed.gov/?q=use+AND+technology+AND+education&ff1=audPolicymakers&id=ED633822)
 * [Why Teacher Intelligence Will Always Matter More Than Artificial Intelligence](https://www.erblearn.org/blog/ai-wont-replace-teacher-intelligence/)
 
 

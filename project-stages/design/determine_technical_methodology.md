@@ -8,7 +8,7 @@ category: project-stages
 subcategory: design
 ---
 
-At DataKind, our [working definition of data science](https://playbook.datakind.org/playbook/articles/151) is using computers to interpret data, model relationships in data, and create data\-driven algorithms. This often involves the use of advanced analytical and computational techniques to extract new information from novel data sources, usually for the sake of supporting organizational decision making or increasing efficiency. To sum it up then, data science is the necessary processing of otherwise overwhelming and messy information to help our human brains make better decisions.
+At DataKind, our [working definition of data science](/volunteers/getting-started/key_terminology) is using computers to interpret data, model relationships in data, and create data\-driven algorithms. This often involves the use of advanced analytical and computational techniques to extract new information from novel data sources, usually for the sake of supporting organizational decision making or increasing efficiency. To sum it up then, data science is the necessary processing of otherwise overwhelming and messy information to help our human brains make better decisions.
 
 
 ##### So, what kinds of projects count as data science at DataKind? What is in and out of scope for a DataKind project?

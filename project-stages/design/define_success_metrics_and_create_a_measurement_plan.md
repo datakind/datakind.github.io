@@ -12,7 +12,7 @@ subcategory: design
 
 
 * [Impact map template](https://docs.google.com/spreadsheets/d/1i4Iplet0YFJ12SkH1SRQwN9ZMjcZniYxUiWQ2ReFfhg/edit?usp=sharing)
-* [Project statement](https://playbook.datakind.org/playbook/articles/17) \- “I want to use (data) to do (analysis) so that (behavior change) so that (impact)”
+* [Project statement](/project-stages/discovery/drafting_impact_maps_and_project_statements) \- “I want to use (data) to do (analysis) so that (behavior change) so that (impact)”
 
 
 ##### 1\. Update your project statement

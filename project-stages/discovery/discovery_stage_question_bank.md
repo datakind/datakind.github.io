@@ -22,7 +22,7 @@ Discovering a project starts with problem identification. As you seek to underst
 5. What are the organization's key objectives or focus areas for the year? Are they aligned with the problem you’re talking about solving?
 
 
-You will probe the organization’s goals and success metrics in more detail during the [impact map creation](https://playbook.datakind.org/playbook/articles/17) step.
+You will probe the organization’s goals and success metrics in more detail during the [impact map creation](/project-stages/discovery/drafting_impact_maps_and_project_statements) step.
 
 
 ##### Bottlenecks and challenges
@@ -45,7 +45,7 @@ Copy the folder structure template and all the templates inside it to create you
 2. How is data currently being accessed and used? What inputs inform decision\-making?
 
 
-See [this article](https://playbook.datakind.org/playbook/articles/24)  for additional questions and details on how to assess an organization’s data maturity. 
+See [this article](/project-stages/discovery/assessing_data_maturity)  for additional questions and details on how to assess an organization’s data maturity. 
 
 
 ##### Solution brainstorming and impact
@@ -89,4 +89,4 @@ Finally, if the solution pathway proposed is a data tool, here are some question
 ##### DEI Due Diligence
 
 
-Within at least one discovery call, it will be essential to ask questions as part of checking for DataKind value alignment, specifically focused on Diversity, Equity, and Inclusion (DEI). Make sure to review the questions and means of verification in  [this Playbook article on DataKind Value Alignment.](https://playbook.datakind.org/playbook/articles/22) Most elements of DataKind's DEI due diligence framework are best verified through a combination of discovery calls and research. Gathering information on DEI within the potential partner organization during a discovery call is essential because it is impossible to confidently know how DEI is incorporated into an organization's work solely based on their public messaging. Choose questions to ask based on what you are and are not able to find in your online research.
+Within at least one discovery call, it will be essential to ask questions as part of checking for DataKind value alignment, specifically focused on Diversity, Equity, and Inclusion (DEI). Make sure to review the questions and means of verification in  [this Playbook article on DataKind Value Alignment.](/project-stages/discovery/researching_an_organization) Most elements of DataKind's DEI due diligence framework are best verified through a combination of discovery calls and research. Gathering information on DEI within the potential partner organization during a discovery call is essential because it is impossible to confidently know how DEI is incorporated into an organization's work solely based on their public messaging. Choose questions to ask based on what you are and are not able to find in your online research.

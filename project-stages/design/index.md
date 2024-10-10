@@ -107,7 +107,7 @@ Many of the following components can happen in any order, or in parallel with ea
 * Complete throughout the Design stage in the order that works for your team and project
     * Review data security requirements with the partner organization and create and implement a data management plan
     * Complete a data audit, ensuring you have the correct and sufficient data to complete the proposed project
-    * Evaluate possible data inclusion \& exclusion risks and create a mitigation strategy
+    * Evaluate possible data inclusion & exclusion risks and create a mitigation strategy
     * Consider who should weigh in on project ideas as advisors or subject matter experts and incorporate their feedback
     * Identify communities impacted or affected by this work and ensure accountability measures are built into the project
     * Assess project\-specific risks and ethical implications of the end products, establishing a plan to ensure the project incorporates responsible data science practices

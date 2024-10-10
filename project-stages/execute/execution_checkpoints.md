@@ -8,7 +8,7 @@ category: project-stages
 subcategory: execute
 ---
 
-The Execution stage is unique in that it has three checkpoints within it, instead of just one cumulative checkpoint at the end. For a reminder on how all checkpoints are conducted and how to prepare for them, see the [Intro to Checkpoints](https://playbook.datakind.org/playbook/articles/127/introduction-to-checkpoints). To conclude each checkpoint, Chapter Leaders and/or staff should make sure that all project information is up\-to\-date in Salesforce.
+The Execution stage is unique in that it has three checkpoints within it, instead of just one cumulative checkpoint at the end. For a reminder on how all checkpoints are conducted and how to prepare for them, see the [Intro to Checkpoints](/project-stages/discovery/discovery_checkpoint). To conclude each checkpoint, Chapter Leaders and/or staff should make sure that all project information is up\-to\-date in Salesforce.
 
 
 Agenda template for all checkpoints (feel free to edit based on your specific needs!):
@@ -45,7 +45,7 @@ The Explore Checkpoint is often accompanied by a demonstration for the partner o
 The MVP is a first version of the product, which has just enough features for the partner organization to react to and provide feedback on to inform the approach for project completion. At this checkpoint it is essential to demonstrate the MVP for the partner organization, to make sure the team is on track with expectations. The demonstration is typically conducted by the Data Ambassador and supported by the rest of the DataKind team. A sample agenda for this meeting could look like:
 
 
-* Presentation (Take advantage of DataKind's presentation template, which you can find a copy of in your project's google drive folder already (“5 Share”→”2 Presentations”) if you used the [DataKind standard folder structure](https://playbook.datakind.org/playbook/articles/20), which includes all templates. If you don't see it, make a copy of [the template here](https://drive.google.com/drive/folders/1x6gUmtj4tpHZr2nhHbnFQjkhmpoVheQ0).)
+* Presentation (Take advantage of DataKind's presentation template, which you can find a copy of in your project's google drive folder already (“5 Share”→”2 Presentations”) if you used the [DataKind standard folder structure](/project-stages/discovery/discovery_resources), which includes all templates. If you don't see it, make a copy of [the template here](https://drive.google.com/drive/folders/1x6gUmtj4tpHZr2nhHbnFQjkhmpoVheQ0).)
 	+ The scope of the project and deliverables
 	+ The focus of the last phase
 	+ The output of the last phase if applicable

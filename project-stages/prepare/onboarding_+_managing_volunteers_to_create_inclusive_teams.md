@@ -8,7 +8,7 @@ category: project-stages
 subcategory: prepare
 ---
 
-[Recruiting a diverse team](https://playbook.datakind.org/playbook/articles/61/diversity-ethics-in-volunteer-team-selection) does no good if there aren’t practices in place to ensure that the team is inclusive and equitable. Onboarding and training all volunteers in these practices ensures everyone can truly feel welcome. 
+[Recruiting a diverse team](/project-stages/prepare/diversity_and_ethics_in_volunteer_team_selection) does no good if there aren’t practices in place to ensure that the team is inclusive and equitable. Onboarding and training all volunteers in these practices ensures everyone can truly feel welcome. 
 
 
 This perspective is especially important when you have people bringing different types of skills to the project. For example, if you bring someone onboard with design skills or contextual knowledge, make sure they are included in all relevant conversations, but do not waste their time in technical conversations that they wouldn’t understand and may find discouraging. 

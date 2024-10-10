@@ -15,7 +15,7 @@ While you are building your minimum viable product and final solution, take care
 * **Documentation checks:** You already know you need to keep your project documentation up to date, but this check is about technical documentation. This includes:
 + Check the operation system specs, such as important prerequisite software installation commands, a requirements.txt or .json file listing all the dependencies with versions, and a log.
 + Check the README for essential information, such as a directory structure description, what each file is responsible for, steps on how to run the code, and where the logs get printed.
-+ Check the code for all the quality elements outlined in [Coding and Working with Data at DataKind](https://playbook.datakind.org/playbook/project/65).
++ Check the code for all the quality elements outlined in [Coding and Working with Data at DataKind](/project-stages/execute/coding_and_working_with_data_at_dataKind).
 
 
 For predictive projects, we should consider a few more essential items: 

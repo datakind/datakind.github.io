@@ -40,7 +40,6 @@ If the partner organization has communicated that it is okay to write and share 
 * If available, include any images that the partner organization feels comfortable sharing in external communication about the project.
 * Identify challenges that the team may have had to overcome, in addition to project pivots. Document the story of what happened throughout the project and the results.
 * Summarize any tough decisions or trade\-offs that had to be made. Document these decisions, what the tradeoffs were, and why you ended up making the choices you did.
-* Want to read more about writing a case study? Read more in the [Case Studies Guidelines Playbook](https://playbook.datakind.org/playbook/articles/140/case-studies-guidelines-template) article.
 
 
 ##### Writing a DataKind Blog Post

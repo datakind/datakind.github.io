@@ -45,11 +45,11 @@ Across all projects, as a chapter, intentionally build mutually beneficial relat
 ##### Volunteer Selection
 
 
-* Create standardized interview questions and rubrics to ensure everyone is being graded on the same criteria, rather than interpersonal feelings and connection. See the Playbook article on [Volunteer Recruitment and Retention](https://playbook.datakind.org/playbook/articles/46/drafting-volunteer-needs) and more guidance on this.
+* Create standardized interview questions and rubrics to ensure everyone is being graded on the same criteria, rather than interpersonal feelings and connection. See the Playbook article on [Volunteer Recruitment and Retention](/project-stages/prepare/voluntee_recruitment_and_retention) and more guidance on this.
 * We recommend including a diversity statement on the volunteer job application, and asking a question like “how does this play out in your work?” This can be used as a filter question, as anyone who says “that’s not relevant to me” would not be a good fit for DataKind. We are not expecting all our volunteers to be diversity experts, but we want to make sure everyone on our teams believe that diversity matters, which increases the likelihood they can work effectively on diverse teams.
 
 
-Recruiting a diverse team is just the beginning! Check out [Onboarding and Managing Volunteers to Create Inclusive Teams](https://playbook.datakind.org/playbook/articles/165/onboarding-and-managing-volunteers-to-create-inclusive-teams) on how to build an inclusive team environment so people can feel welcomed and valued, enabling them to contribute toward a high quality, successful project!
+Recruiting a diverse team is just the beginning! Check out [Onboarding and Managing Volunteers to Create Inclusive Teams](/project-stages/prepare/onboarding_+_managing_volunteers_to_create_inclusive_teams) on how to build an inclusive team environment so people can feel welcomed and valued, enabling them to contribute toward a high quality, successful project!
 
 
 ##### References:

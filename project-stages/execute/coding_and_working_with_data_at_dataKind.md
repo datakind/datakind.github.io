@@ -11,7 +11,7 @@ subcategory: execute
 ##### Working with Data
 
 
-When working with data at DataKind, we uphold [the data security requirements and storage agreements decided for each project](https://playbook.datakind.org/playbook/articles/31/data-storage-security-management). For example, some projects request that you save data directly on your local computer, while other projects require you to keep the data in the cloud environment and work with it from there, never downloading it to your local computer. Whatever the specific requirements are for your project, we are [GDPR compliant at DataKind](https://gdpr.eu/) , so treat data carefully and maintain data security at all times.
+When working with data at DataKind, we uphold [the data security requirements and storage agreements decided for each project](/project-stages/design/data_storage_security_and_management_processes). For example, some projects request that you save data directly on your local computer, while other projects require you to keep the data in the cloud environment and work with it from there, never downloading it to your local computer. Whatever the specific requirements are for your project, we are [GDPR compliant at DataKind](https://gdpr.eu/) , so treat data carefully and maintain data security at all times.
 
 
 As a general best practice, don’t store data on GitHub or check data into git. Instead,
@@ -22,7 +22,7 @@ As a general best practice, don’t store data on GitHub or check data into git.
 * Sync data from Google Drive or load directly
 
 
-(For more on DataKind's GitHub Workflow, see [this article](https://playbook.datakind.org/playbook/articles/205).)
+(For more on DataKind's GitHub Workflow, see [this article](/project-stages/execute/gitHub_workflow).)
 
 
 If you are ever unclear about an expectation around data, don’t be afraid to ask! 
@@ -35,7 +35,7 @@ When coding at DataKind, we build a culture of code review within the project te
 
 
 * Always keep a log.
-* Follow [best practices](https://ropensci-archive.github.io/reproducibility-guide/) to ensure code reproducibility. To help, we've created a GitHub actions template, which you can use to easily set up a new DataKind GitHub repo (more info [here](https://playbook.datakind.org/playbook/articles/194/using-github-to-set-up-your-datakind-project)). We also have a standard DataKind GitHub Workflow, which you can find in [this Playbook article](https://playbook.datakind.org/playbook/articles/205).
+* Follow [best practices](https://ropensci-archive.github.io/reproducibility-guide/) to ensure code reproducibility. To help, we've created a GitHub actions template, which you can use to easily set up a new DataKind GitHub repo (more info [here](/project-stages/prepare/using_gitHub_to_set_up_your_dataKind_project)). We also have a standard DataKind GitHub Workflow, which you can find in [this Playbook article](/project-stages/execute/gitHub_workflow).
 * Never hard code values.
 * Write clear, concise comments, including input and return output types for each function you use.
 * Document how you handle edge cases and outliers. Never delete data without commenting why.

@@ -11,7 +11,7 @@ subcategory: execute
 Regular check\-ins with the partner organization go a long way towards setting up your project for success. Regular communication with the Project Champion throughout the project ensures that progress and expectations are shared and updated in real\-time, and any roadblocks or pivots that require collaboration between the DataKind team and partner organization can be swiftly addressed. Typically, the Project Manager sets up these meetings while the Data Ambassador runs them.
 
 
-In addition to our [general recommendations for working with Project Champions](https://playbook.datakind.org/playbook/articles/133) the following are some specific tips from veteran DataKind volunteers for running effective check\-ins:
+In addition to our [general recommendations for working with Project Champions](/volunteers/getting-started/managing_the_project_champion_experience) the following are some specific tips from veteran DataKind volunteers for running effective check\-ins:
 
 
 **Getting started**

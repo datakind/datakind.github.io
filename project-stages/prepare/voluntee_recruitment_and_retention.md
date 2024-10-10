@@ -14,7 +14,7 @@ One of the most challenging responsibilities of Chapter Leaders is sustaining ex
 ##### Recruiting New Volunteers
 
 
-The [volunteer application report](https://playbook.datakind.org/playbook/articles/201) (accessible only to chapter leaders) is the best place to start any search for new volunteers \- the perfect person may have already applied on the website and be waiting for a project!
+The [volunteer application report](/volunteers/chapter-operations/volunteer_applicant_reports) (accessible only to chapter leaders) is the best place to start any search for new volunteers \- the perfect person may have already applied on the website and be waiting for a project!
 
 
 However, if you need to recruit new volunteers for a specific project, you may find the following resources and templates useful:
@@ -32,7 +32,7 @@ When providing information about the project during volunteer recruitment, make 
 
 
 * **Set clear expectations:** Ensure that each volunteer understands their role within the project, as well as what is expected of them in terms of time commitment, tasks, and responsibilities.
-* **Provide ongoing support and flexibility:** Once [onboarding](https://playbook.datakind.org/playbook/articles/165) is complete, make sure volunteers know you are still available to answer questions and provide support whenever necessary. Recognize that volunteers have other commitments outside of the project and be flexible with scheduling and deadlines whenever possible.
+* **Provide ongoing support and flexibility:** Once [onboarding](/project-stages/prepare/onboarding_+_managing_volunteers_to_create_inclusive_teams) is complete, make sure volunteers know you are still available to answer questions and provide support whenever necessary. Recognize that volunteers have other commitments outside of the project and be flexible with scheduling and deadlines whenever possible.
 * **Recognize contributions and successes:** Take the time to acknowledge and appreciate volunteers’ hard work, be it through verbal praise in a meeting, a shoutout in Slack, or a private note of thanks. Additionally, when the team reaches a milestone, take time to celebrate their achievement.
 * **Foster open communication and two\-way feedback:** Create an environment where volunteers feel comfortable expressing their ideas, concerns, and feedback. Encourage open communication through regular check\-ins, team meetings, and providing feedback \- both positive and negative \- to volunteers when applicable. Regularly solicit volunteer feedback about their experiences (and be sure to actually use their feedback to make adjustments as needed!).
 * **Build community:** Help volunteers feel like they are part of a team by taking time for team\-building activities during onboarding, setting aside the first few minutes of check\-ins for personal catching up, and sharing the occasional fun gif or conversation prompt in Slack. Strengthening bonds between team members can help increase their overall satisfaction with the project.

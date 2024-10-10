@@ -17,7 +17,7 @@ Some tips to keep in mind when presenting to the partner organization’s leader
 Do:
 
 
-* Take advantage of DataKind’s presentation template, which you can find a copy of in your project's google drive folder already ("5 Share" → "2 Presentations") if you used the [DataKind standard folder structure](https://playbook.datakind.org/playbook/articles/20). Otherwise, make a copy of the [template here](https://drive.google.com/drive/folders/1x6gUmtj4tpHZr2nhHbnFQjkhmpoVheQ0).
+* Take advantage of DataKind’s presentation template, which you can find a copy of in your project's google drive folder already ("5 Share" → "2 Presentations") if you used the [DataKind standard folder structure](/project-stages/discovery/discovery_resources). Otherwise, make a copy of the [template here](https://drive.google.com/drive/folders/1x6gUmtj4tpHZr2nhHbnFQjkhmpoVheQ0).
 * Start with the “so what”, then add the details (graphs, analyses, etc.). What is the finding and why should the organization care?
 * If possible, frame your work in the form of a story or narrative. This typically helps people remember the information that you present.
 * Get to the point. Your partner organization’s staff are busy and want to know how your work will help address their business challenge \- make it relevant to their needs and present the information in a concise way.

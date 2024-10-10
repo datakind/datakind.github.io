@@ -8,7 +8,7 @@ category: project-stages
 subcategory: execute
 ---
 
-As a reminder, everything about your project should be documented in the [Google Drive folder](https://playbook.datakind.org/playbook/articles/20) (project plans, meetings notes, etc…) or [GitHub page](https://playbook.datakind.org/playbook/articles/205) (code and code documentation). As a DataKind volunteer, you are committed to maintaining documentation of your own work.
+As a reminder, everything about your project should be documented in the [Google Drive folder](https://playbook.datakind.org/playbook/articles/20) (project plans, meetings notes, etc…) or [GitHub page](/project-stages/execute/gitHub_workflow) (code and code documentation). As a DataKind volunteer, you are committed to maintaining documentation of your own work.
 
 
 ##### **Documenting *lessons learned***

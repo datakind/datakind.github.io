@@ -32,7 +32,7 @@ As the advisory team, we carefully check that all Design stage steps were consid
 Unique to this Design Checkpoint is that this is the point to bring in the technology team to identify tech synergies and how platform needs might map to existing DataKind tech infrastructure for this project. 
 
 
-See [Intro to Checkpoints](https://playbook.datakind.org/playbook/articles/127/introduction-to-checkpoints) for a reminder on how all Checkpoints are conducted and how to prepare for them. If you have any questions or need support, please reach out to your staff support person.
+See [Intro to Checkpoints](/project-stages/discovery/discovery_checkpoint) for a reminder on how all Checkpoints are conducted and how to prepare for them. If you have any questions or need support, please reach out to your staff support person.
 
 
 Agenda template (feel free to edit based on your specific needs!):

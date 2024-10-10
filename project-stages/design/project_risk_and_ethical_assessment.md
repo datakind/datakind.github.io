@@ -8,7 +8,7 @@ category: project-stages
 subcategory: design
 ---
 
-Assessing and mitigating risks is imperative in any data science project. In addition to the strategies outlined in the [evaluating data inclusion article](https://playbook.datakind.org/playbook/articles/44), use the following tips and considerations as you assess the ethics and risks of your potential project. Keep in mind that this guide is not meant to be comprehensive. Let the examples and suggestions below inspire you to think carefully about risks and determine your own evaluation approach that will ensure you are prepared to produce products that will be used for good.
+Assessing and mitigating risks is imperative in any data science project. In addition to the strategies outlined in the [evaluating data inclusion article](evaluating_data_inclusion), use the following tips and considerations as you assess the ethics and risks of your potential project. Keep in mind that this guide is not meant to be comprehensive. Let the examples and suggestions below inspire you to think carefully about risks and determine your own evaluation approach that will ensure you are prepared to produce products that will be used for good.
 
 
 ##### Ethical Technology Implementation

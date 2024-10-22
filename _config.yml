@@ -35,9 +35,47 @@ plugins:
   - jekyll-feed
 
 menu:
-  - name: Home
-    url: /
-    parent: none
+  - category: 
+    id: "project-stages"
+    name: "Project Stages"
+    subcategory: 
+      - id: "discovery"
+        name: "Discovery"
+      - id: "design"
+        name: "Design"
+      - id: "prepare"
+        name: "Prepare"
+      - id: execute
+        name: "Execute"
+      - id: share
+        name: "Share"
+      - id: evaluate
+        name: "Evaluate"
+  - category:
+    id: social-impact
+    name: "Social Impact"
+    subcategory: 
+      - id: engineering
+        name: "Engineering"
+      - id: genai
+        name: "GenAI"
+      - id: governance
+        name: "Governance"
+      - id: scoping
+        name: "Scoping"
+  - category:
+    id: volunteers
+    name: "Volunteers"
+    subcategory: 
+      - id: getting-started
+        name: "Getting Started"
+      - id: donate
+        name: "Donate"
+      - id: chapter-operations
+        name: "Chapter Operations"
+      - id: volunteer-management
+        name: "Volunteer Management"
+
 
 include: ["_pages"]
 

@@ -2,7 +2,7 @@
 layout: default
 title: Technical Project Close
 date: 02/29/2024
-author: Caroline Charrow, Emily Yelverton
+author: Caroline Charrow, Emily Yelverton, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate

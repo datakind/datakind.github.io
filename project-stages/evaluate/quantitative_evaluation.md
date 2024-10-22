@@ -2,7 +2,7 @@
 layout: default
 title: Quantitative Evaluation
 date: 02/29/2024
-author: Kenley Ambroise, Caitlin Augustin, Mitali Ayyangar, Balasubramaniam Theetharappan, Benjamin Kinsella, Emily Yelverton, Shanna Lee, Mallory Sheff
+author: Benjamin Kinsella, Caroline Charrow, Manojit Nandi, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate

@@ -3,7 +3,7 @@ layout: default
 title: Rewarding and Thanking Volunteers
 subtitle:
 date: 02/29/2024
-author: Daniel Nissani, Seward Lee
+author: Daniel Nissani, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: volunteers
 subcategory: volunteer-management

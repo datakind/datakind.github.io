@@ -2,7 +2,7 @@
 layout: default
 title: Presenting to Partner Leadership
 date: 02/29/2024
-author: Benjamin Kinsella, Shanna Lee
+author: Benjamin Kinsella, Shanna Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share

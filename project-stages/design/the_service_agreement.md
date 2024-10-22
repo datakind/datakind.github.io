@@ -2,7 +2,7 @@
 layout: default
 title: The Service Agreement
 date: 02/29/2024
-author: Gwen Hopkins, Shanna Lee, Russatta Buford
+author: Gwen Hopkins, Shanna Lee, Russatta Buford, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

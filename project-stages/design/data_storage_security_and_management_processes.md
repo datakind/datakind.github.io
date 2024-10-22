@@ -2,7 +2,7 @@
 layout: default
 title: Data Storage, Security, and Management Processes
 date: 02/29/2024
-author: Benjamin Kinsella, DKSF Chapter, Jeremy Osborn, Lawrence Kilroy, William Ratcliff, Dulcie Vousden, Edwin Zhang
+author: Benjamin Kinsella, DKSF Chapter, Jeremy Osborn, Lawrence Kilroy, William Ratcliff, Dulcie Vousden, Rachel Wells, Edwin Zhang
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

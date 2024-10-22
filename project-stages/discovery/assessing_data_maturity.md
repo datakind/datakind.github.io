@@ -3,7 +3,7 @@ layout: default
 title: Assessing Data Maturity
 subtitle:
 date: 02/29/2024
-author: Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Emily Yelverton, Dulcie Vousden
+author: Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Emily Yelverton, Dulcie Vousden, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

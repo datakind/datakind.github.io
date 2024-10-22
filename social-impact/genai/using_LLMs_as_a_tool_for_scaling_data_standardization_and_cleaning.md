@@ -3,7 +3,7 @@ layout: default
 title: Using LLMs as a Tool for Scaling Data Standardization and Cleaning
 subtitle: This article contains pointers for anyone looking to adopt LLMs for data standardization and cleaning tasks. It is a deeper dive into the technical details of one use case, intended for a user that is experimenting with Generative AI.
 date: 02/29/2024
-author: John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky
+author: Deborshi Goswami with Jacob Leppek and Rachel Wells
 audience: Social Impact Professionals
 category: social-impact
 subcategory: genai

@@ -3,7 +3,7 @@ layout: default
 title: Office Hours
 subtitle:
 date: 02/29/2024
-author: Rachel Wells 
+author: Rachel Wells, Caroline Charrow, Shanna Lee
 audience: DataKind Volunteers
 category: volunteers
 subcategory: getting-started

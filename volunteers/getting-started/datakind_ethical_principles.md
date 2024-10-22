@@ -3,7 +3,7 @@ layout: default
 title:  DataKind’s Ethical Principles
 subtitle: The following is inspired by DataKind UK's original publication of their principles at https://www.datakind.org/2018/01/22/doing-data-for-good-right/
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Benjamin Kinsella, Daniel Nissani, Rachel Wells
 audience: DataKind Volunteers
 category: volunteers
 subcategory: getting-started

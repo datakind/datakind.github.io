@@ -3,7 +3,6 @@ layout: default
 title: GenAI Playbook Credits and Acknowledgements
 subtitle:
 date: 02/29/2024
-author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
 audience: Social Impact Professionals
 category: social-impact
 subcategory: genai

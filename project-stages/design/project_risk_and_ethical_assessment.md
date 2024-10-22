@@ -2,7 +2,7 @@
 layout: default
 title: Project Risk and Ethical Assessment
 date: 02/29/2024
-author: Benjamin Kinsella, Manojit Nandi, Daniel Nissani
+author: Benjamin Kinsella, Manojit Nandi, Daniel Nissani, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

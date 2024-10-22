@@ -3,7 +3,7 @@ layout: default
 title: Project Statements
 subtitle:
 date: 02/29/2024
-author: Mitali Ayyangar, Cassy L Cox, Caroline Charrow, Shanna Lee, Daniel Nissani, Jake Porway, Mallory Sheff, Rachel Wells
+author: Rachel Wells, with help from Mitali Ayyangar, Cassy L Cox, Caroline Charrow, Shanna Lee, Daniel Nissani, Jake Porway, Mallory Sheff, Rachel Wells
 audience: Social Impact Professionals
 category: social-impact
 subcategory: scoping

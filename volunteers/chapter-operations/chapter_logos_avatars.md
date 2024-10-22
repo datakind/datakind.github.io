@@ -3,7 +3,7 @@ layout: default
 title: Chapter Logos and Avatars
 subtitle:
 date: 02/29/2024
-author: Caroline Charrow, Melissa, Elana Stern, Rachel Wells
+author: Benjamin Kinsella, Caroline Charrow, Melissa DiLoreto, Elana Stern, Rachel Wells
 audience: DataKind Volunteers
 category: volunteers
 subcategory: chapter-operations

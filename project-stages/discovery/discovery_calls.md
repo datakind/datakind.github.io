@@ -2,7 +2,7 @@
 layout: default
 title: Discovery Calls
 date: 02/29/2024
-author: Caitlin Augustin, Caroline Charrow, Jack Craft, Erin Antcliffe, Matthew Harris, Arina Igumenshcheva, Ben Lebovitz, Sebastien Ouellet, Srivalya Elluru, Dulcie Vousden, Rachel Wells
+author: Caitlin Augustin, Caroline Charrow, Jack Craft, Erin Antcliffe, Matthew Harris, Arina Igumenshcheva, Ben Lebovitz, Sebastien Ouellet, Seward Lee, Srivalya Elluru, Dulcie Vousden, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery

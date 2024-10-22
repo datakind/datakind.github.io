@@ -2,7 +2,7 @@
 layout: default
 title: Design Checkpoint
 date: 02/29/2024
-author: Benjamin Kinsella, Bhargav Kowshik, Matthew Harris, Arina Igumenshcheva, Michael Wegan
+author: Benjamin Kinsella, Bhargav Kowshik, Matthew Harris, Arina Igumenshcheva, Michael Wegan, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

@@ -2,7 +2,7 @@
 layout: default
 title: Volunteer Team Coordination
 date: 02/29/2024
-author: Daniel Nissani, Seward Lee, Rachel Wells
+author: Shanna Lee, Daniel Nissani, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare

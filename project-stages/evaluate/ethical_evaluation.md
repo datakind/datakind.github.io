@@ -2,7 +2,7 @@
 layout: default
 title: Ethical Evaluation
 date: 02/29/2024
-author: Caitlin Augustin, Benjamin Kinsella, Emily Yelverton
+author: Caitlin Augustin, Benjamin Kinsella, Emily Yelverton, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate

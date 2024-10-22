@@ -3,7 +3,7 @@ layout: default
 title: Expenses and Reimbursement
 subtitle:
 date: 02/29/2024
-author: Caroline Charrow
+author: Caroline Charrow, Rachel Wells
 audience: DataKind Volunteers
 category: volunteers
 subcategory: chapter-operations

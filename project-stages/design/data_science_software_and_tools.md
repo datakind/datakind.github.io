@@ -2,7 +2,7 @@
 layout: default
 title: Data Science Software and Tools
 date: 02/29/2024
-author: Neal Fultz, Arina Igumenshcheva, Nathan Banion, Rachel Wells
+author: Neal Fultz, Arina Igumenshcheva, Nathan Banion, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

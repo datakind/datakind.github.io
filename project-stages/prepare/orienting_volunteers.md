@@ -2,7 +2,7 @@
 layout: default
 title: Orienting Volunteers
 date: 02/29/2024
-author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Shanna Lee, Melissa, Michael Dowd, Rachel Wells
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Shanna Lee, Melissa, Michael Dowd, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare

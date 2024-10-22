@@ -2,7 +2,7 @@
 layout: default
 title: Determine Technical Methodology
 date: 02/29/2024
-author: Benjamin Kinsella, Srivalya Elluru
+author: Benjamin Kinsella, Srivalya Elluru, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

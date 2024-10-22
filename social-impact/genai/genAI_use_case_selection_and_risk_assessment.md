@@ -3,7 +3,7 @@ layout: default
 title: GenAI Use Case Selection and Risk Assessment
 subtitle:
 date: 02/29/2024
-author: John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky
+author: Rachel Wells with help from Deborshi Goswami, Alice Kershaw, Daniel Nissani, Matt Harris, Matthias Boeck, Caroline Charrow, Fotis Zapantis, Kathleen Yaworsky, Lindsey Washburn
 audience: Social Impact Professionals
 category: social-impact
 subcategory: genai

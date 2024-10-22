@@ -2,7 +2,7 @@
 layout: default
 title: Technical Project Hand-off, Systems Integration, and Supporting Initial Implementation
 date: 02/29/2024
-author: Benjamin Kinsella, Emily Yelverton, Kelson Shilling\-Scrivo
+author: Benjamin Kinsella, Emily Yelverton, Kelson Shilling-Scrivo, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share

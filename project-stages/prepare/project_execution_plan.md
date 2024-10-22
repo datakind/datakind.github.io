@@ -2,7 +2,7 @@
 layout: default
 title: Project Execution Plan
 date: 02/29/2024
-author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Devangana Khokhar, Emily Yelverton, Asnat Ghebremedhin, Shanna Lee, Pui Kwan (PJ) Lee, Mallory Sheff
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Devangana Khokhar, Emily Yelverton, Asnat Ghebremedhin, Shanna Lee, Pui Kwan (PJ) Lee, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare

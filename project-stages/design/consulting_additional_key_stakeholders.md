@@ -2,7 +2,7 @@
 layout: default
 title: Consulting Additional Key Stakeholders
 date: 02/29/2024
-author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
+author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion, Rachel Wells, Caitlin Augustin, Emily Yelverton, Daniel Nissani, Phil Azar, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

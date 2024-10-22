@@ -2,7 +2,7 @@
 layout: default
 title: Volunteer Agreements
 date: 02/29/2024
-author: Afua Bruce, Caroline Charrow, Russatta Buford
+author: Afua Bruce, Caroline Charrow, Russatta Buford, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare

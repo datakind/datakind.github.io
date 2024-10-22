@@ -3,7 +3,6 @@ layout: page
 title: Data Governance
 subtitle:
 date: 02/29/2024
-author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion
 audience: DataKind Volunteers
 category: social-impact
 subcategory: governance

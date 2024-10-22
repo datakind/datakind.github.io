@@ -2,7 +2,7 @@
 layout: default
 title: Design Stage Launch Agreements
 date: 02/29/2024
-author: Benjamin Kinsella, Caroline Charrow, Gwen Hopkins, Shanna Lee, Russatta Buford
+author: Benjamin Kinsella, Caroline Charrow, Gwen Hopkins, Shanna Lee, Russatta Buford, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

@@ -2,7 +2,7 @@
 layout: default
 title: Finalize the Evaluation Plan
 date: 02/29/2024
-author: Caitlin Augustin, Mitali Ayyangar, Caroline Charrow, Mallory Sheff
+author: Caitlin Augustin, Mitali Ayyangar, Caroline Charrow, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share

@@ -3,7 +3,7 @@ layout: default
 title: Managing the Project Champion Experience
 subtitle:
 date: 02/29/2024
-author: Rachel Wells
+author: Rachel Wells, Caroline Charrow
 audience: DataKind Volunteers
 category: volunteers
 subcategory: getting-started

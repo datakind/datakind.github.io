@@ -38,7 +38,7 @@ The primary audience for the Playbook is DataKind volunteers to guide them in th
 1. Explore the Playbook! Click around the various sections to get an idea of the overall structure and the types of articles it contains.
 2. Use the Playbook as you’re moving forward with new projects \- review each article relevant to the project stage that you are in throughout the project process.
 3. Bookmark the Playbook to come back to whenever you have a question so that you can review the relevant resources at each point in the process.
-4. <a href="https://github.com/signup">Create a GitHub account</a> so you can check out our <a href="https://github.com/datakind">project repossitory</a> and add your ideas, experiences, and best practices to Playbook articles via pull requests.
+4. <a href="https://github.com/signup">Create a GitHub account</a> so you can check out our <a href="https://github.com/datakind">project repository</a> and add your ideas, experiences, and best practices to Playbook articles via pull requests.
 
 
 **I encountered an unfamiliar term, what does it mean?**

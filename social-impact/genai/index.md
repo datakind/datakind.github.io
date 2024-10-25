@@ -12,7 +12,7 @@ articles:
     filename: "getting_started_with_GenAI"
     date: "February 29, 2024"
     author: "Matthias Boeck"
-    handle: "boeckMt"
+    handle: "mb-feldm"
   - title: "GenAI Use Case Selection and Risk Assessment"
     filename: "genAI_use_case_selection_and_risk_assessment"
     date: "March 28, 2024"

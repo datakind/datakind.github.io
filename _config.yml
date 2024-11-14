@@ -59,8 +59,6 @@ menu:
         name: "Engineering"
       - id: genai
         name: "GenAI"
-      - id: governance
-        name: "Governance"
       - id: scoping
         name: "Scoping"
   - category:

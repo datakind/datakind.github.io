@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Design Stage Launch Agreements
 date: 02/29/2024
 author: Benjamin Kinsella, Caroline Charrow, Gwen Hopkins, Shanna Lee, Russatta Buford
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: index
+next: data_storage_security_and_management_processes
 ---
 
 As the first step in the Design stage, DataKind and the partner organization need to sign a Mutual Non\-Disclosure Agreement (NDA) and Data License Agreement. The Mutual NDA should be signed as soon as the partner organization might share anything about its internal operations with DataKind. We require 10 business days for DataKind’s Operations Team to complete a contract review, and this MUST be in place before the Design stage begins. Find the templates for these requirements and brief summaries of what they cover below:

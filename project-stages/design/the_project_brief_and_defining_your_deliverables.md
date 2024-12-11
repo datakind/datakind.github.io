@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: The Project Brief and Defining Your Deliverables
 date: 02/29/2024
 author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Rachel Wells, Caroline Charrow, Nathan Banion, Seward Lee
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: data_science_software_and_tools
+next: the_service_agreement
 ---
 
 As you plan out your project, you’ll need to explicitly and clearly define the project deliverables. This is a very important step for multiple reasons:

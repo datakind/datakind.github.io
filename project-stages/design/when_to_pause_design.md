@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: When to Pause, Discontinue, or Decline a Project in the Design Stage
 date: 02/29/2024
 author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Arina Igumenshcheva, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: the_service_agreement
+next: design_checkpoint
 ---
 
 Just like in the [Discover Stage](/project-stages/discovery/when_to_pause_discovery), you may be faced with the decision to pause, discontinue, or even decline a potential project during the Design Stage of the scoping process. While you will need to make the decision to either continue with the partner organization or not, the job of Scopers is to think about what the team is missing and communicate that to the organization. This article will help you think about these decisions and communicate them with the partner organization. 

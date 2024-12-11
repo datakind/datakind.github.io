@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Design Checkpoint
 date: 02/29/2024
 author: Benjamin Kinsella, Bhargav Kowshik, Matthew Harris, Arina Igumenshcheva, Michael Wegan, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: when_to_pause_design
+next: index
 ---
 
 The Design Checkpoint is the point at which the team officially decides whether or not to take on a project. This decision is made by the advisory team (i.e., Chapter Leader(s), DataKind staff support person, etc.). 

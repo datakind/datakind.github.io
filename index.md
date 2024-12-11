@@ -43,7 +43,7 @@ The primary audience for the Playbook is DataKind volunteers to guide them in th
 
 **I encountered an unfamiliar term, what does it mean?**
 
-If you encounter an unfamiliar term, refer to our terminology page for more information.
+If you encounter an unfamiliar term, refer to our [terminology page]({{ site.baseurl }}{% link volunteers/getting-started/key_terminology.md %}) for more information.
 
 **How do I provide feedback or ask questions?**
 

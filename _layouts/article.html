@@ -9,60 +9,43 @@
   {% include menu.html %}
   <main id="content" class="main page-content" aria-label="Content">
     <article>
-      <header class="hero-banner hero-banner--auto-height">
-        <div class="wrapper">
-          <div class="hero-banner__content" data-animate-in="up">
-            <h1 class="h0 mt-0 mb-3 text-black">{{ page.title }}</h1>
-            <p class="p-lg">{{ page.subtitle }}</p>
-          </div>
-        </div>
-      </header>
-
-      <div class="wrapper mt-6 pt-6 pt-md-4 pb-4">
-        <nav aria-label="breadcrumb">
-          <ol class="breadcrumb">
-            {% assign category_name = "" %}
-            {% assign subcategory_name = "" %}
-
-            {% for category in site.menu %}
-              {% if category.name == page.category %}
-                {% assign category_name = category.name %}
-                {% if category.subcategory %}
-                  {% for subcategory in category.subcategory %}
-                    {% if subcategory.name == page.subcategory %}
-                      {% assign subcategory_name = subcategory.name %}
-                    {% endif %}
-                  {% endfor %}
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-  
-            <li class="breadcrumb-item"><a href="/{{ page.category }}">{{ page.category }}</a></li>
-            <li class="breadcrumb-item"><a href="/{{ page.category }}/{{ page.subcategory }}">{{ page.subcategory }}</a></li>
-            <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
-          </ol>
-        </nav>
-        <div class="skill-level">
-          <p>
-            <b>Intended audience:</b>
-            <span>{{ page.audience }}</span>
-          </p>
-        </div>
-      </div>
-      <div class="wrapper-thin-alt py-6 mb-6 rte long-form">
+      {% include page_header.html %}
+      <div class="wrapper py-4 mb-4 rte long-form">
         {{ content }}
 
         <p> <b>Contributer(s): </b>{{ page.author }}</p>
-        <div class="navigation-buttons">
-          {% if page.previous %}
-          <a class="btn btn-secondary" href="{{ page.previous }}.html">Go back to: article name</a>
-          {% endif %}
-          {% if page.next %}
-          {# if we hit the end of a section, proceed to the index of the next section #}
-          <a class="btn btn-secondary" href="{{ page.next }}html">Proceed to: article name</a>
-          {% endif %}
-        </div>
 
+        <div class="navigation-buttons" style="display: flex; justify-content: space-between;">
+            {% if page.previous == "index" %}
+              <a class="btn btn-secondary" href="index.html">Go back to the list of articles</a>
+            {% else %}
+              {% for site_page in site.html_pages %}
+                {% if site_page.name != "index.md" %}
+                  {% assign full_previous_page_path = "/" | append: page.category | append: '/' | append: page.subcategory | append: '/' | append: page.previous | append: '.html' %}
+                  {% if full_previous_page_path == site_page.url %}
+                    <a class="btn btn-secondary" href="{{ page.previous }}.html">Go back to: {{ site_page.title }}</a>   
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+
+            {% if page.next == "index" %}
+              <a class="btn btn-secondary" href="index.html">Go back to the list of articles</a>  
+            {% else %}
+              {% for site_page in site.html_pages %}
+                {% if site_page.name != "index.md" %}
+                  {% assign full_next_page_path = "/" | append: page.category | append: '/' | append: page.subcategory | append: '/' | append: page.next | append: '.html' %}
+                  {% if full_next_page_path == site_page.url %}
+                    <a class="btn btn-secondary" href="{{ page.next }}.html">Proceed to: {{ site_page.title }}</a>   
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+
+            
+
+        </div>
+        
       </div>
       {% include footer.html %}
 

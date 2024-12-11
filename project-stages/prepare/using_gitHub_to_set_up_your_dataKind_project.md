@@ -2,7 +2,7 @@
 layout: default
 title: Using GitHub to Set Up Your DataKind Project
 date: 02/29/2024
-author: Caroline Charrow, Rachel Wells
+author: Benjamin Kinsella, Caroline Charrow, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare

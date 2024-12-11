@@ -2,7 +2,7 @@
 layout: default
 title: Project Technology Set-up
 date: 02/29/2024
-author: Benjamin Kinsella, Mallory Sheff, Vignesh Kumaresan
+author: Benjamin Kinsella, Mallory Sheff, Vignesh Kumaresan, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare

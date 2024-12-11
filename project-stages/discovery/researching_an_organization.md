@@ -2,7 +2,7 @@
 layout: default
 title: Researching an Organization + DataKind Value Alignment Check
 date: 02/29/2024
-author: Rachel Wells
+author: Caitlin Augustin, Benjamin Kinsella, Caroline Charrow, Gwen Hopkins, Jeremy Osborn, Nathan Banion, Daniel Nissani, Russatta Buford, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery

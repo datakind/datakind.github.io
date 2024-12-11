@@ -2,7 +2,7 @@
 layout: default
 title: Define Success Metrics and Create a Measurement Plan
 date: 02/29/2024
-author: Benjamin Kinsella
+author: Benjamin Kinsella, Jack Craft, Matthew Harris, Arina Igumenshcheva, Daniel Nissani, Daniel Nissani, William Ratcliff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

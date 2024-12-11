@@ -3,7 +3,7 @@ layout: default
 title: Setting up GenAI Tools and Technology
 subtitle:
 date: 02/29/2024
-author: John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky
+author: Deborshi Goswami, with help from Rachel Wells, Caroline Charrow, Francesca Bosco
 audience: Social Impact Professionals
 category: social-impact
 subcategory: genai

@@ -3,7 +3,7 @@ layout: default
 title: Discovery Resources
 subtitle:
 date: 02/29/2024
-author: Danning Chen, Matthew Harris, Nathan Banion, Mallory Sheff, Benjamin Kinsella, Shanna Lee
+author: Benjamin Kinsella, Matthew Harris, Shanna Lee, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery

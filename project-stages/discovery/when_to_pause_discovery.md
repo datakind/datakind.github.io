@@ -2,7 +2,7 @@
 layout: default
 title: When to Pause, Discontinue, or Decline a Project in the Discover Stage
 date: 02/29/2024
-author: Caitlin Augustin, Mitali Ayyangar, Emily Yelverton, Mallory Sheff, Rachel Wells
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery

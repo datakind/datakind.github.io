@@ -3,7 +3,7 @@ layout: default
 title: Assessing Data Maturity with DataKind
 subtitle:
 date: 02/29/2024
-author: Rachel Wells, Caroline Charrow, Fotis Zapantis
+author: Benjamin Kinsella, with help from Rachel Wells, Caroline Charrow, Fotis Zapantis
 audience: Social Impact Professionals
 category: social-impact
 subcategory: scoping

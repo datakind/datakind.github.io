@@ -59,8 +59,6 @@ menu:
         name: "Engineering"
       - id: genai
         name: "GenAI"
-      - id: governance
-        name: "Governance"
       - id: scoping
         name: "Scoping"
   - category:
@@ -75,6 +73,7 @@ menu:
         name: "Chapter Operations"
       - id: volunteer-management
         name: "Volunteer Management"
+
 
 include: ["_pages"]
 

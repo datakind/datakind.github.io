@@ -2,7 +2,7 @@
 layout: default
 title: Data Publication or Destruction
 date: 02/29/2024
-author: Benjamin Kinsella
+author: Benjamin Kinsella, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate

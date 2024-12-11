@@ -2,7 +2,7 @@
 layout: default
 title: Resource Hub for GenAI in the Social Sector
 date: 02/29/2024
-author: John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky
+author: Rachel Wells with help from John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky 
 audience: Social Impact Professionals
 category: social-impact
 subcategory: genai
@@ -170,7 +170,7 @@ Going deeper on AI:
 Safety solutions
 
 
-* Tools for controlling LM outputs: [Guardrails](https://www.guardrailsai.com/), [Outlines](https://outlines-dev.github.io/outlines/), [LMQL](https://lmql.ai/), and [SGLang](https://arxiv.org/pdf/2312.07104.pdf)
+* Tools for controlling LM outputs: [Guardrails](https://www.guardrailsai.com/), [LMQL](https://lmql.ai/), and [SGLang](https://arxiv.org/pdf/2312.07104.pdf)
 * Inference strategies to generate better outputs using calls to models and tools: [chain\-of\-thought](https://arxiv.org/pdf/2201.11903.pdf), [self\-consistency](https://arxiv.org/pdf/2203.11171.pdf), [WikiChat](https://arxiv.org/pdf/2305.14292.pdf), [RAG](https://arxiv.org/pdf/2005.11401.pdf)
 * [Red teaming AI: the devil is in the details](https://www.techpolicy.press/red-teaming-ai-the-devil-is-in-the-details/)
 * [Validating qualitative analysis done by GenAI](https://mandenews.blogspot.com/2023/08/evaluating-thematic-coding-and-text.html)

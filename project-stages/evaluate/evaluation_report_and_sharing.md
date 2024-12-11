@@ -2,7 +2,7 @@
 layout: default
 title: Evaluation Report and Sharing
 date: 02/29/2024
-author: Kenley Ambroise, Caroline Charrow
+author: Kenley Ambroise, Caroline Charrow, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate

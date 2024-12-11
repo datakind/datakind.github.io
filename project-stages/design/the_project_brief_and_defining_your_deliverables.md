@@ -2,7 +2,7 @@
 layout: default
 title: The Project Brief and Defining Your Deliverables
 date: 02/29/2024
-author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Rachel Wells, Caroline Charrow, Nathan Banion, Seward Lee
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

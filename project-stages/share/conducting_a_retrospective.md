@@ -2,7 +2,7 @@
 layout: default
 title: Conducting a Retrospective
 date: 02/29/2024
-author: Benjamin Kinsella, Mallory Sheff
+author: Benjamin Kinsella, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share

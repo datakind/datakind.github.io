@@ -2,7 +2,7 @@
 layout: default
 title: Documentation and Instructional Materials
 date: 02/29/2024
-author: Mitali Ayyangar, Benjamin Kinsella, Rachael Blake, Matthew Harris, Michael Dowd, Mallory Sheff, Rachel Wells
+author: Michael Dowd, Rachel Wells, Mitali Ayyangar, Benjamin Kinsella, Rachael Blake, Matthew Harris, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute

@@ -2,7 +2,7 @@
 layout: default
 title: Sharing Learnings Across DataKind and Beyond
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Caroline Charrow, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share

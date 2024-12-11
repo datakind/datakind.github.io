@@ -3,7 +3,7 @@ layout: default
 title: Data Storage and Security Practices when Partnering with DataKind
 subtitle:
 date: 02/29/2024
-author: Benjamin Kinsella, DKSF Chapter, Jeremy Osborn, Lawrence Kilroy, William Ratcliff, Dulcie Vousden, Edwin Zhang
+author:  Rachel Wells, with help from Mitali Ayyangar, Benjamin Kinsella, Abhishek Kapatkar, Caroline Charrow, Emily Yelverton, Jeremy Osborn, Lawrence Kilroy, William Ratcliff, Edwin Zhang, Sarah Lenet
 audience: Social Impact Professionals
 category: social-impact
 subcategory: scoping

@@ -3,7 +3,7 @@ layout: default
 title: Drafting Impact Maps and Project Statements
 subtitle:
 date: 02/29/2024
-author: Mitali Ayyangar, Cassy L Cox, Shanna Lee, Daniel Nissani, Jake Porway
+author: Mitali Ayyangar, Cassy L Cox, Shanna Lee, Daniel Nissani, Jake Porway, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery

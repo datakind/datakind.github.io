@@ -3,7 +3,7 @@ layout: default
 title: Blog Guidelines
 subtitle: How to Contribute to Our Blog
 date: 02/29/2024
-author: Caroline Charrow, Melissa, Rachel Wells
+author: Melissa DiLoreto, Benjamin Kinsella, Caroline Charrow, Rachel Wells
 audience: DataKind Volunteers
 category: volunteers
 subcategory: chapter-operations

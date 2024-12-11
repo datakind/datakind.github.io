@@ -3,7 +3,7 @@ layout: default
 title: Data Audit
 subtitle:
 date: 02/29/2024
-author: Benjamin Kinsella, Nathan Banion, Rachel Wells
+author: Benjamin Kinsella, Nathan Banion, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

@@ -3,7 +3,7 @@ layout: default
 title: Consider Existing Solutions
 subtitle:
 date: 02/29/2024
-author: Daniel Nissani
+author: Daniel Nissani, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery

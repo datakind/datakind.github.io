@@ -3,7 +3,7 @@ layout: default
 title: Data Discovery
 subtitle:
 date: 02/29/2024
-author: Benjamin Kinsella, Matthew Harris, Seward Lee
+author: Benjamin Kinsella, Matthew Harris, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery

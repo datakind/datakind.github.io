@@ -2,7 +2,7 @@
 layout: default
 title: When to Pause, Discontinue, or Decline a Project in the Design Stage
 date: 02/29/2024
-author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Arina Igumenshcheva, Mallory Sheff
+author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Arina Igumenshcheva, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design

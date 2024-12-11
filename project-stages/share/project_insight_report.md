@@ -2,7 +2,7 @@
 layout: default
 title: Project Insight Report
 date: 02/29/2024
-author: Caitlin Augustin, Benjamin Kinsella, Caroline Charrow, Nathan Banion, Rachel Wells
+author: Caitlin Augustin, Benjamin Kinsella, Caroline Charrow, Nathan Banion, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share

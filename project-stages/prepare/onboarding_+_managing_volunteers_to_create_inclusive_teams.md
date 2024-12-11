@@ -2,7 +2,7 @@
 layout: default
 title: Onboarding + Managing Volunteers to Create Inclusive Teams
 date: 02/29/2024
-author: Afua Bruce, Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff
+author: Afua Bruce, Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare

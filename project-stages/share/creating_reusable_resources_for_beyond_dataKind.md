@@ -2,7 +2,7 @@
 layout: default
 title: Creating Reusable Resources for Beyond DataKind
 date: 02/29/2024
-author: Caitlin Augustin, Benjamin Kinsella, Phil Azar
+author: Caitlin Augustin, Benjamin Kinsella, Phil Azar, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share

@@ -3,7 +3,7 @@ layout: default
 title: Key Terminology
 subtitle:
 date: 02/29/2024
-author: Rachel Wells
+author: Benjamin Kinsella, Caroline Charrow, Shanna Lee, Elana Stern, Rachel Wells
 audience: DataKind Volunteers
 category: volunteers
 subcategory: getting-started

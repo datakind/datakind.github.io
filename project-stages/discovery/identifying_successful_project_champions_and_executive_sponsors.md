@@ -2,7 +2,7 @@
 layout: default
 title: Identifying successful Project Champions and Executive Sponsors
 date: 02/29/2024
-author: Benjamin Kinsella, Caroline Charrow, Rachel Wells
+author: Benjamin Kinsella, Caroline Charrow, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery

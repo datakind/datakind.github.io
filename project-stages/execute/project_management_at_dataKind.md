@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Project Management at DataKind
 date: 02/29/2024
 author: Benjamin Kinsella, Daud Sikander, Beatrice Francesco, Jade Tabony, Jen A, Jeremy Osborn, Jeshua Bratman, Kate Mulroney, Ben Lewis, Maja Ferle, Manu Sharma, Ran Mao, Matthew Zhou, Smit Mehta, Shanshan Wang, A Sindhar, Stefan Hilts, Tahir Mahmood, Danielle Taneyo Saa, Terence Tam, Ada Tong, Tina Toni, Rachel Wells, Martijn Wieriks, Jony Zambrano
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
+previous: checking_in_with_the_partner_organization
+next: documentation_and_instructional_materials
 ---
 
 DataKind’s project management practices are embedded throughout the project process, and are therefore discussed throughout the playbook. This article focuses specifically on additional tips and best practices from volunteers, and recommendations for addressing common challenges.

@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Technical Quality Checks and Code Review
 date: 02/29/2024
 author: Benjamin Kinsella, Matthew Harris, Srivalya Elluru, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
+previous: evaluating_bias
+next: execution_checkpoints
 ---
 
 While you are building your minimum viable product and final solution, take care to ensure your solution is technically correct as you go. What this means will vary based on the project, but all projects should include:

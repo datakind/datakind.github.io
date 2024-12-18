@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Technical Project Hand-off, Systems Integration, and Supporting Initial Implementation
 date: 02/29/2024
 author: Benjamin Kinsella, Emily Yelverton, Kelson Shilling-Scrivo, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
+previous: project_insight_report
+next: presenting_to_partner_leadership
 ---
 
 ​​Since you aren’t the one who will be using the product you built, one of the most important things you will do is hand off your project’s deliverables and documentation to the partner organization. Doing this process well is critical for the project’s long\-term sustainability, so take time to organize your code, write up any findings, and create as standalone of a package as you can. 

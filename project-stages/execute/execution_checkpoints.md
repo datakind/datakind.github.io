@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: article
 title: Execution Checkpoints
 date: 02/29/2024
 author: Matthew Harris, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
+previous: technical_quality_checks_and_code_review
 ---
 
 The Execution stage is unique in that it has three checkpoints within it, instead of just one cumulative checkpoint at the end. For a reminder on how all checkpoints are conducted and how to prepare for them, see [Intro to Checkpoints](/project-stages/discovery/discovery_checkpoint). To conclude each checkpoint, Chapter Leaders and/or staff should make sure that all project information is up\-to\-date in Salesforce.

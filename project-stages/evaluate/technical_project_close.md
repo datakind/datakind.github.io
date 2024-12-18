@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Technical Project Close
 date: 02/29/2024
 author: Caroline Charrow, Emily Yelverton, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
+previous: data_publication_or_destruction
+next: evaluate_checkpoint
 ---
 
 Ensure that you have closed down all the technical and cloud environments as part of offboarding, so that data remains properly protected and DataKind’s systems and structures remain organized and set up for future projects. 

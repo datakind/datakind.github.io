@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Data Publication or Destruction
 date: 02/29/2024
 author: Benjamin Kinsella, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
+previous: evaluation_report_and_sharing
+next: technical_project_close
 ---
 
 At the end of every project, we need to make sure that we have a plan in place for appropriately taking care of the partner organization’s data. The decision for data publication or destruction should be made in partnership with the partner organization during the Design Stage, as part of the data management plan. Once the project is completed, review the policy selections and any wrap\-up steps in the [data management plan](/project-stages/design/data_storage_security_and_management_processes). Confirm the appropriate wrap\-up steps have been completed and update the data management plan to indicate who completed them and when. For more on responsible data destruction and retention, check out [The Engine Room's “Becoming RAD” resource](https://www.theengineroom.org/becoming-rad-new-resource-for-organisations-who-want-to-develop-plans-for-retention-archiving-and-disposal/).

@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Checking in with the Partner Organization
 date: 02/29/2024
 author: Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Seward Lee, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
+previous: index
+next: project_management_at_dataKind
 ---
 
 Regular check\-ins with the partner organization go a long way towards setting up your project for success. Regular communication with the Project Champion throughout the project ensures that progress and expectations are shared and updated in real\-time, and any roadblocks or pivots that require collaboration between the DataKind team and partner organization can be swiftly addressed. Typically, the Project Manager sets up these meetings while the Data Ambassador runs them.

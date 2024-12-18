@@ -1,12 +1,15 @@
 ---
-layout: default
+layout: article
 title: Data Storage, Security, and Management Processes
 date: 02/29/2024
 author: Benjamin Kinsella, DKSF Chapter, Jeremy Osborn, Lawrence Kilroy, William Ratcliff, Dulcie Vousden, Rachel Wells, Edwin Zhang
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: design_stage_launch_agreements
+next: data_audit
 ---
+
 Once you have signed contracts, you are ready to start working with the partner organization’s data! ata security and privacy are critical components to any data science project. Using the process below will help you understand how to identify, access, transfer, store, and/or dispose of sensitive data, so that we can appropriately manage data throughout the project process to mitigate risk and build trust with partners. DataKind is [GDPR compliant](https://gdpr.eu/), but more importantly, DataKind cares about protecting people's privacy to ensure our work remains in alignment with our values. For a full summary of DataKind’s data security standards and policies, see [this slide deck](https://drive.google.com/file/d/19H5Oeyfut1enu2H4v7-lw6MFQ0IpOznk/view).
 
 

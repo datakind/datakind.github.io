@@ -21468,7 +21468,7 @@ body.search-is-open .search-mask {
     position: relative;
     z-index: 2;
     background: #FFFFFF;
-    padding: 40px 0
+    padding: 0
 }
 
 @media (min-width: 1012px) {
@@ -21512,7 +21512,7 @@ body.search-is-open .search-mask {
         padding: 24px 0;
         flex-grow: 1;
         order: 1;
-        max-width: 60%
+        max-width: 80%
     }
 }
 
@@ -25473,3 +25473,8 @@ body.localhost:after {
 .search-results-ul span {
     font-style: italic;
 }
+
+.navigation-buttons {
+    display: flex;
+    justify-content: space-between;
+  }

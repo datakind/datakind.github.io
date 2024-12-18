@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+<body class="page-loading no-js developers-intro" id="page-developers-intro">
+  <a class="skip-to-content" href="#content">skip to content</a>
+
+  {% include menu.html %}
+  <main id="content" class="main page-content" aria-label="Content">
+    <article>
+      {% include page_header.html %}
+      <div class="wrapper py-4 mb-4 rte long-form">
+        {{ content }}
+
+        <p> <b>Contributer(s): </b>{{ page.author }}</p>
+
+        <div class="navigation-buttons" style="display: flex; justify-content: space-between;">
+            {% if page.previous == "index" %}
+              <a class="btn btn-secondary" href="index.html">Go back to the list of articles</a>
+            {% else %}
+              {% for site_page in site.html_pages %}
+                {% if site_page.name != "index.md" %}
+                  {% assign full_previous_page_path = "/" | append: page.category | append: '/' | append: page.subcategory | append: '/' | append: page.previous | append: '.html' %}
+                  {% if full_previous_page_path == site_page.url %}
+                    <a class="btn btn-secondary" href="{{ page.previous }}.html">Go back to: {{ site_page.title }}</a>   
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+
+            {% if page.next == "index" %}
+              <a class="btn btn-secondary" href="index.html">Go back to the list of articles</a>  
+            {% else %}
+              {% for site_page in site.html_pages %}
+                {% if site_page.name != "index.md" %}
+                  {% assign full_next_page_path = "/" | append: page.category | append: '/' | append: page.subcategory | append: '/' | append: page.next | append: '.html' %}
+                  {% if full_next_page_path == site_page.url %}
+                    <a class="btn btn-secondary" href="{{ page.next }}.html">Proceed to: {{ site_page.title }}</a>   
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+
+            
+
+        </div>
+        
+      </div>
+      {% include footer.html %}
+
+
+      <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+      <script src="/public/js/gsap.min.js"></script>
+      <script src="/public/js/swiper-bundle.min.js"></script>
+      <script src="/public/js/bundle.js"></script>
+      <script src="/public/js/main.js"></script>
+</body>
+
+</html>

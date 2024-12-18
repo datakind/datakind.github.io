@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Data Audit
 subtitle:
 date: 02/29/2024
@@ -7,6 +7,8 @@ author: Benjamin Kinsella, Nathan Banion, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: data_storage_security_and_management_processes
+next: evaluating_data_inclusion
 ---
 
 Before you begin designing the project, you’ll need to perform a Data Audit to ensure that a data science project is feasible and responsible. The main goal here is to confirm whether the available data can support a project that meets the objectives, in addition to identifying salient issues related to data provenance, quality, and ethics. It is not required that you exhaustively outline all available tables and variables (though this process may be helpful for you!). Rather, you're demonstrating a proof of concept, answering: “Given our objective, do these data have what we need?.” Use the  [Data Audit Report Template](https://docs.google.com/document/d/10QyBpO_0uNOtzQ4Kfqkw3cv-1wv-BjYP_VJj_zyYzwc/edit?usp=sharing) to ensure that you leave no stone unturned during your audit. 

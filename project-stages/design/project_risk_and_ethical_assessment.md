@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Project Risk and Ethical Assessment
 date: 02/29/2024
 author: Benjamin Kinsella, Manojit Nandi, Daniel Nissani, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: consulting_additional_key_stakeholders
+next: determine_technical_methodology
 ---
 
 Assessing and mitigating risks is imperative in any data science project. In addition to the strategies outlined in the [evaluating data inclusion article](evaluating_data_inclusion), use the following tips and considerations as you assess the ethics and risks of your potential project. Keep in mind that this guide is not meant to be comprehensive. Let the examples and suggestions below inspire you to think carefully about risks and determine your own evaluation approach that will ensure you are prepared to produce products that will be used for good.

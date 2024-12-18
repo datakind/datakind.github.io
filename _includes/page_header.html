@@ -1,0 +1,40 @@
+<header class="hero-banner">
+    <div class="wrapper">
+      <div class="hero-banner__content" data-animate-in="up">
+        <h1 class="h0 mt-0 text-black">{{ page.title }}</h1>
+        <p class="p-lg">{{ page.subtitle }}</p>
+      </div>
+    </div>
+  </header>
+  
+  <div class="wrapper ">
+    {% unless page.name == "index.md" %}
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+    
+        {% for category in site.menu %}
+          {% if category.id == page.category %}
+            <li class="breadcrumb-item"><a href="/{{ page.category }}">{{ category.name }}</a></li>
+            {% if category.subcategory %}
+              {% for subcategory in category.subcategory %}
+                {% if subcategory.id == page.subcategory %}
+                  <li class="breadcrumb-item"><a href="/{{ page.category }}/{{ page.subcategory }}">{{ subcategory.name }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+    
+        
+        <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+      </ol>
+    </nav>
+    <br/>
+    {% endunless %}
+    <div class="skill-level">
+      <p>
+        <b>Intended audience:</b>
+        <span>{{ page.audience }}</span>
+      </p>
+    </div>
+  </div>

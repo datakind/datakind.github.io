@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Consulting Additional Key Stakeholders
 date: 02/29/2024
 author: Afua Bruce, Mitali Ayyangar, Benjamin Kinsella, Cassy L Cox, Nathan Banion, Rachel Wells, Caitlin Augustin, Emily Yelverton, Daniel Nissani, Phil Azar, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: evaluating_data_inclusion
+next: project_risk_and_ethical_assessment
 ---
 
 DataKind’s best work is done when we are able to include both subject matter experts and local stakeholders in the Design Stage \- each group can provide invaluable context and insights to inform project design.

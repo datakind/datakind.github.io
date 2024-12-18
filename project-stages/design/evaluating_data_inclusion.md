@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Evaluating Data Inclusion
 date: 02/29/2024
 author: Caitlin Augustin, Benjamin Kinsella, Emily Yelverton, Jeremy Osborn, Manojit Nandi, Daniel Nissani, Phil Azar, William Ratcliff, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: data_audit
+next: consulting_additional_key_stakeholders
 ---
 
 Data inclusion ensures the data are representative and are not missing any people, variables, communities, or indicators. Evaluating possible data inclusion risks means understanding the assumptions that are made when collecting, curating, or tagging data by evaluating the abstract notions of data, what’s included, and decisions that were made in collection. 

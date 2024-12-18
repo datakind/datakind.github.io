@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: The Service Agreement
 date: 02/29/2024
 author: Gwen Hopkins, Shanna Lee, Russatta Buford, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: the_project_brief_and_defining_your_deliverables
+next: when_to_pause_design
 ---
 
 Congratulations \-\- if you’ve made it to the Services Agreement, that means you’re ready to launch a project! How exciting! But before you jump right into the project work, note that roughly 10 business days are needed for DataKind’s Operations Team to complete a contract review, and this MUST be in place before any work is done.

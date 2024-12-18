@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Data Science Software and Tools
 date: 02/29/2024
 author: Neal Fultz, Arina Igumenshcheva, Nathan Banion, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: define_success_metrics_and_create_a_measurement_plan
+next: the_project_brief_and_defining_your_deliverables
 ---
 
 As you design your project, you’ll reach a point where you’ll need to decide what data science tools to use. As you assess whether a tool is a good fit for this project, consider:

@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Determine Technical Methodology
 date: 02/29/2024
 author: Benjamin Kinsella, Srivalya Elluru, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
+previous: data_storage_security_and_management_processes
+next: evaluating_data_inclusion
 ---
 
 At DataKind, our [working definition of data science](/volunteers/getting-started/key_terminology) is using computers to interpret data, model relationships in data, and create data\-driven algorithms. This often involves the use of advanced analytical and computational techniques to extract new information from novel data sources, usually for the sake of supporting organizational decision making or increasing efficiency. To sum it up then, data science is the necessary processing of otherwise overwhelming and messy information to help our human brains make better decisions.

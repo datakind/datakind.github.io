@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Quantitative Evaluation
 date: 02/29/2024
 author: Benjamin Kinsella, Caroline Charrow, Manojit Nandi, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
+previous: index
+next: qualitative_evaluation
 ---
 
 Quantitatively evaluating the project is all about measuring success in the way that the partner organization defines success. In this part of the evaluation, DataKind checks in with the partner organization to ensure that they have completed the [measurement plan](/project-stages/design/define_success_metrics_and_create_a_measurement_plan) agreed upon during the Design Stage and asks for the results.

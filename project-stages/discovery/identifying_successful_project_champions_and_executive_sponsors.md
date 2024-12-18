@@ -6,6 +6,8 @@ author: Benjamin Kinsella, Caroline Charrow, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: researching_an_organization
+next: assessing_data_maturity
 ---
 
 The partner organization team is made up of a few key roles, sometimes with one person serving multiple roles: 

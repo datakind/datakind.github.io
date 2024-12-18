@@ -7,7 +7,8 @@ author: Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Emily Yelverton, D
 audience: DataKind Volunteers
 category: project-stages
 subcategory: design
-order:
+previous: identifying_successful_project_champions_and_executive_sponsors
+next: drafting_impact_maps_and_project_statements
 ---
 
 Assessing an organization’s data maturity - broadly, its ability to collect and use data, internally and externally \- is an important step when determining both the fit of a potential project and the organization’s capacity to use and sustain a data science solution.

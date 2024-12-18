@@ -7,6 +7,8 @@ author: Daniel Nissani, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: drafting_impact_maps_and_project_statements
+next: data_discovery
 ---
 
 Checking that there is no obvious alternative or existing transferable solution before agreeing to complete a project is essential, because being able to learn from, apply, and expand other people’s work instead of starting from scratch is typically worth the time it takes to onboard to the existing solutions. Here are some tips and places to look for existing solutions: 

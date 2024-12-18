@@ -7,6 +7,8 @@ author: Mitali Ayyangar, Cassy L Cox, Shanna Lee, Daniel Nissani, Jake Porway, R
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: assessing_data_maturity
+next: consider_existing_solutions
 ---
 
 *“This is THE MOST IMPORTANT part of the entire DK process… converting an ill\-formed business problem into a data science\-ready project is absolutely the key to success.”* \- Jake Porway, DataKind's founder and Executive Director of nine years

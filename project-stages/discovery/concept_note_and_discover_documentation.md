@@ -7,6 +7,8 @@ author: Benjamin Kinsella, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: data_discovery
+next: when_to_pause_discovery
 ---
 
 Once you have finished your discovery calls and research, you will create a concept note with high level information on the potential project to share with the partner organization to guide them in deciding if they would like to move forward into the Design Stage. It should include the project statement ideas, impact maps, a summary of the data science project ideas, and a summary of the project ethical considerations. Refer to the [concept note template](https://docs.google.com/document/d/1ZoFgERgTtYIpmV7FxaCq6uBU_6eante7T_Mb8gpas3U/edit)  and this  [sample completed concept note](https://docs.google.com/document/d/1mZC3vStTw3uSXINb7vC0LFrczg1qsVExQSPs5N3J64k/edit).

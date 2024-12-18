@@ -6,6 +6,8 @@ author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: index
+next: discovery_resources
 ---
 
 ##### Overview

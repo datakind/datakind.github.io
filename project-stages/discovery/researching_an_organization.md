@@ -6,6 +6,8 @@ author: Caitlin Augustin, Benjamin Kinsella, Caroline Charrow, Gwen Hopkins, Jer
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: discovery_stage_question_bank
+next: identifying_successful_project_champions_and_executive_sponsors
 ---
 
 Before initiating a project, you’ll need to conduct due diligence research to make sure that the potential partner organization is a good fit for a DataKind collaboration. If the organization doesn’t have a positive reputation and mission that’s aligned with DataKind’s mission or values, especially our values around diversity, equity, and inclusion, there’s really no potential for a project. Checking for DataKind value alignment includes four primary checks:

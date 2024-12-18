@@ -7,6 +7,8 @@ author: Benjamin Kinsella, Matthew Harris, Shanna Lee, Mallory Sheff, Rachel Wel
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: overview_of_the_discovery_stage
+next: discovery_calls
 ---
 
 ##### Email templates

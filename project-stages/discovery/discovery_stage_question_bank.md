@@ -7,6 +7,8 @@ author: Caitlin Augustin, Caroline Charrow, Jack Craft, Erin Antcliffe, Matthew 
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: discovery_calls
+next: researching_an_organization
 ---
 
 Discovering a project starts with problem identification. As you seek to understand the partner and its pain points, consider using the organization's pre\-mapped logic models based on their theory of change. Work together to draft problem statement(s). In doing this, you can consider asking:

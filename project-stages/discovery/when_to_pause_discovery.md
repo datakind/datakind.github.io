@@ -6,6 +6,8 @@ author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, M
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: concept_note_and_discover_documentation
+next: discovery_checkpoint
 ---
 
 Saying “no” to a partner is always difficult, especially if you have invested time scoping a project. However, you’re responsible for identifying and scoping high quality data science projects, and that means that you may be faced with the decision to pause or discontinue a potential project. Whatever the reason you are unable to move forward with a project in the current moment, clearly communicate the rationale with the partner \- your role is to guide potential projects that could eventually advance the data science for social good space, and just because a partner isn’t a good fit now doesn’t mean they won’t be in the future.

@@ -6,6 +6,8 @@ author: Caitlin Augustin, Caroline Charrow, Jack Craft, Erin Antcliffe, Matthew 
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: discovery_resources
+next: discovery_stage_question_bank
 ---
 
 The process of exploring a potential project with a partner organization should begin with discovery calls. These calls are an opportunity to deeply understand the organization and the form a potential project may take. Since finding problems can often be harder than finding solutions, productive and creative conversations at this stage can uncover information that will shape a potential project’s focus, impact, and sustainability.

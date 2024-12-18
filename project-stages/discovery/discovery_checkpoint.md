@@ -7,6 +7,7 @@ author: Jai B, Bhargav Kowshik, Tina Toni, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: when_to_pause_discovery
 ---
 
 ##### Introduction to Checkpoints

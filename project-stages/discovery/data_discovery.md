@@ -7,6 +7,8 @@ author: Benjamin Kinsella, Matthew Harris, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: discovery
+previous: consider_existing_solutions
+next: concept_note_and_discover_documentation
 ---
 
 A data science project is only possible if there’s data to work with, so you’ll need to ensure that the partner organization can provide ready access to the necessary data. At this stage, you’ll want to gain a preliminary understanding of:

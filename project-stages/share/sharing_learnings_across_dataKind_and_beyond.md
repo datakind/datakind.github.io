@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Sharing Learnings Across DataKind and Beyond
 date: 02/29/2024
 author: Benjamin Kinsella, Caroline Charrow, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
+previous: presenting_to_partner_leadership
+next: creating_reusable_resources_for_beyond_dataKind
 ---
 
 Did you learn anything while doing this project that might be valuable for other DataKinders to know about? Did you do something that worked really well that you would love to share so that others can repeat your success, or make a mistake that you want to make sure others can learn from? 

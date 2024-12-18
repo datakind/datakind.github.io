@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Evaluation Report and Sharing
 date: 02/29/2024
 author: Kenley Ambroise, Caroline Charrow, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
+previous: what_if_the_organization_requests_additional_support
+next: data_publication_or_destruction
 ---
 
 Now that you have gathered data about the impact of the project and feedback from the project stakeholders, summarize the findings in a brief report that can be shared with everyone involved in the project and beyond, so that everyone can learn from the project. 

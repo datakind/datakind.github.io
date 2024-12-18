@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: article
 title: Share Checkpoint
 date: 02/29/2024
 author: Benjamin Kinsella, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
+previous: finalize_the_evaluation_plan
 ---
 
 The Share Checkpoint is the final step before thanking and celebrating the volunteer team! This Checkpoint is a time to ensure all the components of this stage have happened. Most importantly, the Share Checkpoint is the time to ensure that the project has been successfully handed over to the partner organization and that everything has been properly documented before volunteers off\-board. Make sure the plan for the Evaluate Stage is in place and next steps for the volunteers’ engagement with DataKind are lined up.

@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Coding and Working with Data at DataKind
 date: 02/29/2024
 author: Shahab Arabshahi, Benjamin Kinsella, Tyler Dorland, Neal Fultz, Kavita Maheshwari, Michael Dowd, Daniel Nissani, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
+previous: documentation_and_instructional_materials
+next: gitHub_workflow
 ---
 
 ##### Working with Data

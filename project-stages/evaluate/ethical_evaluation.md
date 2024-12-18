@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Ethical Evaluation
 date: 02/29/2024
 author: Caitlin Augustin, Benjamin Kinsella, Emily Yelverton, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
+previous: qualitative_evaluation
+next: what_if_the_organization_requests_additional_support
 ---
 
 In the Evaluate Stage, it is essential to revisit the project with an ethical lens. At DataKind, we are always looking for possible unintended data science project issues, challenges, or consequences. This practice includes ensuring the model or data product is not passed to the wrong people, that it is used for good, and that there are no potential biases or disparate impacts against certain demographic groups baked into any models, operational tools, or project results. In order to evaluate the project with an ethical lens after it’s been completed, consider the following: 

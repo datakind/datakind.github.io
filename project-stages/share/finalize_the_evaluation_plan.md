@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Finalize the Evaluation Plan
 date: 02/29/2024
 author: Caitlin Augustin, Mitali Ayyangar, Caroline Charrow, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
+previous: conducting_a_retrospective
+next: share_checkpoint
 ---
 
 While the evaluation plan should have already been discussed during the design stage, during hand\-off it’s essential to confirm the details of the evaluation plan with the Project Champion so they are prepared to participate as needed in the project evaluation. This step can most easily be written out in a brief email, and should answer the following questions:

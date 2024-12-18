@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Qualitative Evaluation
 date: 02/29/2024
 author: Kenley Ambroise, Caitlin Augustin, Mitali Ayyangar, Balasubramaniam Theetharappan, Benjamin Kinsella, Emily Yelverton, Shanna Lee, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
+previous: quantitative_evaluation
+next: ethical_evaluation
 ---
 
 Qualitatively evaluating the project is all about understanding the context and gathering supplemental information about impact that isn’t captured quantitatively. This can be done a number of ways, so the guidelines are flexible to fit with your specific project’s needs, although some form of interview is the most common. Here are some best practices when conducting an evaluation interview:

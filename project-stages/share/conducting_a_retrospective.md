@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Conducting a Retrospective
 date: 02/29/2024
 author: Benjamin Kinsella, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
+previous: creating_reusable_resources_for_beyond_dataKind
+next: finalize_the_evaluation_plan
 ---
 
 An internal project retrospective (retro) is an essential part of documenting your learnings so that we can constantly improve our work at DataKind. We use the results of retrospectives to inform how we work on other projects, improve DataKind’s practices, and do higher quality data science for good projects that drive social impact.

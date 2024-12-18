@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Documentation and Instructional Materials
 date: 02/29/2024
 author: Michael Dowd, Rachel Wells, Mitali Ayyangar, Benjamin Kinsella, Rachael Blake, Matthew Harris, Mallory Sheff
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
+previous: project_management_at_dataKind
+next: coding_and_working_with_data_at_dataKind
 ---
 
 As a reminder, everything about your project should be documented in the [Google Drive folder](https://playbook.datakind.org/playbook/articles/20) (project plans, meetings notes, etc…) or [GitHub page](/project-stages/execute/gitHub_workflow) (code and code documentation). As a DataKind volunteer, you are committed to maintaining documentation of your own work.

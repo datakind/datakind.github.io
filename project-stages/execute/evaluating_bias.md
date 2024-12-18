@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Evaluating Bias
 date: 02/29/2024
 author: Benjamin Kinsella, William Ratcliff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
+previous: gitHub_workflow
+next: technical_quality_checks_and_code_review
 ---
 
 In the Design Stage the team considered [project risks](/project-stages/design/project_risk_and_ethical_assessment), [data inclusion](/project-stages/design/evaluating_data_inclusion), and [community accountability](/project-stages/design/consulting_additional_key_stakeholders). Having thought carefully about potential risks and outlined mitigation strategies, you’re now at the Execute Stage and must continuously revisit and evaluate bias in your proposed technical solution. There are not only risks associated with data inclusion and model trustworthiness, but also biases to be considered during general project management and execution. 

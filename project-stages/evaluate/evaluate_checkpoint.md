@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: article
 title: Evaluate Checkpoint
 date: 02/29/2024
 author: Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
+previous: technical_project_close
 ---
 
 The Evaluate Checkpoint is the final step of a project before sharing the evaluation learnings and permanently closing the project. Most importantly, the Evaluate Checkpoint is the time to ensure that the project has been fully evaluated, that the partner organization is supported in sustaining what was delivered, and that everything has been properly documented (including learnings) before the project is permanently closed. 

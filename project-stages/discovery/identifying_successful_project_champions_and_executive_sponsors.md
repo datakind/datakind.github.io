@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Identifying successful Project Champions and Executive Sponsors
 date: 02/29/2024
 author: Benjamin Kinsella, Caroline Charrow, Seward Lee, Rachel Wells

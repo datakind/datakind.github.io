@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Project Technology Set-up
 date: 02/29/2024
 author: Benjamin Kinsella, Mallory Sheff, Vignesh Kumaresan, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: onboarding_+_managing_volunteers_to_create_inclusive_teams
+next: using_gitHub_to_set_up_your_dataKind_project
 ---
 
 Setting up all the necessary technology before launching a project is essential to set volunteers up for successful collaboration and engagement. From our experience, saving set up until after project launch means you’ll be playing catch up and constantly reminding volunteers where to look for things throughout the project. It’s best to have all the collaboration spaces set up from the very beginning, and introduce this technology during team orientation. 

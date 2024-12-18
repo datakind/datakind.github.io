@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Project Execution Plan
 date: 02/29/2024
 author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Devangana Khokhar, Emily Yelverton, Asnat Ghebremedhin, Shanna Lee, Pui Kwan (PJ) Lee, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: volunteer_team_coordination
+next: prepare_checkpoint
 ---
 
 The project plan is for internal team project management, so draft it in whatever tool or system will work best for you and your team. When you need to report back and summarize key milestones for the partner organization, update the [Project Brief](/project-stages/design/the_project_brief_and_defining_your_deliverables) with that information. 

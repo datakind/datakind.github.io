@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Concept Note and Discover Documentation
 subtitle:
 date: 02/29/2024

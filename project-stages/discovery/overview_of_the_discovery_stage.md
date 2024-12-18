@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Overview of the Discovery Stage
 date: 02/29/2024
 author: Rachel Wells

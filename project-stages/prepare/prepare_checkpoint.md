@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: article
 title: Prepare Checkpoint
 date: 02/29/2024
 author: Benjamin Kinsella, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: project_execution_plan
 ---
 
 The Prepare Checkpoint is to ensure that you have time to finalize the detailed project plan. This is important because creating a project plan with clear stages and checkpoints, in addition to being customized to fit the project’s unique needs, is challenging. Confirm that you all agree with the number and frequency of checkpoints planned. You don’t want to go too long without checking in on project progress! Once everyone is happy with the project plan, sign off on the project to begin execution.

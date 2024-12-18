@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Volunteer Recruitment and Retention
 date: 02/29/2024
 author: Shanna Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: writing_volunteer_role_descriptions
+next: diversity_and_ethics_in_volunteer_team_selection
 ---
 
 One of the most challenging responsibilities of Chapter Leaders is sustaining experienced volunteers between projects and supporting individual volunteers in their volunteer experience across projects. You can always connect with your DataKind staff support person for guidance and assistance with volunteer recruitment.

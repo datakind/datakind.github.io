@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Orienting Volunteers
 date: 02/29/2024
 author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Shanna Lee, Melissa, Michael Dowd, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: using_gitHub_to_set_up_your_dataKind_project
+next: volunteer_team_coordination
 ---
 
 Here’s what we recommend for orienting volunteers :

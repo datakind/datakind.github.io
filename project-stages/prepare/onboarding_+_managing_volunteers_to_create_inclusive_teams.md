@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Onboarding + Managing Volunteers to Create Inclusive Teams
 date: 02/29/2024
 author: Afua Bruce, Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: must_do_volunteer_agreements
+next: project_technology_set-up
 ---
 
 [Recruiting a diverse team](/project-stages/prepare/diversity_and_ethics_in_volunteer_team_selection) does no good if there aren’t practices in place to ensure that the team is inclusive and equitable. Onboarding and training all volunteers in these practices ensures everyone can truly feel welcome. 

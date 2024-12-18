@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Writing Volunteer Role Descriptions
 date: 02/29/2024
 author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Emily Yelverton, Shanna Lee, Manojit Nandi, Nelsa Peña, Daniel Nissani, Mallory Sheff, Rachel Wells, Martijn Wieriks
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: index
+next: voluntee_recruitment_and_retention
 ---
 
 ***"Great vision without great people is irrelevant."*** \- James Collins

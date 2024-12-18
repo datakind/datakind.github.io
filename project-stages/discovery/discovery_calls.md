@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Discovery Calls
 date: 02/29/2024
 author: Caitlin Augustin, Caroline Charrow, Jack Craft, Erin Antcliffe, Matthew Harris, Arina Igumenshcheva, Ben Lebovitz, Sebastien Ouellet, Seward Lee, Srivalya Elluru, Dulcie Vousden, Rachel Wells

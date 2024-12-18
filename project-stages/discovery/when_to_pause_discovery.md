@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: When to Pause, Discontinue, or Decline a Project in the Discover Stage
 date: 02/29/2024
 author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Emily Yelverton, Mallory Sheff, Rachel Wells

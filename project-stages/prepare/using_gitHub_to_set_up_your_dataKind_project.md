@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Using GitHub to Set Up Your DataKind Project
 date: 02/29/2024
 author: Benjamin Kinsella, Caroline Charrow, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: project-stages/prepare/project_technology_set-up
+next: orienting_volunteers
 ---
 
 This article documents GitHub’s Actions template, developed for DataKind to assist your project work. It includes a summary of how to use GitHub’s action templates and how to contribute for future improvements of the project. 

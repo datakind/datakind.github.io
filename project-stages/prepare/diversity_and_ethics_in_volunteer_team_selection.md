@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Diversity and Ethics in Volunteer Team Selection
 date: 02/29/2024
 author: Caitlin Augustin, Mitali Ayyangar, Benjamin Kinsella, Caroline Charrow, Shanna Lee, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: voluntee_recruitment_and_retention
+next: must_do_volunteer_agreements
 ---
 
 Recruiting a diverse team with multiple viewpoints and skill sets is critical to creating high quality and ethical work. Diversity is the presence of differences within a group, e.g. in terms of race, gender, religion, sexual orientation, ethnicity, nationality, socioeconomic status, language, (dis)ability, age, religious commitment, or political perspective. At DataKind, we aim to build diverse teams and foster an inclusive environment in alignment with our values.

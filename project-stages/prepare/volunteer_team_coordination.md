@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Volunteer Team Coordination
 date: 02/29/2024
 author: Shanna Lee, Daniel Nissani, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: orienting_volunteers
+next: project_execution_plan
 ---
 
 Volunteer team coordination is a special type of project leadership. It’s not easy; you can’t lead a volunteer team with the same tools that you’d have in a paid corporate role. But when you have a team of volunteers enthusiastically engaged in making the world a little better, it’s an amazing sight to behold. 

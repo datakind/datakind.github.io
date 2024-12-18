@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Assessing Data Maturity
 subtitle:
 date: 02/29/2024

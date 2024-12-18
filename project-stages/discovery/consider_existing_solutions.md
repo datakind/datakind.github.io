@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Consider Existing Solutions
 subtitle:
 date: 02/29/2024

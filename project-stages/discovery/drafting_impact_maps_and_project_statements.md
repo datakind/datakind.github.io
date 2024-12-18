@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Drafting Impact Maps and Project Statements
 subtitle:
 date: 02/29/2024

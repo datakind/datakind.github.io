@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Volunteer Agreements
 date: 02/29/2024
 author: Afua Bruce, Caroline Charrow, Russatta Buford, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: prepare
+previous: diversity_and_ethics_in_volunteer_team_selection
+next: onboarding_+_managing_volunteers_to_create_inclusive_teams
 ---
 
 Once selected for a project, all DataKind volunteers must have a signed volunteer agreement on file before starting to work with DataKind. If someone on a project has volunteered with DataKind before, ensure that their volunteer agreement is on file. If not, ask them to sign a new one. 

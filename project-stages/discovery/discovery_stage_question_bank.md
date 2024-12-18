@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Discovery Stage Question Bank
 subtitle:
 date: 02/29/2024

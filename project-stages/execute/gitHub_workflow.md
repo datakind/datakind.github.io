@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: GitHub Workflow
 date: 02/29/2024
 author: Rachael Blake, Harrison Li, Mallory Sheff, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: execute
+previous: coding_and_working_with_data_at_dataKind
+next: evaluating_bias
 ---
 
 Feel free to adjust this suggested GitHub workflow as it works best for your DataKind team to organize your code collaboration. We also welcome feedback and suggestions, as we continue to improve how we work together!

@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Project Insight Report
 date: 02/29/2024
 author: Caitlin Augustin, Benjamin Kinsella, Caroline Charrow, Nathan Banion, Seward Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
+previous: index
+next: technical_project_hand-off
 ---
 
 As a final deliverable, consider writing an Insight Report for the partner organization. This report explains the project in a clear and succinct manner, so that your Project Champion can share it with colleagues and/or senior management to promote your recommendations. This document will be more technical and include graphs and visuals, alongside supporting text. Whether you decide to document the project results for the partner organization in a report or a presentation, make sure to include the following sections:

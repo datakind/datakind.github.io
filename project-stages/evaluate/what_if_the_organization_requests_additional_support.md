@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: What if the Organization Requests Additional Support?
 date: 02/29/2024
 author: Benjamin Kinsella, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: evaluate
+previous: ethical_evaluation
+next: evaluation_report_and_sharing
 ---
 
 As part of the qualitative evaluation, you asked the organization whether there is any additional support they might need. This question can lead to a number of different situations, all of which require careful discernment to establish the appropriate next steps.

@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Presenting to Partner Leadership
 date: 02/29/2024
 author: Benjamin Kinsella, Shanna Lee, Rachel Wells
 audience: DataKind Volunteers
 category: project-stages
 subcategory: share
+previous: technical_project_hand-off
+next: sharing_learnings_across_dataKind_and_beyond
 ---
 
 You set your project up for success at the beginning by making sure that the partner organization’s leadership was bought in, now continue that investment by concluding with a presentation to the organization’s leadership, and maybe even their board, to demonstrate what you built, how they can use it, and why they should care. It is never appropriate to just send a zip file to your partner organization and be done with things. Continued leadership investment makes an organization more likely to adopt and continue using your deliverables

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: GenAI Use Case Selection and Risk Assessment
 subtitle:
 date: 02/29/2024
@@ -7,6 +7,8 @@ author: Rachel Wells with help from Deborshi Goswami, Alice Kershaw, Daniel Niss
 audience: Social Impact Professionals
 category: social-impact
 subcategory: genai
+previous: getting_started_with_GenAI
+next: setting_up_GenAI_tools_and_technology
 ---
 
 Once you’ve made your way through steps one through four in the Playbook article “Getting Started with GenAI,” you might be ready to evaluate and select your first GenAI use case. This article is intended for anyone at social impact organizations engaging in the strategic design and decision making around GenAI use cases and risk mitigation, accessible and useful to both technical and nontechnical audiences.

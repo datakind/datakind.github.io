@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: article
 title: GenAI Playbook Credits and Acknowledgements
 subtitle:
 date: 02/29/2024
 audience: Social Impact Professionals
 category: social-impact
 subcategory: genai
+previous: resource_hub_for_genAI_in_the_social_sector
 ---
 
 Many social impact organization professionals and volunteers contributed to the creation of this Playbook, in addition to authors and contributors mentioned in the specific articles. We’d like to acknowledge and thank: 

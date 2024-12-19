@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Getting Started with GenAI
 date: 02/29/2024
 author: Matthias Boeck, with help from Rachel Wells, Deborshi Goswami, Daniel Nissani, Caroline Charrow
 audience: Social Impact Professionals
 category: social-impact
 subcategory: genai
+previous: index
+next: genAI_use_case_selection_and_risk_assessment
 ---
 
 Social impact organization professionals who have not started to make use of GenAI or just started out testing different tools often come to a point where they need to make active decisions such as:

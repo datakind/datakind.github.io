@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: article
 title: Resource Hub for GenAI in the Social Sector
 date: 02/29/2024
 author: Rachel Wells with help from John Harnisher, Matt Harris, Lindsey Washburn, Kathleen Yaworsky 
 audience: Social Impact Professionals
 category: social-impact
 subcategory: genai
+previous: using_LLMs_as_a_tool_for_scaling_data_standardization_and_cleaning
+next: genAI_playbook_credits_and_acknowledgements
 ---
 
 Looking for more? This field is constantly changing, but here are some resources that DataKind finds particularly useful for social impact organizations considering using Generative AI. 

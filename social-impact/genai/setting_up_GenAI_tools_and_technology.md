@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Setting up GenAI Tools and Technology
 subtitle:
 date: 02/29/2024
@@ -7,6 +7,8 @@ author: Deborshi Goswami, with help from Rachel Wells, Caroline Charrow, Frances
 audience: Social Impact Professionals
 category: social-impact
 subcategory: genai
+previous: genAI_use_case_selection_and_risk_assessment
+next: using_LLMs_as_a_tool_for_scaling_data_standardization_and_cleaning
 ---
 
 The final step in getting started with Generative AI is to set up tools and integrate them into your technology stack to give proper access to everyone. This article is the bridge between the broad strategic elements of this Playbook and the technical implementation, diving into implementation specifics for technical audiences.

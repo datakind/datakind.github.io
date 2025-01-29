@@ -37,4 +37,4 @@ Here is a [sample step\-by\-step guide to complete \#1 above](https://github.com
 Alternatively, [this OpenAI on Azure service](https://azure.microsoft.com/en-us/products/ai-services/openai-service) allows for a more private (although also more expensive) use of OpenAI’s tool. Ensure you are mindful of OpenAI’s [data privacy](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy) in all that you do and make decisions accordingly, even in your initial tests.
 
 
-Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
+Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/social-impact/scoping/>

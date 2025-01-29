@@ -124,7 +124,7 @@ On top of careful scoping to select a safer use case and general policies to mit
 It’s important to note that although GenAI is very easy for anyone to use, there is a learning curve to ensuring safety by design. Using these tools responsibly requires an investment of time to develop staff skills, implement these solutions, and continuously test and monitor. 
 
 
-Pulling it all together, here’s an [example of what this AI risk evaluation looks like](https://docs.google.com/spreadsheets/d/1sM_TKqu5zmazZGtNvkwSvHSmXDZZeXV8/edit#gid=1135542121) in The Wildlife Trusts’ effort led by Alice Kershaw. They have generously shared their working draft built with DataKind volunteer Daniel Nissani after participating in a [DataKind Learning Circle](https://www.datakind.org/2023/10/17/introducing-datakind-learning-circles/), so that you can see a real life example of how this might play out in your social impact organization. Find more examples in the [GenAI Resource Hub](https://datakind.github.io/resource_hub_for_genAI_in_the_social_sector.html). 
+Pulling it all together, here’s an [example of what this AI risk evaluation looks like](https://docs.google.com/spreadsheets/d/1sM_TKqu5zmazZGtNvkwSvHSmXDZZeXV8/edit#gid=1135542121) in The Wildlife Trusts’ effort led by Alice Kershaw. They have generously shared their working draft built with DataKind volunteer Daniel Nissani after participating in a [DataKind Learning Circle](https://www.datakind.org/2023/10/17/introducing-datakind-learning-circles/), so that you can see a real life example of how this might play out in your social impact organization. Find more examples in the [GenAI Resource Hub](https://datakind.github.io/social-impact/genai/resource_hub_for_genAI_in_the_social_sector.html). 
 
 
 ##### Making a decision
@@ -154,4 +154,4 @@ For example, see the table below for examples of risk and guardrails specific to
 This about how harmful the risk is, beneficial the use case is, and feasible the mitigation approach identified is. Creating a table like the one above to unpack the use cases you are considering will help you prioritize and select a starting use case. 
 
 
-Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
+Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/social-impact/scoping/>

@@ -97,4 +97,4 @@ Start your journey with a book: [Fundamentals of Data Engineering](https://www.o
 * Incorporate data governance and security across the data engineering lifecycle
 
 
-Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/scoping.html>
+Please see other "scoping" articles for social impact organizations, just like seen at the bottom of the page here: <https://datakind.github.io/social-impact/scoping/>
